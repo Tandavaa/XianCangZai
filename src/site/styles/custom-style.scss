@@ -3,11 +3,108 @@ body {
       ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+code {
+  font-size: inherit;
+  line-height: inherit;
+  font-family: inherit;
+  color: inherit;
+  font-weight: normal;
+  border: 1px solid #ebc65a;
+  background: #fff;
+  box-shadow: 0.2em 0.2em 0 0 #ebc65a;
+  padding: 0.1em 0.4em;
+  margin: 0 0.4em;
+  vertical-align: center;
+}
+
+h1 {
+  font-weight: normal;
+  text-indent:18px;
+    color: #126e82;
+}
+
+h2 {
+	text-indent: 18px;
+	font-weight: normal;
+    color: #126e82;
+}
+
+h3 {
+  font-weight: normal;
+  text-indent:18px;
+    color: rgb(214,168,65);
+}
+
+h4 {
+  font-weight: normal;
+  text-indent:18px;
+    color: #059859;
+}
+
+h5 {
+  text-indent:18px;
+  font-weight: normal;
+    color: #f23d20;
+}
+
+h6 {
+    font-size: 1.5rem;
+  line-height: 2.8rem;
+  font-weight: normal;
+  background: black;
+  color: white;
+  display: inline;
+}
+
+em {
+  color: #126e82;
+  font-style: normal;
+}
+
+small {
+  color: #999ea2;
+  font-style: normal;
+  font-size: 1rem;
+}
+
+big {
+  color: rgb(214,168,65);
+  font-style: normal;
+  font-size: 1rem;
+}
+
+strong {
+  color: rgb(214,168,65);
+  font-style: normal;
+}
+
+cite {
+  color: #999ea2;
+  font-style: normal;
+  text-align: right;
+  float: right;
+}
+
+sup {
+  color: #126e82;
+  vertical-align: super;
+  font-style: normal;
+}
+
+sub {
+  color: rgb(214,168,65);
+}
+
+pre {
+  font-style: normal;
+  font-family: inherit;
+}
+
+kbd {
+  font-size: 1.0rem;
+  font-weight: normal;
+  background: black;
+  color: white;
+  display: inline;
+}
 }
