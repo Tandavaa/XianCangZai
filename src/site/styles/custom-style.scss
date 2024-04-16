@@ -1,15 +1,15 @@
+
 body {
-    /***
-      ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    
-    font-family: simfang;
-    
+
+--h1-font: sans-serif;
+--h1-color: #999ea2;
+
+}
+
 code {
   font-size: inherit;
   line-height: inherit;
-  font-family: simfang;
+  font-family: inherit;
   color: inherit;
   font-weight: normal;
   border: 1px solid #ebc65a;
@@ -20,10 +20,38 @@ code {
   vertical-align: center;
 }
 
+h1 {
+  font-weight: normal;
+  text-indent:18px;
+}
+
+h2 {
+	text-indent: 18px;
+	font-weight: normal;
+}
+
+h3 {
+  font-weight: normal;
+  text-indent:18px;
+}
+
+h4 {
+  font-weight: normal;
+  text-indent:18px;
+}
+
+h5 {
+  text-indent:18px;
+  font-weight: normal;
+}
+
+h6 {
+  text-indent:18px;
+}
+
 em {
   color: #126e82;
   font-style: normal;
-  font-family: PMINGLIU;
 }
 
 small {
@@ -71,5 +99,4 @@ kbd {
   background: black;
   color: white;
   display: inline;
-}
 }
