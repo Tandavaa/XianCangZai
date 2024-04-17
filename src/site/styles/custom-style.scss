@@ -1,6 +1,12 @@
+@font-face {
+  font-family: PMINGLIU;
+  src: url('E:/去茲廬/Xiancangzai/PMINGLIU.ttf') .format('truetype');
+    }
+
 :root {
-  --default-font: simsun;
+  --default-font: 臺灣新細明體;
 }
+
 
 
 body {
@@ -10,8 +16,10 @@ body {
 }
 
 p {
-  font-family: PMINGLIU;
+  font-family: 臺灣新細明體;
   color: #999ea2;
+  text-align: justify;
+  hyphens: auto;
 }
 
 code {
