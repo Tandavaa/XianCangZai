@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Xiancangzai/血肉苦弱Ω‖圣人之帹 feat.开国大典/","tags":["个人/写作/诗/血肉苦弱Ω"],"created":"2024-04-17T08:43:09.112+08:00"}
+{"dg-publish":true,"permalink":"/Xiancangzai/血肉苦弱Ω‖圣人之帹 feat.开国大典/","tags":["血肉苦弱Ω"],"created":"2024-04-17T23:17:00.402+08:00"}
 ---
 
 
@@ -60,7 +60,6 @@ https://youtu.be/V3dX1nV1VgM
 
 
 </pre>
-
 
 ### 《圣人之帹 feat.开国大典》剧本
 
