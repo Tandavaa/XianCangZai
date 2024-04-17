@@ -1,21 +1,16 @@
 
 @font-face {
-  font-style:normal;
-  font-family:'臺灣新細明體';
-  src:url('./PMINGLIU.ttf') format('truetype');
+  font-style: normal;
+  font-family: '臺灣新細明體';
+  src: url('./PMINGLIU.ttf') format('truetype');
 }
 
 :root {	
-  --default-font: "臺灣新細明體"; 
+--default-font: 臺灣新細明體; 
 }
-
-
 
 body {
-
 --h1-color: #a61b29; /*苋菜红*/
-
-}
 
 p {
   font-family: 臺灣新細明體;
@@ -118,3 +113,5 @@ kbd {
   color: white;
   display: inline;
 }
+
+	}
