@@ -1,8 +1,11 @@
+:root {
+  --default-font: simsun;
+}
+
 
 body {
 
---h1-font: PMINGLIU;
---h1-color: #999ea2;
+--h1-color: #a61b29; /*苋菜红*/
 
 }
 
@@ -27,7 +30,6 @@ code {
 
 h1 {
   font-weight: normal;
-  text-indent:18px;
 }
 
 h2 {
