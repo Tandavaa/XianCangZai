@@ -35,25 +35,32 @@ https://youtu.be/V3dX1nV1VgM
 
 <center><iframe width="100%" height="100%" src="https://www.youtube.com/embed/V3dX1nV1VgM?si=Jt1_C9fvvz8vAKsa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
-### 作品信息
+### <center>作品信息</center>
 
-#### 片名
+#### <center>片名</center>
 
-圣人之帹 feat.开国大典
+<center><small>圣人之帹 feat.开国大典</samll></center>
 
-#### 剧本
+#### <center>剧本</center>
 
-牛金牛
+<center><small>牛金牛</samll></center>
 
-#### 配音
+#### <center>配音</center>
 
-女土蝠  饰  毛泽东
+<center><small>女土蝠  饰  毛泽东</samll></center>
 
-牛金牛  饰  林伯渠
+<center><small>牛金牛  饰  林伯渠</samll></center>
 
-#### 制作时间
+#### <center>制作时间</center>
 
-2022 年 10 月 7 日
+<center><small>2022 年 10 月 7 日</samll></center>
+
+<pre>
+
+
+
+</pre>
+
 
 ### 《圣人之帹 feat.开国大典》剧本
 
