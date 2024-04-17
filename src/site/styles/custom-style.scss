@@ -1,9 +1,14 @@
 
 body {
 
---h1-font: sans-serif;
+--h1-font: PMINGLIU;
 --h1-color: #999ea2;
 
+}
+
+p {
+  font-family: PMINGLIU;
+  color: #999ea2;
 }
 
 code {
@@ -91,6 +96,7 @@ sub {
 pre {
   font-style: normal;
   font-family: inherit;
+  background: #fff;
 }
 
 kbd {
