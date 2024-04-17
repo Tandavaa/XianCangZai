@@ -25,13 +25,13 @@
 
 <small>这是一部影像诗，作者牛金牛，是 Ta 对 73 周年国庆的「献礼」，2022 年 10 月 8 日在公众号推送过，但几小时后被删除；16 日自查后再推送，也未免于难。这是一次不知道结局将如何的冒险，作为观众，至少我可以思考这样一个假设：「他」（毛泽东）是否必然作为一个男性出现在历史中？「他」有没有可能是女性？平行时空中我们是否有了真正幸福的历史，或者怎样的历史？我觉得这将至少涉及到当代中国的本质。而这一假设在牛金牛的影片中被当作了事实。</small>
 
-但这部作品仍旧是诗歌，只是太考验苦弱的读者的耐心，但它必会回到阿美西亚人的诗学讨论之中。不要只读台词，要相信影像的力量。至少「他」可能是一位女性，这不只是女性主义者、也是所有「人民」应该去想象的。
+<small>但这部作品仍旧是诗歌，只是太考验苦弱的读者的耐心，但它必会回到阿美西亚人的诗学讨论之中。不要只读台词，要相信影像的力量。至少「他」可能是一位女性，这不只是女性主义者、也是所有「人民」应该去想象的。</small>
 
-该部影像诗由牛金牛发布在油管上，链接地址为——
+<small>该部影像诗由牛金牛发布在油管上，链接地址为——</small>
 
 https://youtu.be/V3dX1nV1VgM
 
-也可直接点击链接下方观看：
+<small>也可直接点击链接下方观看：</small>
 
 <center><iframe width="100%" height="100%" src="https://www.youtube.com/embed/V3dX1nV1VgM?si=Jt1_C9fvvz8vAKsa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
@@ -61,7 +61,7 @@ https://youtu.be/V3dX1nV1VgM
 
 #### 林伯渠：
 
-圣人之帹<sup>[1]</sup>皱缩于扶弱的駎<sup>[2]</sup>丛
+<pre>圣人之帹<sup>[1]</sup>皱缩于扶弱的駎<sup>[2]</sup>丛</pre>
 
 #### 毛泽东：
 
@@ -74,7 +74,7 @@ https://youtu.be/V3dX1nV1VgM
 
 #### 林伯渠：
 
-先知之疦<sup>[7]</sup>的会饮
+<pre>先知之疦<sup>[7]</sup>的会饮</pre>
 
 #### 毛泽东：
 
