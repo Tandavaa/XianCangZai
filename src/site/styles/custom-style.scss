@@ -1,11 +1,12 @@
 
-:root {
 @font-face {
-        font-family: "臺灣新細明體";
-        src: url("https://github.com/Tandavaa/XianCangZai/blob/main/src/site/styles/PMINGLIU.ttf");
-      }
-	
-  --default-font: 臺灣新細明體;
+  font-style:normal;
+  font-family:'臺灣新細明體';
+  src:url('./PMINGLIU.ttf') format('truetype');
+}
+
+:root {	
+  --default-font: "臺灣新細明體";
 }
 
 
