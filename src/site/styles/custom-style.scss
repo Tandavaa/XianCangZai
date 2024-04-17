@@ -26,8 +26,96 @@ p {
   font-size: 1rem;
 }
 
+pre {
+  font-size: 1rem;
+}
+
+code {
+  font-size: inherit;
+  line-height: inherit;
+  font-family: inherit;
+  color: inherit;
+  font-weight: normal;
+  border: 1px solid #ebc65a;
+  background: #fff;
+  box-shadow: 0.2em 0.2em 0 0 #ebc65a;
+  padding: 0.1em 0.4em;
+  margin: 0 0.4em;
+  vertical-align: center;
+}
+
+h1 {
+  font-weight: normal;
+}
+
+h2 {
+	text-indent: 18px;
+	font-weight: normal;
+}
+
+h3 {
+  font-weight: normal;
+  text-indent:18px;
+}
+
+h4 {
+  font-weight: normal;
+  text-indent:18px;
+}
+
+h5 {
+  text-indent:18px;
+  font-weight: normal;
+}
+
+h6 {
+  text-indent:18px;
+}
+
+em {
+  color: #126e82;
+  font-style: normal;
+}
+
 small {
   color: #999ea2;
   font-style: normal;
+  font-size: 0.8rem;
+}
+
+big {
+  color: rgb(214,168,65);
+  font-style: normal;
   font-size: 1rem;
+}
+
+strong {
+  color: rgb(214,168,65);
+  font-style: normal;
+}
+
+cite {
+  color: #999ea2;
+  font-style: normal;
+  text-align: right;
+  float: right;
+}
+
+sup {
+  color: #126e82;
+  vertical-align: super;
+  font-style: normal;
+}
+
+sub {
+  color: rgb(214,168,65);
+  font-size: 0.8rem;
+}
+
+kbd {
+  font-size: 1.0rem;
+  font-weight: normal;
+  background: black;
+  color: white;
+  display: inline;
 }
