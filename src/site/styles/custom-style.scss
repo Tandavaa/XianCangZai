@@ -38,7 +38,7 @@ body {
 
   --code-background: #fff; /*<pre>与<code>元素背景*/
   --link-external-color: #126e82; /*超链接颜色：玉鈫蓝*/
-  
+	
   text-align: justify;/*两端对齐*/
   hyphens: auto;	
 }
@@ -47,9 +47,12 @@ p {
   font-size: 1rem;
 }
 
+.markdown-rendered pre {
+  padding: var(--size-4-2) 0px;
+  }/*<pre>元素的padding*/
+
 pre {
   font-size: 1rem;
-  text-indent:0px;
 }
 
 code {
