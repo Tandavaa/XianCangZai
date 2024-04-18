@@ -6,14 +6,17 @@ nav.navbar {
   background-color: #fff;
 }/*网站页眉背景*/   
 
-a {
-  text-align: center;	
+@font-face {
+  font-style:normal;
+  font-family: "PMINGLIU";  
+  src:url('./PMINGLIU.ttf') format('truetype');
+
 }
 
 /*以下与Obsidian设置保持一致*/
 
 :root {
-  --default-font: simsun;
+  --default-font: "PMINGLIU";
 }
 
 body {
