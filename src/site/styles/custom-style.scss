@@ -1,10 +1,6 @@
-span.human-date {
-  font-family: "Courier New";
-}/*发表日期字体*/
+span.human-date {font-family: "Courier New";}/*发表日期字体*/
 
-nav.navbar {
-  background-color: #fff;
-}/*网站页眉背景*/
+nav.navbar {background-color: #fff;}/*网站页眉背景*/
 
 @font-face {
   font-style:normal;
@@ -19,9 +15,7 @@ a.internal-link.is-unresolved {padding: 0px 0px;}/*超链接边距*/
 
 /*以下与Obsidian设置保持一致*/
 
-:root {
-  --default-font: "PMINGLIU";
-}
+:root {--default-font: "Times New Roman", "PMINGLIU";}/*全站字体*/
 
 body {
     /***
