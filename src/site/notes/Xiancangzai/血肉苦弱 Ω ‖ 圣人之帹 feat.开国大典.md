@@ -37,7 +37,7 @@
 
 https://youtu.be/V3dX1nV1VgM
 
-<p style="font-size:0.85em; color:#495c69">影片资源也上传至百度网盘与夸克网盘，供无法科学上网的观众获取——</p>
+<p style="font-size:0.85em; color:#495c69">影像资源也上传至百度网盘与夸克网盘，供无法科学上网的观众获取——</p>
 
 <font style="font-size:0.8em; background: black" color=white>百度网盘</font>
 
@@ -56,6 +56,12 @@ https://pan.quark.cn/s/83ab1b16967a
 ![《圣人之帹 feat.开国大典》剧照之一.png](/img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/%E3%80%8A%E5%9C%A3%E4%BA%BA%E4%B9%8B%E5%B8%B9%20feat.%E5%BC%80%E5%9B%BD%E5%A4%A7%E5%85%B8%E3%80%8B%E5%89%A7%E7%85%A7%E4%B9%8B%E4%B8%80.png)
 
 <center><font size="1" color=#999ea2>《圣人之帹 feat.开国大典》剧照之一</font></center>
+
+<pre>
+
+
+
+</pre>
 
 ### <center>作品信息</center>
 
@@ -77,6 +83,12 @@ https://pan.quark.cn/s/83ab1b16967a
 
 <center><cite>2022 年 10 月 7 日</cite></center>
 
+<pre>
+
+
+
+</pre>
+
 ![《圣人之帹 feat.开国大典》剧照之二.png](/img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/%E3%80%8A%E5%9C%A3%E4%BA%BA%E4%B9%8B%E5%B8%B9%20feat.%E5%BC%80%E5%9B%BD%E5%A4%A7%E5%85%B8%E3%80%8B%E5%89%A7%E7%85%A7%E4%B9%8B%E4%BA%8C.png)
 
 <center><font size="1" color=#999ea2>《圣人之帹 feat.开国大典》剧照之二</font></center>
@@ -89,6 +101,12 @@ https://pan.quark.cn/s/83ab1b16967a
 ### 《圣人之帹 feat.开国大典》剧本
 
 <small>以下文本仅仅为作品台词，供观影者参考，完整的影像诗是这部影片本身。</small>
+
+<pre>
+
+
+
+</pre>
 
 #### 林伯渠：
 
@@ -136,11 +154,29 @@ https://pan.quark.cn/s/83ab1b16967a
 樾<sup>[53]</sup>，被馵<sup>[54]</sup>色沉思。
 </pre>
 
+<pre>
+
+
+
+</pre>
+
 ![《圣人之帹 feat.开国大典》剧照之三.png](/img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/%E3%80%8A%E5%9C%A3%E4%BA%BA%E4%B9%8B%E5%B8%B9%20feat.%E5%BC%80%E5%9B%BD%E5%A4%A7%E5%85%B8%E3%80%8B%E5%89%A7%E7%85%A7%E4%B9%8B%E4%B8%89.png)
 
 <center><font size="1" color=#999ea2>《圣人之帹 feat.开国大典》剧照之三</font></center>
 
+<pre>
+
+
+
+</pre>
+
 ### 注
+
+<pre>
+
+
+
+</pre>
 
 <pre>
 <big>[1]帹</big><small>：shà，覆盖面目的巾帕。</small>
@@ -199,6 +235,26 @@ https://pan.quark.cn/s/83ab1b16967a
 <big>[54]馵</big><small>：zhù，后左脚白色的马。</small>
 </pre>
 
+<pre>
+
+
+
+</pre>
+
 ![](https://artlogic-res.cloudinary.com/w_1600,h_1600,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/inkstudio/images/view/056d219a7f4d74f3d805a2593dda08ab94ad047d.jpg)
 
 <center><font size="1" color=#999ea2>王冬龄 | 李白 月下独酌四首·其一 | 2016 @inkstudio</font></center>
+
+<pre>
+
+
+
+</pre>
+
+![血肉苦弱Ω.png](/img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/%E8%A1%80%E8%82%89%E8%8B%A6%E5%BC%B1%CE%A9.png)
+
+<p style="font-size:0.7em; color:#999ea2"><font style="background: black" color=white>血肉苦弱 Ω</font> | 影像詩寫作計畫，或成本更低的説法：「詩學實驗」。絕對不願將影像詩作為媒介之間的融合、跨越、拼貼，而更關心敘事性在詩中的湧現，而意識到某種急促的、未來的敘事詩在文本內部已無法完成，它必須使自身變成影像/偽電影，技術才能整合進不斷更新的無產階級的生產。</p>
+
+![鱻蒼載.png](/img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/%E9%B1%BB%E8%92%BC%E8%BC%89.png)
+
+<p style="font-size:0.7em; color:#999ea2"><font style="background: black" color=white>鱻蒼載</font> | 「鱻蒼載」的隱語/鴘轉為魯迅所發機，鱻與新，蒼與青，載與年，全是潘諾西亞人的幻覺，不是任務，而是悬亙的準備，向著彌賽亞的腳踵、阿美西亞人的語言僭主、共和囻。</p>
