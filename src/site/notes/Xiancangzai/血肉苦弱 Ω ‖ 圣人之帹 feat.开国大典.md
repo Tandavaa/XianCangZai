@@ -258,3 +258,5 @@ https://pan.quark.cn/s/83ab1b16967a
 ![鱻蒼載.png](/img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/%E9%B1%BB%E8%92%BC%E8%BC%89.png)
 
 <p style="font-size:0.7em; color:#999ea2"><font style="background: black" color=white>鱻蒼載</font> | 「鱻蒼載」的隱語/鴘轉為魯迅所發機，鱻與新，蒼與青，載與年，全是潘諾西亞人的幻覺，不是任務，而是悬亙的準備，向著彌賽亞的腳踵、阿美西亞人的語言僭主、共和囻。</p>
+
+![赞赏码.png](/img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/%E8%B5%9E%E8%B5%8F%E7%A0%81.png)
