@@ -21,4 +21,6 @@
 
 </pre>
 
+![《圣人之帹 feat.开国大典》剧照之一.png](/img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/%E3%80%8A%E5%9C%A3%E4%BA%BA%E4%B9%8B%E5%B8%B9%20feat.%E5%BC%80%E5%9B%BD%E5%A4%A7%E5%85%B8%E3%80%8B%E5%89%A7%E7%85%A7%E4%B9%8B%E4%B8%80.png)
 
+<center><font size="1" color=#999ea2>《圣人之帹 feat.开国大典》剧照之一</font></center>
