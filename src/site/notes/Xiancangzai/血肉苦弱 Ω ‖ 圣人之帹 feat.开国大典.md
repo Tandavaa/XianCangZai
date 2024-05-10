@@ -57,6 +57,26 @@ https://pan.quark.cn/s/83ab1b16967a
 
 <center><font size="1" color=#999ea2>《圣人之帹 feat.开国大典》剧照之一</font></center>
 
+### <center>作品信息</center>
+
+<center><font style="font-size:0.8em; background: black" color=white>片名</font></center>
+
+<center><cite>圣人之帹 feat.开国大典</cite></center>
+
+<center><font style="font-size:0.8em; background: black" color=white>剧本</font></center>
+
+<center><cite>牛金牛</cite></center>
+
+<center><font style="font-size:0.8em; background: black" color=white>配音</font></center>
+
+<center><cite>女土蝠  饰  毛泽东</cite></center>
+
+<center><cite>牛金牛  饰  林伯渠</cite></center>
+
+<center><font style="font-size:0.8em; background: black" color=white>制作时间</font></center>
+
+<center><cite>2022 年 10 月 7 日</cite></center>
+
 ![《圣人之帹 feat.开国大典》剧照之二.png](/img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/%E3%80%8A%E5%9C%A3%E4%BA%BA%E4%B9%8B%E5%B8%B9%20feat.%E5%BC%80%E5%9B%BD%E5%A4%A7%E5%85%B8%E3%80%8B%E5%89%A7%E7%85%A7%E4%B9%8B%E4%BA%8C.png)
 
 <center><font size="1" color=#999ea2>《圣人之帹 feat.开国大典》剧照之二</font></center>
