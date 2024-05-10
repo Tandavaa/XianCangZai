@@ -259,4 +259,8 @@ https://pan.quark.cn/s/83ab1b16967a
 
 <p style="font-size:0.7em; color:#999ea2"><font style="background: black" color=white>鱻蒼載</font> | 「鱻蒼載」的隱語/鴘轉為魯迅所發機，鱻與新，蒼與青，載與年，全是潘諾西亞人的幻覺，不是任務，而是悬亙的準備，向著彌賽亞的腳踵、阿美西亞人的語言僭主、共和囻。</p>
 
+---
+
 ![赞赏码.png](/img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/%E8%B5%9E%E8%B5%8F%E7%A0%81.png)
+
+<p style="font-size:0.7em; color:#999ea2"><font style="background: black" color=white>眷注與贊賞</font> | 眷注與贊賞也關乎「鱻蒼載」的持存，「鱻蒼載」是一處游離的個人網站，幾乎只關心文學，而在此時代，卻并不例外地成爲了「數字難民」，姑且忍受這樣驕稚的形容。那些自便的、但封閉、敞視于威柄的内容平臺於是必須被放棄，於是來建立此迂折，未來正不知去向何處。</p>
