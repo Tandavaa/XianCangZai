@@ -15,19 +15,29 @@
 
 ### 案语
 
-这是一部影像诗，作者牛金牛，是 Ta 对中华第二共和国 73 周年国庆的「献礼」，2022 年 10 月 8 日推送于鱻蒼載公众号<big>（现已被封号）</big>，几小时后被删；同月 16 日自查后再推送，也未免于难。不知道何时代，这部纯文学的影像诗会不再是一种冒险，作为观众，至少我可以思考这样一个假设：「他」<big>（毛泽东）</big>是否必然作为一个男性出现在历史中？「他」有没有可能是女性？平行时空中我们是否有了真正幸福的历史，或者怎样的历史？尽管大多数观众会认为，这无关于当代中国的本质，而这一假设至少在牛金牛的影片中成为了事实。
+<pre>
 
-但这部作品仍旧是诗歌，而不是影像，只是太考验苦弱的读者的耐心，但它必会回到阿美西亚人的诗学讨论之中。但不要只读台词，更要相信影像的力量。至少「他」可能是一位女性，这不只是女性主义者、也是所有「抱住想象力」的「人民」应该去想象的。
 
-该部影像诗由牛金牛发布在油管上——
 
-<font style="background: black" color=white>Youtube 链接</font>： https://youtu.be/V3dX1nV1VgM
+</pre>
 
-影片资源也上传至百度网盘与夸克网盘，供无法科学上网的观众获取——
+<p style="font-size:0.9em; color:#999ea2">这是一部影像诗，作者牛金牛，是 Ta 对中华第二共和国 73 周年国庆的「献礼」，2022 年 10 月 8 日推送于鱻蒼載公众号<big>（现已被封号）</big>，几小时后被删；同月 16 日自查后再推送，也未免于难。不知道何时代，这部纯文学的影像诗会不再是一种冒险，作为观众，至少我可以思考这样一个假设：「他」<big>（毛泽东）</big>是否必然作为一个男性出现在历史中？「他」有没有可能是女性？平行时空中我们是否有了真正幸福的历史，或者怎样的历史？尽管大多数观众会认为，这无关于当代中国的本质，而这一假设至少在牛金牛的影片中成为了事实。</p>
 
-<font style="background: black" color=white>百度网盘</font>： https://pan.baidu.com/s/1r2BrXXIwe3RJZjkUEf2Ltg?pwd=s8lb
+<p style="font-size:0.9em; color:#999ea2">但这部作品仍旧是诗歌，而不是影像，只是太考验苦弱的读者的耐心，但它必会回到阿美西亚人的诗学讨论之中。但不要只读台词，更要相信影像的力量。至少「他」可能是一位女性，这不只是女性主义者、也是所有「抱住想象力」的「人民」应该去想象的。</p>
 
-<font style="background: black" color=white>夸克网盘</font>： https://pan.quark.cn/s/83ab1b16967a
+<p style="font-size:0.9em; color:#999ea2">该部影像诗由牛金牛发布在油管上，链接地址为——</p>
+
+https://youtu.be/V3dX1nV1VgM
+
+<p style="font-size:0.9em; color:#999ea2">影片资源也上传至百度网盘与夸克网盘，供无法科学上网的观众获取——</p>
+
+<font style="font-size:0.8em; background: black" color=white>百度网盘</font>
+
+https://pan.baidu.com/s/1r2BrXXIwe3RJZjkUEf2Ltg?pwd=s8lb
+
+<font style="font-size:0.8em; background: black" color=white>夸克网盘</font>
+
+https://pan.quark.cn/s/83ab1b16967a
 
 <pre>
 
