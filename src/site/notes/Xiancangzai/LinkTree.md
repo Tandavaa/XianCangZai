@@ -5,6 +5,6 @@
 
 <cite>$ 其他贊賞渠道：[Ko-fi](https://ko-fi.com/xiancangzai)</cite>
 
-⁕⁜※⌀
+<cite>@ 电子邮箱： liquziii@gmail.com </cite>
 
 <cite>⁜ 微信交流群：</cite>
