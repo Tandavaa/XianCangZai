@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Xiancangzai/血肉苦弱 Ω ‖ 圣人之帹 feat.开国大典/","tags":["李去兹","血肉苦弱Ω","毛泽东","影像"],"created":"2024-05-09T21:19:58.545+08:00"}
+{"dg-publish":true,"permalink":"/Xiancangzai/血肉苦弱 Ω ‖ 圣人之帹 feat.开国大典/","tags":["李去兹","血肉苦弱Ω","毛泽东","影像","王冬龄"],"created":"2024-05-09T21:19:58.545+08:00"}
 ---
 
 
 ![](https://artlogic-res.cloudinary.com/w_1600,h_1600,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/inkstudio/images/view/611278a6d4f6b02a5c1d9de897320f015eab5e98.jpg)
 
-<center><font size="1" color=#999ea2>王冬龄 | 逍遥游 | 2016 @inkstudio</font></center>
+<font size="2" color=#999ea2>这张作品是库克（Tim Cook）的书法老师王冬龄 2016 年所书《逍遥游》@[inkstudio](https://www.inkstudio.com.cn/zh/artists/57-wang-dongling/works/1589-wang-dongling-wandering-beyond-2016/)，「书非书」是冬龄师长久的实验性观念，从先秦典籍到唐诗宋词，汉字将被写遍。有人认为王冬龄是「[[Travis Jeppesen：王冬龄在伦敦工艺周的现场书法表演 – artforum.com.cn\|非语义]]」（asemic）的，虽然宣纸上还停留着难以辨识的古典文本，但其考验的不再是我们的认字能力，而是我们的想象力了。</font>
 
 <pre>
 
