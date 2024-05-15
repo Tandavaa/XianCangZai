@@ -5,7 +5,7 @@
 
 ![](https://artlogic-res.cloudinary.com/w_1600,h_1600,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/inkstudio/images/view/611278a6d4f6b02a5c1d9de897320f015eab5e98.jpg)
 
-<font size="2" color=#999ea2>这张作品是库克（Tim Cook）的书法老师王冬龄 2016 年所书《逍遥游》@[inkstudio](https://www.inkstudio.com.cn/zh/artists/57-wang-dongling/works/1589-wang-dongling-wandering-beyond-2016/)，「书非书」是冬龄师长久的实验性观念，从先秦典籍到唐诗宋词，汉字将被写遍。有人认为王冬龄是「[[Travis Jeppesen：王冬龄在伦敦工艺周的现场书法表演 – artforum.com.cn\|非语义]]」（asemic）的，虽然宣纸上还停留着难以辨识的古典文本，但其考验的不再是我们的认字能力，而是我们的想象力了。</font>
+<font size="2" color=#999ea2>这张作品是库克（Tim Cook）的书法老师王冬龄（悟斋、大散草堂） 2016 年所书《逍遥游》@[inkstudio](https://www.inkstudio.com.cn/zh/artists/57-wang-dongling/works/1589-wang-dongling-wandering-beyond-2016/)，「书非书」是冬龄师长久的实验性观念，从先秦典籍到唐诗宋词，汉字将被写遍。有人认为悟斋是「[[Travis Jeppesen：王冬龄在伦敦工艺周的现场书法表演 – artforum.com.cn\|非语义]]」（asemic）的，虽然宣纸上还停留着难以辨识的古典文本，但其考验的不再是我们的认字能力，而是我们的想象力了。</font>
 
 <pre>
 
@@ -170,6 +170,16 @@ https://pan.quark.cn/s/83ab1b16967a
 
 </pre>
 
+![](https://artlogic-res.cloudinary.com/w_2400,h_2400,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/inkstudio/images/view/96b95272dbd4fe8997c570b3f5de6c2b47d78961.jpg)
+
+<font size="2" color=#999ea2>大散草堂尚有「银盐书法」，即以显影液写于相纸之上，之后冲洗而成。此为其 2013 年所成《无礙》@[inkstudio](https://www.inkstudio.com.cn/zh/artists/57-wang-dongling/works/516/)。流涎，他获得了涂抹影像的权力，只是他必须暂时变成盲人（[[INKstudio：展览｜书非书：王冬龄\|深红色的暗房里几乎无法视物]]），在 2021 年，他已经戴上 VR 眼镜，而我呢，还在为开国大典的银盐性发愁。</font>
+
+<pre>
+
+
+
+</pre>
+
 ### 注
 
 <pre>
@@ -241,9 +251,11 @@ https://pan.quark.cn/s/83ab1b16967a
 
 </pre>
 
-![](https://artlogic-res.cloudinary.com/w_1600,h_1600,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/inkstudio/images/view/056d219a7f4d74f3d805a2593dda08ab94ad047d.jpg)
+![](https://artlogic-res.cloudinary.com/w_1600,h_1600,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/inkstudio/images/view/b58671bf09cbb828cddff06ed2ee8e84470c4f58.jpg)
 
-<center><font size="1" color=#999ea2>王冬龄 | 李白 月下独酌四首·其一 | 2016 @inkstudio</font></center>
+<font size="2" color=#999ea2>《心经》@[inkstudio](https://www.inkstudio.com.cn/zh/exhibitions/22/works/artworks-1587-wang-dongling-the-heart-sutra-2015/) 为王冬龄 2015 年在大英博物馆现场所写，既是「乱书」与「巨书」，也是某种「行为书写」。三联宣纸宽达 4 米，一张小广场，一套小典，一个人在其中运动，我感受到了极强的身心健康。玄奘譯《般若波羅蜜多心經》全文：</font>
+
+<cite>觀自在菩薩，行深般若波羅蜜多時，照見五蘊皆空，度一切苦厄。舍利子，色不異空，空不異色；色即是空，空即是色。受、想、行、識，亦復如是。 舍利子，是諸法空相，不生不滅，不垢不淨，不增不減，是故空中無色，無受、想、行、識；無眼、耳、鼻、舌、身、意；無色、聲、香、味、觸、法；無眼界，乃至無意識界；無無明，亦無無明盡；乃至無老死，亦無老死盡。無苦、集、滅、道，無智亦無得，以無所得故。菩提薩埵， 依般若波羅蜜多故，心無罣礙，無罣礙故，無有恐怖，遠離顛倒夢想，究竟涅槃。三世諸佛，依般若波羅蜜多故，得阿耨多羅三藐三菩提。故知般若波羅蜜多，是大神咒，是大明咒，是無上咒，是無等等咒，能除一切苦，真實不虛。故說般若波羅蜜多咒，即說咒曰：揭諦、揭諦，波羅揭諦，波羅僧揭諦，菩提薩婆訶。</cite>
 
 <pre>
 
