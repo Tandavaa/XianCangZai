@@ -5,7 +5,7 @@
 
 ![](https://artlogic-res.cloudinary.com/w_1600,h_1600,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/inkstudio/images/view/611278a6d4f6b02a5c1d9de897320f015eab5e98.jpg)
 
-<font size="2" color=#999ea2>这张作品是库克（Tim Cook）的书法老师王冬龄（悟斋、大散草堂） 2016 年所书《逍遥游》@[inkstudio](https://www.inkstudio.com.cn/zh/artists/57-wang-dongling/works/1589-wang-dongling-wandering-beyond-2016/)，「书非书」是冬龄师长久的实验性观念，从先秦典籍到唐诗宋词，汉字将被写遍。有人认为悟斋是「[[Travis Jeppesen：王冬龄在伦敦工艺周的现场书法表演 – artforum.com.cn\|非语义]]」（asemic）的，虽然宣纸上还停留着难以辨识的古典文本，但其考验的不再是我们的认字能力，而是我们的想象力了。</font>
+<font size="2" color=#999ea2>这张作品是库克（Tim Cook）的书法老师王冬龄（悟斋、大散草堂） 2016 年所书《逍遥游》@[inkstudio](https://www.inkstudio.com.cn/zh/artists/57-wang-dongling/works/1589-wang-dongling-wandering-beyond-2016/)，「书非书」是冬龄师长久的实验性观念，从先秦典籍到唐诗宋词，汉字将被写遍。有人认为悟斋是「[[Agharta/文章/Travis Jeppesen：王冬龄在伦敦工艺周的现场书法表演 – artforum.com.cn\|非语义]]」（asemic）的，虽然宣纸上还停留着难以辨识的古典文本，但其考验的不再是我们的认字能力，而是我们的想象力了。</font>
 
 <pre>
 
@@ -172,7 +172,7 @@ https://pan.quark.cn/s/83ab1b16967a
 
 ![](https://artlogic-res.cloudinary.com/w_2400,h_2400,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/inkstudio/images/view/96b95272dbd4fe8997c570b3f5de6c2b47d78961.jpg)
 
-<font size="2" color=#999ea2>大散草堂尚有「银盐书法」，即以显影液写于相纸之上，之后冲洗而成。此为其 2013 年所成《无礙》@[inkstudio](https://www.inkstudio.com.cn/zh/artists/57-wang-dongling/works/516/)。流涎，他获得了涂抹影像的权力，只是他必须暂时变成盲人（[[INKstudio：展览｜书非书：王冬龄\|深红色的暗房里几乎无法视物]]），在 2021 年，他已经戴上 VR 眼镜，而我呢，还在为开国大典的银盐性发愁。</font>
+<font size="2" color=#999ea2>大散草堂尚有「银盐书法」，即以显影液写于相纸之上，之后冲洗而成。此为其 2013 年所成《无礙》@[inkstudio](https://www.inkstudio.com.cn/zh/artists/57-wang-dongling/works/516/)。流涎，他获得了涂抹影像的权力，只是他必须暂时变成盲人（[[Agharta/文章/INKstudio：展览｜书非书：王冬龄\|深红色的暗房里几乎无法视物]]），在 2021 年，他已经戴上 VR 眼镜，而我呢，还在为开国大典的银盐性发愁。</font>
 
 <pre>
 
