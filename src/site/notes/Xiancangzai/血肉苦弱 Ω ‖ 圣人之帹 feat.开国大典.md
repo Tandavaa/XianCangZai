@@ -300,4 +300,4 @@ https://pan.quark.cn/s/83ab1b16967a
 
 # 注
 
-[^1]: [Travis Jeppesen：《创造性书写：王冬龄在伦敦工艺周的现场书法表演》](https://www.artforum.com.cn/diary/9621)
+[^1]: 见 [Travis Jeppesen：《创造性书写：王冬龄在伦敦工艺周的现场书法表演》](https://www.artforum.com.cn/diary/9621)
