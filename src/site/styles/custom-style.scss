@@ -44,8 +44,8 @@ body {
   --code-background: #fff; /*<pre>与<code>元素背景*/
   --link-external-color: #126e82; /*超链接颜色：玉鈫蓝*/
 	
-  text-align: justify;/*两端对齐*/
-  hyphens: auto;	
+  text-align: justify;
+  hyphens: auto;/*两端对齐*/	
 }
 
 p {
@@ -61,27 +61,13 @@ pre {
   font-family: "PMINGLIU";
 }
 
-code {
-  font-size: inherit;
-  line-height: inherit;
-  font-family: inherit;
-  color: inherit;
-  font-weight: normal;
-  border: 1px solid #ebc65a;
-  background: #fff;
-  box-shadow: 0.2em 0.2em 0 0 #ebc65a;
-  padding: 0.1em 0.4em;
-  margin: 0 0.4em;
-  vertical-align: center;
-}
-
 h1 {
   font-weight: normal;
 }
 
 h2 {
-	text-indent: 18px;
-	font-weight: normal;
+  text-indent: 18px;
+  font-weight: normal;
 }
 
 h3 {
