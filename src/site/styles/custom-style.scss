@@ -6,7 +6,7 @@ nav.navbar {background-color: #fff;}/*网站页眉背景*/
   font-style:normal;
   font-family: "PMINGLIU";
   src:url('../img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/PMINGLIU.ttf') format('truetype');
-}
+}/*自定义字体*/
 
 .markdown-preview-view {padding: 40px;}/*网站页边距*/
 
@@ -48,18 +48,18 @@ body {
   hyphens: auto;/*两端对齐*/	
 }
 
-p {
-  font-size: 1rem;
-}
-
 .markdown-rendered pre {
   padding: var(--size-4-2) 0px;
   }/*<pre>元素的padding*/
 
+p {
+  font-size: 1rem;
+}/*正文*/
+
 pre {
   font-size: 1rem;
-  font-family: "PMINGLIU";
-}
+  font-family: "Times New Roman","PMINGLIU";
+}/*诗歌文本*/
 
 h1 {
   font-weight: normal;
@@ -89,48 +89,59 @@ h6 {
   text-indent:18px;
 }
 
-em {
-  color: #126e82;/*玉鈫蓝*/
-  font-style: normal;
-  font-size: 0.9rem;
-}
-
 small {
   color: #495c69;/*夏云灰*/
   font-style: normal;
   font-size: 0.9rem;
-}
+}/*小号浅黑字*/
 
-big {
+samp {
+  color: #999ea2;
+  font-family: "Times New Roman", "PMINGLIU";
+  font-style: normal;
+  font-size: 0.8rem;
+}/*极小号浅灰字*/
+
+ins {
   color: rgb(214,168,65);
   font-style: normal;
+  text-decoration: none;
   font-size: 0.9rem;
-}
+}/*小号黄字*/
+
+kbd {
+  color: #126e82;/*玉鈫蓝*/
+  font-style: normal;
+  font-size: 0.9rem;
+  font-family: "Times New Roman", "PMINGLIU";
+}/*小号蓝字*/
 
 cite {
   color: #999ea2;
   font-family: "Courier New", "PMINGLIU";
   font-style: normal;
-  text-indent: 18px;
   font-size: 0.8rem;
-}
+}/*参考文献、日期落款*/
 
 sup {
-  color: #126e82;
+  color: rgb(214,168,65);
   vertical-align: super;
+  font-style: normal;
   font-size: 0.8rem;
-}
+}/*上标黄字*/
 
 sub {
-  color: rgb(214,168,65);
+  color: #126e82;/*玉鈫蓝*/
+  font-style: normal;
   font-size: 0.8rem;
-}
+}/*下标蓝字*/
 
-kbd {
-  font-size: 1.0rem;
-  font-weight: normal;
-  background: black;
-  color: white;
-  display: inline;
-  font-family: "PMINGLIU";
-}
+blockquote {
+  margin: 0;
+}/*引用段落缩进*/
+
+blockquote p {
+  color: #126e82;/*玉鈫蓝*/
+  font-style: normal;
+  font-size: 0.85rem;
+}/*引用段落蓝字*/
