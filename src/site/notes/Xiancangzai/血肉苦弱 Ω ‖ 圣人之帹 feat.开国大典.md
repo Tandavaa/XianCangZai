@@ -299,6 +299,8 @@ https://pan.quark.cn/s/83ab1b16967a
 </div></div>
 
 
-# 注
+<ins style="font-size:0.8em;background: black;color:white">注释</ins>
 
-[^1]: 见 [Travis Jeppesen：《创造性书写：王冬龄在伦敦工艺周的现场书法表演》](https://www.artforum.com.cn/diary/9621)
+[^1]: <samp>「His art is often characterized as illegible, or “asemic.” The term _asemic_ is problematic, in that it implies a writing that is empty of meaning.」见 [Travis Jeppesen: *CREATIVE WRITING: Travis Jeppesen on Wang Dongling at the British Museum*](https://www.artforum.com/columns/travis-jeppesen-on-wang-dongling-at-the-british-museum-229344/#:~:text=His%20art%20is%20often%20characterized%20as%20illegible%2C%20or%20%E2%80%9Casemic.%E2%80%9D%20The%20term%20asemic%20is%20problematic%2C%20in%20that%20it%20implies%20a%20writing%20that%20is%20empty%20of%20meaning.) </samp>
+
+
