@@ -11,11 +11,11 @@ nav.navbar {background-color: #fff;}/*网站页眉背景*/
 .markdown-preview-view {padding: 40px;}/*网站页边距*/
 
 /*a {padding: 18px 24px;}*/ /*网站名边距*/
-/*a.internal-link.is-unresolved {padding: 0px 0px;}*//*无笔记双链边距*/
-/*a.internal-link {padding: 0px 0px;}*//*双链边距*/
-/*a.external-link {padding: 0px 0px 0px 0px;}*//*超链接边距*/
-/*a.referred {margin: 0px 0px;}*//*注释被重新定位后的边距*/ 
-/*a.footnote-backref {padding: 0px 0px;}*//*注释回链符号边距*/   
+a.internal-link.is-unresolved {padding: 0px 0px;}/*无笔记双链边距*/
+a.internal-link {padding: 0px 0px;}/*双链边距*/
+a.external-link {padding: 0px 0px 0px 0px;}/*超链接边距*/
+a.referred {margin: 0px 0px;}/*注释被重新定位后的边距*/ 
+a.footnote-backref {padding: 0px 0px;}/*注释回链符号边距*/   
 /*a#fnref1 {padding: 0px 0px 0px 0px;}*//*注释1边距*/
 
 /*以下与Obsidian设置保持一致*/
