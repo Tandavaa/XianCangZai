@@ -173,7 +173,7 @@ https://pan.quark.cn/s/83ab1b16967a
 
 ![](https://artlogic-res.cloudinary.com/w_2400,h_2400,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/inkstudio/images/view/96b95272dbd4fe8997c570b3f5de6c2b47d78961.jpg)
 
-<samp>大散草堂尚有「银盐书法」[^4]，即以显影液写于相纸之上，之后冲洗而成。此为其 2013 年所成《**无礙**》@[inkstudio](https://www.inkstudio.com.cn/zh/artists/57-wang-dongling/works/516/)。流涎，他获得了涂抹影像的权力，只是他必须暂时变成盲人（深红色的暗房里几乎无法视物 [^5]），在 2021 年，他已经戴上 VR 眼镜，[^6]而我呢，还在为开国大典的银盐性发愁。</samp>
+<samp>大散草堂尚有「银盐书法」[^4]，即以显影液写于相纸之上，之后冲洗而成。此为其 2013 年所成《**无礙**》@[inkstudio](https://www.inkstudio.com.cn/zh/artists/57-wang-dongling/works/516/)。流涎，他获得了涂抹影像的权力，只是他必须暂时变成盲人（深红色的暗房里几乎无法视物 [^5]），在 2021 年，他已经戴上 VR 眼镜，[^6] 而我呢，还在为开国大典的银盐性发愁。</samp>
 
 <pre>
 
@@ -300,8 +300,6 @@ https://pan.quark.cn/s/83ab1b16967a
 
 
 <ins style="font-size:0.8em;background: black;color:white">注释</ins>
-
-# 注
 
 [^1]: <samp>「Apple CEO Tim Cook learns Chinese calligraphy from professor Wang Dongling in Hanghzou yesterday.」见 [*Apple CEO's calligraphy lesson*](http://www.china.org.cn/arts/2015-10/25/content_36885289_2.htm#:~:text=Apple%20CEO%20Tim%20Cook%20learns%20Chinese%20calligraphy%20from%20professor%20Wang%20Dongling%20in%20Hanghzou%20yesterday.) </samp>
 [^2]: <samp>「新世纪以来，他在中国美术学院创建了现代书法研究中心，发起了“书非书：国际现代书法艺术节”，力倡书法的开放性实验，让书法这门古老的艺术融入当代艺术的世界。“书”与“非书”是中国书法守正创新的辩证两极——“书”是指书法的道统与文化根基，需要“守其正”；“非书”是书法的开放空间与创造可能，需要“日日新”。经过十余年的发展，“书非书”已成为国际书写艺术最重要的跨领域交流平台。」见高世名: [书法的源头活水 ——冬龄先生的“书非书”](https://www.caa.edu.cn/yzjt/202112/47003.html#:~:text=%E4%BB%96%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%BE%8E%E6%9C%AF%E5%AD%A6%E9%99%A2%E5%88%9B%E5%BB%BA%E4%BA%86%E7%8E%B0%E4%BB%A3%E4%B9%A6%E6%B3%95%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83%EF%BC%8C%E5%8F%91%E8%B5%B7%E4%BA%86%E2%80%9C%E4%B9%A6%E9%9D%9E%E4%B9%A6%EF%BC%9A%E5%9B%BD%E9%99%85%E7%8E%B0%E4%BB%A3%E4%B9%A6%E6%B3%95%E8%89%BA%E6%9C%AF%E8%8A%82%E2%80%9D%EF%BC%8C%E5%8A%9B%E5%80%A1%E4%B9%A6%E6%B3%95%E7%9A%84%E5%BC%80%E6%94%BE%E6%80%A7%E5%AE%9E%E9%AA%8C ) </samp>
