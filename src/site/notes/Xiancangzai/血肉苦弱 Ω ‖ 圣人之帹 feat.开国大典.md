@@ -5,7 +5,7 @@
 
 ![](https://artlogic-res.cloudinary.com/w_1600,h_1600,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/inkstudio/images/view/611278a6d4f6b02a5c1d9de897320f015eab5e98.jpg)
 
-<samp>这张作品是库克（Tim Cook）的书法老师王冬龄（悟斋、大散草堂） 2016 年所书《**逍遥游**》@[inkstudio](https://www.inkstudio.com.cn/zh/artists/57-wang-dongling/works/1589-wang-dongling-wandering-beyond-2016/)，「书非书」是冬龄师长久的实验性观念，从先秦典籍到唐诗宋词，汉字将被写遍。有人认为悟斋是「[[Agharta/文章/Travis Jeppesen：创造性书写：王冬龄在伦敦工艺周的现场书法表演 – artforum.com.cn\|非语义]]」（asemic）[^1] 的，虽然宣纸上还停留着难以辨识的古典文本，但其考验的不再是我们的认字能力，而是我们的想象力了。</samp>
+<samp>这张作品是库克（Tim Cook）的书法老师王冬龄（悟斋、大散草堂） 2016 年所书《**逍遥游**》@[inkstudio](https://www.inkstudio.com.cn/zh/artists/57-wang-dongling/works/1589-wang-dongling-wandering-beyond-2016/)，「书非书」是冬龄师长久的实验性观念，从先秦典籍到唐诗宋词，汉字将被写遍。有人认为悟斋是「非语义」（asemic）[^1] 的，虽然宣纸上还停留着难以辨识的古典文本，但其考验的不再是我们的认字能力，而是我们的想象力了。</samp>
 
 <pre>
 
@@ -173,7 +173,7 @@ https://pan.quark.cn/s/83ab1b16967a
 
 ![](https://artlogic-res.cloudinary.com/w_2400,h_2400,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/inkstudio/images/view/96b95272dbd4fe8997c570b3f5de6c2b47d78961.jpg)
 
-<samp>大散草堂尚有「银盐书法」，即以显影液写于相纸之上，之后冲洗而成。此为其 2013 年所成《**无礙**》@[inkstudio](https://www.inkstudio.com.cn/zh/artists/57-wang-dongling/works/516/)。流涎，他获得了涂抹影像的权力，只是他必须暂时变成盲人（[[Agharta/文章/INKstudio：展览｜书非书：王冬龄\|深红色的暗房里几乎无法视物]]），在 2021 年，他已经戴上 VR 眼镜，而我呢，还在为开国大典的银盐性发愁。</samp>
+<samp>大散草堂尚有「银盐书法」，即以显影液写于相纸之上，之后冲洗而成。此为其 2013 年所成《**无礙**》@[inkstudio](https://www.inkstudio.com.cn/zh/artists/57-wang-dongling/works/516/)。流涎，他获得了涂抹影像的权力，只是他必须暂时变成盲人（深红色的暗房里几乎无法视物[^2]），在 2021 年，他已经戴上 VR 眼镜，而我呢，还在为开国大典的银盐性发愁。</samp>
 
 <pre>
 
@@ -302,5 +302,4 @@ https://pan.quark.cn/s/83ab1b16967a
 <ins style="font-size:0.8em;background: black;color:white">注释</ins>
 
 [^1]: <samp>「His art is often characterized as illegible, or “asemic.” The term _asemic_ is problematic, in that it implies a writing that is empty of meaning.」见 [Travis Jeppesen: *CREATIVE WRITING: Travis Jeppesen on Wang Dongling at the British Museum*](https://www.artforum.com/columns/travis-jeppesen-on-wang-dongling-at-the-british-museum-229344/#:~:text=His%20art%20is%20often%20characterized%20as%20illegible%2C%20or%20%E2%80%9Casemic.%E2%80%9D%20The%20term%20asemic%20is%20problematic%2C%20in%20that%20it%20implies%20a%20writing%20that%20is%20empty%20of%20meaning.) </samp>
-
-
+[^2]: <samp>「银盐书法大多需要在暗房中书写，由于光线很暗，大半要靠感觉来书写。」见：[展览｜书非书：王冬龄]( https://www.inkstudio.com.cn/zh/news/27-exhibition-writing-non-writing-wang-dongling/#:~:text=%E9%93%B6%E7%9B%90%E4%B9%A6%E6%B3%95%E5%A4%A7%E5%A4%9A%E9%9C%80%E8%A6%81%E5%9C%A8%E6%9A%97%E6%88%BF%E4%B8%AD%E4%B9%A6%E5%86%99%EF%BC%8C%E7%94%B1%E4%BA%8E%E5%85%89%E7%BA%BF%E5%BE%88%E6%9A%97%EF%BC%8C%E5%A4%A7%E5%8D%8A%E8%A6%81%E9%9D%A0%E6%84%9F%E8%A7%89%E6%9D%A5%E4%B9%A6%E5%86%99%E3%80%82 )</samp>
