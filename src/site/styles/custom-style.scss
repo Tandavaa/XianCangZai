@@ -1,4 +1,11 @@
-:root {--default-font: "Times New Roman", "PMINGLIU";}/*全站字体*/
+:root {--default-font: "Times New Roman", "PMINGLIU";
+  --h1-color: #a61b29; /*苋菜红*/
+  --h2-color: #e16723; /*陶瓷红*/
+  --h3-color: #d2b42c; /*草黄*/
+  --h4-color: #207f4c; /*薄荷绿*/
+  --h5-color: #126e82; /*玉鈫蓝*/
+  --h6-color: #9b1e64; /*苋菜紫*/
+}/*全站字体*/
 
 span.human-date {font-family: "Courier New";}/*发表日期字体*/
 
@@ -141,4 +148,4 @@ blockquote p {
   color: #126e82;/*玉鈫蓝*/
   font-style: normal;
   font-size: 0.85rem;
-}/*引用段落蓝字*/
+}/*引用段落蓝字*/  
