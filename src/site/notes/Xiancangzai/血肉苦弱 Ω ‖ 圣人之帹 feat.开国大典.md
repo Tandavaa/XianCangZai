@@ -5,7 +5,7 @@
 
 ![](https://artlogic-res.cloudinary.com/w_1600,h_1600,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/inkstudio/images/view/611278a6d4f6b02a5c1d9de897320f015eab5e98.jpg)
 
-<samp>这张作品是库克（Tim Cook）的书法老师 [^1] 王冬龄（悟斋、大散草堂） 2016 年所书《**逍遥游**》@[inkstudio](https://www.inkstudio.com.cn/zh/artists/57-wang-dongling/works/1589-wang-dongling-wandering-beyond-2016/)，「书非书」[^2] 是冬龄师长久的实验性观念，从先秦典籍到唐诗宋词，汉字将被写遍。有人认为悟斋是「非语义」（asemic）的，[^3] 虽然宣纸上还停留着难以辨识的古典文本，但其考验的不再是我们的认字能力，而是我们的想象力了。</samp>
+<samp>这张作品是库克（Tim Cook）的书法老师 [^1] **王冬龄**（悟斋、大散草堂） 2016 年所书《**逍遥游**》@[inkstudio](https://www.inkstudio.com.cn/zh/artists/57-wang-dongling/works/1589-wang-dongling-wandering-beyond-2016/)，「书非书」[^2] 是冬龄师长久的实验性观念，从先秦典籍到唐诗宋词，汉字将被写遍。有人认为悟斋是「非语义」（asemic）的，[^3] 虽然宣纸上还停留着难以辨识的古典文本，但其考验的不再是我们的认字能力，而是我们的想象力了。</samp>
 
 <pre>
 
