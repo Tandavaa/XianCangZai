@@ -17,7 +17,7 @@
 
 </pre>
 
-![](https://ia802807.us.archive.org/BookReader/BookReaderImages.php?zip=/11/items/acc.no.25327anandatandavaofsivasadanrttamurti1985/Acc.No.25327-Ananda%20Tandava%20of%20Siva%20Sadanrttamurti-1985_jp2.zip&file=Acc.No.25327-Ananda%20Tandava%20of%20Siva%20Sadanrttamurti-1985_jp2/Acc.No.25327-Ananda%20Tandava%20of%20Siva%20Sadanrttamurti-1985_0000.jp2&id=acc.no.25327anandatandavaofsivasadanrttamurti1985&scale=4&rotate=0)
+![Ananda-Tandava of Siva-Sadanrttamurti.png](/img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/Ananda-Tandava%20of%20Siva-Sadanrttamurti.png)
 
 此图为 Kamil V. Zvelebil 所著 *[Ananda-Tandava of Siva-Sadanrttamurti](https://archive.org/details/acc.no.25327anandatandavaofsivasadanrttamurti1985/mode/2up)* 一书的封面，Ananda Tandava 为 七种 Tandava 之一。舞蹈着的是四手湿婆（Siva），头戴孔雀羽，[^1] 右后臂擎生命鼓，左后臂举毁灭火，[^2] 右前臂为无畏印，左前臂作 gajahasta 式，[^3] 左脚抬起，右脚踏玩眼镜蛇的侏儒恶魔 Apasmara[^4]（象征着精神愚昧和言语混乱 [^5]）。
 
