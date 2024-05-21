@@ -19,7 +19,7 @@
 
 ![Ananda-Tandava of Siva-Sadanrttamurti.png](/img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/Ananda-Tandava%20of%20Siva-Sadanrttamurti.png)
 
-<samp>此图为 Kamil V. Zvelebil 所著 *[Ananda-Tandava of Siva-Sadanrttamurti](https://archive.org/details/acc.no.25327anandatandavaofsivasadanrttamurti1985/mode/2up)* 一书的封面，绘着 **Ananda Tandava** 的典型图像。Ananda Tandava 为 七种 Tandava 之一，舞蹈着的是四手湿婆（**Siva**），头戴孔雀羽，[^1] 右后臂擎生命鼓，左后臂举毁灭火，[^2] 右前臂为无畏印，左前臂作 gajahasta 式，[^3] 左脚抬起，右脚踏玩眼镜蛇的侏儒恶魔 **Apasmara**[^4]（象征着精神愚昧和言语混乱 [^5]）。</samp>
+<samp>此图为 Kamil V. Zvelebil 所著 *[Ananda-Tandava of Siva-Sadanrttamurti](https://archive.org/details/acc.no.25327anandatandavaofsivasadanrttamurti1985/mode/2up)* 一书的封面，绘着 **Ananda Tandava** 的典型图像。Ananda Tandava 为 七种 Tandava 之一，乃极乐之舞，愉悦地舞蹈着的是四手湿婆（**Siva**，其舞王形态也唤作 **Nataraja**），头戴孔雀羽，[^1] 右后臂擎创造鼓，左后臂举毁灭火，[^2] 右前臂结无畏印（abhayamudra），左前臂作 gajahasta 式，[^3] 左脚抬起，右脚踏玩眼镜蛇的侏儒恶魔 **Apasmara**[^4]（象征着精神愚昧和言语混乱 [^5]）。四周的火焰光轮名为 Prabha，[^6]</samp>
 
 <pre>
 
@@ -62,7 +62,11 @@
 
 </pre>
 
-<ins>[1] Tandava</ins><small>：音譯為「坦達瓦」，印度教毀滅之神濕婆（Shiva）所跳的滅世之舞。當舊時代結束，濕婆會跳起坦達瓦來完成世界的毀滅，並使世界回歸到宇宙精神中。</small>
+<ins>[1] Tandava</ins><small>：音譯為「坦達瓦」，印度教毀滅之神濕婆（Shiva 或 Siva）所跳的滅世之舞。當舊時代結束，濕婆會跳起坦達瓦來完成世界的毀滅，並使世界回歸到宇宙精神中。</small><small>印度经典《乐舞论》（*Natya Shastra*）以为 Tandava 由 Shiva 的侍从 Tandu 发明。[^7] Tandava 一词与泰米尔语 *tāṇṭavam* 同源，意为「跳舞」。 [^8]</small>
+
+![](https://i.pinimg.com/474x/7b/17/6c/7b176c1fea302c87ab94e5bd56998e2f.jpg)
+
+<samp>此图标注出 Tandava 的形态与大致意喻，较之前图，**Nataraja** 多了第三只眼。</samp>
 
 <ins>[2] 謝安</ins><small>：東晉政治家，《晉書·謝安傳》記載：玄等既破堅，有驛書至，安方對客圍棋，看書既竟，便攝放床上，了無喜色，棋如故。客問之，徐答云：「小兒輩遂已破賊。」既罷，還內，過戶限，心喜甚，不覺屐齒之折。</small>
 
@@ -172,3 +176,6 @@
 [^3]: Gajahasta 为 Gaja（大象）与 Hasta（手臂）的复合，以其手势形似象鼻故名（见下图）。见 [Gajahasta](https://www.hindupedia.com/en/Gajahasta) <br/>![](https://www.hindupedia.com/images/7/77/Gajahasta.jpg)
 [^4]: 「The Apasmāra should be made in the *chatustāla* measurement, with two arms, two eyes, with the face downcast or looking up and should be holding in his left hand a cobra with uplifted hood.」见 T. A. Gopinatha Rao: [*Elements of Hindu Iconography*](https://books.google.com.tw/books?id=e7mP3kDzGuoC&lpg=PP1&pg=PA227#v=onepage&q=227&f=false)。下图为 Apasmara。<br/>![](https://live.staticflickr.com/7264/7803676180_b167290a10_b.jpg)
 [^5]: 「Shiva is shown perfectly balanced, with his right leg planted on the demon of darkness (Apasmara), stamping out ignorance.」见 [*Shiva as Lord of the Dance (Nataraja)*]( https://www.artic.edu/artworks/24548/shiva-as-lord-of-the-dance-nataraja#:~:text=Shiva%20is%20shown%20perfectly%20balanced%2C%20with%20his%20right%20leg%20planted%20on%20the%20demon%20of%20darkness%20(Apasmara)%2C%20stamping%20out%20ignorance.)。
+[^6]: 「The prabha or the aureola is surmounted all round with flames of fire similar to the one which is held in His hand and the Silparatna states that this prabha is the ravi-marulala or the sun’s disc.」见 M. A. Dorai Rangaswamy: [*The Religion and Philosophy of Tevaram*](https://www.wisdomlib.org/hinduism/book/tevaram-religion-and-philosophy/d/doc421162.html#:~:text=The%20prabha%20or%20the%20aureola%20is%20surmounted%20all%20round%20with%20flames%20of%20fire%20similar%20to%20the%20one%20which%20is%20held%20in%20His%20hand%20and%20the%20Silparatna%20states%20that%20this%20prabha%20is%20the%20ravi%2Dmarulala%20or%20the%20sun%E2%80%99s%20disc.)
+[^7]: 「After inventing the Recakas, Aṅgahāras and Piṇḍīs, Śiva communicated them to the sage Taṇḍu who in his turn made out of them dance together with songs and instrumental music; and hence this dance is known as Tāṇḍava (i.e. of Taṇḍu’s creation).」见 [*Natya Shastra*](https://www.wisdomlib.org/hinduism/book/the-natyashastra/d/doc209696.html#:~:text=their%20own%20banners.-,263%2D264.,-After%20inventing%20the) Chapter IV: 263-264.
+[^8]: 「The name of the dance is simply identical with the Tamil word *tāṇṭavam* which means 'leaping, jumping' (derived from *tāṛṇṭu-* ‘to jump, leap across, jump over, dance', cf. *Dravidian Etymological Dictionary* 2578).」见 Kamil V. Zvelebil: [*Ananda-Tandava of Siva-Sadanrttamurti*](https://archive.org/details/acc.no.25327anandatandavaofsivasadanrttamurti1985/page/n13/mode/2up#:~:text=the%20hard%20philological,means%27leaping%2C%20jumping%27)
