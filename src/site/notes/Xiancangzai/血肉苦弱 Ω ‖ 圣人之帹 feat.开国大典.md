@@ -3,6 +3,20 @@
 ---
 
 
+<pre>
+
+
+
+</pre>
+
+<pre style="text-align:center;font-family:'AntroVectra';"><a href="https://www.xiancangzai.com/" style="font-size:0.6em; color:#a61b29;">--- Xian Cang Zai ---</a></pre>
+
+<pre>
+
+
+
+</pre>
+
 ![](https://artlogic-res.cloudinary.com/w_1600,h_1600,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/inkstudio/images/view/611278a6d4f6b02a5c1d9de897320f015eab5e98.jpg)
 
 <samp>这张作品是库克（Tim Cook）的书法老师 [^1] **王冬龄**（悟斋、大散草堂） 2016 年所书《**[逍遥游](https://www.inkstudio.com.cn/zh/artists/57-wang-dongling/works/1589-wang-dongling-wandering-beyond-2016/)**》，「书非书」[^2] 是冬龄师长久的实验性观念，从先秦典籍到唐诗宋词，汉字将被写遍。有人认为悟斋是「非语义」（asemic）的，[^3] 虽然宣纸上还停留着难以辨识的古典文本，但其考验的不再是我们的认字能力，而是我们的想象力了。</samp>
@@ -264,6 +278,14 @@ https://pan.quark.cn/s/83ab1b16967a
 
 </pre>
 
+<pre style="text-align:center;font-family:'AntroVectra';"><a href="https://www.xiancangzai.com/" style="font-size:0.6em; color:#a61b29;">--- Xian Cang Zai ---</a></pre>
+
+<pre>
+
+
+
+</pre>
+
 ![血肉苦弱Ω.png](/img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/%E8%A1%80%E8%82%89%E8%8B%A6%E5%BC%B1%CE%A9.png)
 
 <p style="font-size:0.7em;color:#999ea2"><ins style="font-size:1em;background: black;color:white">血肉苦弱 Ω</ins> | 影像詩寫作計畫，或成本更低的説法：「詩學實驗」。絕對不願將影像詩作為媒介之間的融合、跨越、拼貼，而更關心敘事性在詩中的湧現，而意識到某種急促的、未來的敘事詩在文本內部已無法完成，它必須使自身變成影像/偽電影，技術才能整合進不斷更新的無產階級的生產。</p>
@@ -272,7 +294,19 @@ https://pan.quark.cn/s/83ab1b16967a
 
 <p style="font-size:0.7em; color:#999ea2"><ins style="font-size:1em;background: black;color:white">鱻蒼載</ins> | 「鱻蒼載」的隱語/鴘轉為魯迅所發機，鱻與新，蒼與青，載與年，全是潘諾西亞人的幻覺，不是任務，而是悬亙的準備，向著彌賽亞的腳踵、阿美西亞人的語言僭主、共和囻。</p>
 
----
+<pre>
+
+
+
+</pre>
+
+<pre style="text-align:center;font-family:'AntroVectra';"><a href="https://www.xiancangzai.com/" style="font-size:0.6em; color:#a61b29;">--- Xian Cang Zai ---</a></pre>
+
+<pre>
+
+
+
+</pre>
 
 ![贊賞碼.png](/img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/%E8%B4%8A%E8%B3%9E%E7%A2%BC.png)
 
