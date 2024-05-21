@@ -49,17 +49,17 @@
 
 <p style="font-size:0.85em; color:#495c69">该部影像诗由牛金牛发布在油管上，链接地址为——</p>
 
-https://youtu.be/V3dX1nV1VgM
+<small style="font-family:'AntroVectra';">https://youtu.be/V3dX1nV1VgM</small>
 
 <p style="font-size:0.85em; color:#495c69">影像资源也上传至百度网盘与夸克网盘，供无法科学上网的观众获取——</p>
 
 <font style="font-size:0.8em; background: black" color=white>百度网盘</font>
 
-https://pan.baidu.com/s/1r2BrXXIwe3RJZjkUEf2Ltg?pwd=s8lb
+<small style="font-family:'AntroVectra';">https://pan.baidu.com/s/1r2BrXXIwe3RJZjkUEf2Ltg?pwd=s8lb</small>
 
 <font style="font-size:0.8em; background: black" color=white>夸克网盘</font>
 
-https://pan.quark.cn/s/83ab1b16967a
+<small style="font-family:'AntroVectra';">https://pan.quark.cn/s/83ab1b16967a</small>
 
 <pre>
 
