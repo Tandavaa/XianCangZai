@@ -36,7 +36,7 @@
 </pre>
 
 <pre>
-匿名票<sup>[在 Reddit 的淚腺<sup>[：兩個謝安<sup>[2]</sup>]</sup> 中]</sup>為再路過
+匿名票<sup>[在 Reddit 的淚腺<sup>[：謝安的左脚特技<sup>[2]</sup>]</sup> 中]</sup>為再路過
 的魯<sup>[髽<sup>[3]</sup>起<sup>[被贖者<sup>[4]</sup>便放慢收尾] </sup>陽虎<sup>[5]</sup>的潮汐]</sup>流血，
  <sub>(的李文亮<sup>[6] </sup>)</sub>掩與席邏<sub>(羅)<sub>(維)</sub></sub>輯的卷耳：
 雪如漢學嗚，贊米亞<sup>[7]</sup>概率<sup>[中的魯人。]</sup>
@@ -46,7 +46,7 @@
 三撾偶然<sup>[怎樣不再無贖人者<sub>漂涌于椎牛<sup>[12]</sup></sub>]</sup>的要離<sup>[13]</sup> 。
 </pre>
 
-<cite>2022.7.28</cite>
+<cite>2022.7.28</cite><br/><cite>2024.5.22</cite>
 
 <pre>
 
@@ -68,7 +68,9 @@
 
 <samp>此图标注出 Tandava 的形态与大致意喻，较之前图，**Nataraja** 明确绘出了第三只眼。</samp>
 
-<ins>[2] 謝安</ins><small>：東晉政治家，《晉書·謝安傳》記載：玄等既破堅，有驛書至，安方對客圍棋，看書既竟，便攝放床上，了無喜色，棋如故。客問之，徐答云：「小兒輩遂已破賊。」既罷，還內，過戶限，心喜甚，不覺屐齒之折。</small>
+<ins>[2] 謝安</ins><small>：東晉名相，《晉書·謝安傳》記載肥水之戰勝利后的謝安的「矯情鎮物」：</small>
+
+> 玄等既破堅，有驛書至，安方對客圍棋，看書既竟，便攝放床上，了無喜色，棋如故。客問之，徐答云：「小兒輩遂已破賊。」既罷，還內，過戶限，心喜甚，不覺屐齒之折。[^19]
 
 <ins>[3] 髽</ins><small>：《左傳·襄公四年》：「臧紇救鄫，侵邾，敗於狐駘。國人逆喪者皆髽，魯於是乎始髽。」晉杜預注：「髽，麻髮合結也。遭喪者多，故不能備凶服，髽而已。」</small>
 
@@ -191,3 +193,4 @@
 [^16]: <samp>「The dance is an eternal cycle of creation, protection, destruction and deliverance. It takes place in the tiruvāci or prabhamaṇḍala which represents the 'dance' of nature (*prakṛti*), within which the dance of the Prime Mover is an eternal event. The whole form may be 'read' too, as the mystic mantra Om, and all later, metaphysical, sophisticated interpretations agree that the ananda-tāṇḍava is an expression of the fivefold actions of Siva: *sṛṣṭi* or pouring forth, unfolding, creation; *sthiti* or maintenance, duration; *samhāra* or taking back in, destruction; *tirobhava* or concealing, veiling, hiding, i.e. the transcendental essence behind the garb of apparitions; and *anugrahā* or bestowing grace through a manifestation that accepts the devotee, favouring.」见 [[Zvelebil：Ananda-Tandava of Siva-Sadanrttamurti.pdf#page=56&annotation=1599R|Zvelebil：Ananda-Tandava of Siva-Sadanrttamurti, p.56]]</samp>
 [^17]: <samp>「After inventing the Recakas, Aṅgahāras and Piṇḍīs, Śiva communicated them to the sage Taṇḍu who in his turn made out of them dance together with songs and instrumental music; and hence this dance is known as Tāṇḍava (i.e. of Taṇḍu’s creation).」见 [*Natya Shastra*](https://www.wisdomlib.org/hinduism/book/the-natyashastra/d/doc209696.html#:~:text=their%20own%20banners.-,263%2D264.,-After%20inventing%20the) Chapter IV: 263-264.</samp>
 [^18]: <samp>「The name of the dance is simply identical with the Tamil word *tāṇṭavam* which means 'leaping, jumping' (derived from *tāṛṇṭu-* 'to jump, leap across, jump over, dance', cf. *Dravidian Etymological Dictionary* 2578).」见 [[Zvelebil：Ananda-Tandava of Siva-Sadanrttamurti.pdf#page=14&annotation=1578R|Zvelebil：Ananda-Tandava of Siva-Sadanrttamurti, p.14]]</samp>
+[^19]: 见 [晋书·列传第四十九·谢安](calibre://view-book/_hex_-43616c69627265/61/EPUB?open_at=epubcfi%28/160/2/4/2/36/2/1:201%29)
