@@ -38,8 +38,8 @@
 <pre>
 匿名票<sup>[在 Reddit 的淚腺<sup>[：謝安的左脚特技<sup>[2]</sup>]</sup> 中]</sup>為再路過
 的魯<sup>[髽<sup>[3]</sup>起<sup>[被贖者<sup>[4]</sup>便放慢收尾] </sup>陽虎<sup>[5]</sup>的潮汐]</sup>流血，
- <sub>(的李文亮<sup>[6] </sup>)</sub>掩與席邏<sub>(羅)<sub>(維)</sub></sub>輯的卷耳：
-雪如漢學嗚，贊米亞<sup>[7]</sup>概率<sup>[中的魯人。]</sup>
+ <sub>(的李文亮<sup>[6] </sup>)</sub>能掩與席邏<sub>(羅)<sub>(維)</sub></sub>輯的卷耳：
+雪如漢學嗎？贊米亞<sup>[7]</sup>概率<sup>[中的魯人。]</sup>
 還回<sup>[以馬謖<sup>[8]</sup>的提毗<sup>[9]</sup>票<sup>[也狂等拿取]</sup>]</sup>劉謙<sup>[10]</sup>之舞，
 維<sup>[為它<sup>[臨<sub>(Tan)</sub>江<sub>(da)</sub>仙<sub>(va)</sub>之幺]</sup>合并成阿塔蘭忒<sup>[11]</sup>] </sup>有
 空<sup>[右臂消失]</sup>城計的陰部蘋果<sup>[來世的孢子在等<sup>[解]</sup>它]</sup>
@@ -68,17 +68,23 @@
 
 <samp>此图标注出 Tandava 的形态与大致意喻，较之前图，**Nataraja** 明确绘出了第三只眼。</samp>
 
-<ins>[2] 謝安</ins><small>：東晉名相，《晉書·謝安傳》記載肥水之戰勝利后的謝安的「矯情鎮物」：</small>
+<ins>[2] 謝安</ins><small>：東晉名相，《晉書·謝安傳》記載淝水之戰勝利后的謝安的「矯情鎮物」：</small>
 
 > 玄等既破堅，有驛書至，安方對客圍棋，看書既竟，便攝放床上，了無喜色，棋如故。客問之，徐答云：「小兒輩遂已破賊。」既罷，還內，過戶限，心喜甚，不覺屐齒之折。[^19]
 
-<ins>[3] 髽</ins><small>：《左傳·襄公四年》：「臧紇救鄫，侵邾，敗於狐駘。國人逆喪者皆髽，魯於是乎始髽。」晉杜預注：「髽，麻髮合結也。遭喪者多，故不能備凶服，髽而已。」</small>
+<ins>[3] 髽</ins><small>：《左傳·襄公四年》：「冬，十月，邾人、莒人伐鄫。臧紇救鄫，侵邾，敗於狐駘。國人逆喪者皆髽，魯於是乎始髽。」杜預注：「髽，麻髮合結也。遭喪者多，故不能備凶服，髽而已。」[^20]</small>
 
 <ins>[4] 被贖者</ins><small>：《呂氏春秋·察微》：魯國之法，魯人為人臣妾於諸侯，有能贖之者，取其金於府。子貢贖魯人於諸侯，來而讓，不取其金。孔子曰：「賜失之矣。自今以往，魯人不贖人矣。取其金則無損於行，不取其金則不復贖人矣。」</small>
 
 <ins>[5] 陽虎</ins><small>：一名陽貨，魯國權臣，與孔子外貌極相似。《論語·陽貨》：陽貨欲見孔子，孔子不見，歸孔子豚。孔子時其亡也，而往拜之，遇諸塗。謂孔子曰：「來！予與爾言。」曰：「懷其寶而迷其邦，可謂仁乎？」曰：「不可。」「好從事而亟失時，可謂知乎？」曰：「不可。」「日月逝矣，歲不我與。」孔子曰：「諾。吾將仕矣。」</small>
 
-<ins>[6] 李文亮</ins><small>：武漢市中心醫院眼科醫生，2020 年 1 月 3 日因吹哨新冠疫情而被警方訓誡，2020 年 2 月 7 日因感染新冠去世，後被評定為烈士。</small>
+<ins>[6] 李文亮</ins><small>：武漢市中心醫院眼科醫生，2020 年 1 月 3 日因吹哨新冠疫情而被警方訓誡，2020 年 2 月 7 日（此爲官方公布時間）因感染新冠去世，後被評定為烈士。警方訓誡書中寫道：</small>
+
+> 公安机关希望你积极配合工作，听从民警的规劝，至此中止违法行为。你能做到吗？
+>
+> 我们希望你冷静下来好好反思，并郑重告诫你：如果你固执己见，不思悔改，继续进行违法活动，你将会受到法律的制裁！你明白了吗？
+
+<small>李文亮在訓誡書上分別簽下「能」「明白」，此三字廣爲網民傳播以譏諷肉食者。[^21]</small>
 
 <ins>[7] 贊米亞（Zomia）</ins><small>：歷史學家申德爾（Willem van Schendel）於 2002 年提出的地理術語，意指東南亞高地社會中特定群體逃避「國家空間」的產物。贊米亞是世界最大的無國家空間之一，包括從越南中部高地到印度東北部的海拔 300 米以上的區域，橫跨東南亞的五國（越南、柬埔寨、老撾、泰國和緬甸）以及中國的四省（雲南、貴州、廣西和四川），共 250 萬平方公里，約 1 億少數族群人口。</small>
 
@@ -86,7 +92,7 @@
 
 <ins>[9] 提毗（Devi）</ins><small>：印度教女神，濕婆之妻。</small>
 
-<ins>[10] 劉謙</ins><small>：世界魔術大師，2011 年曾在 EMC 大會上表演巴格拉斯效果。</small>
+<ins>[10] 劉謙</ins><small>：世界魔術大師，2011 年曾在 EMC 大會上表演巴格拉斯效果，其原理至今未被破解。</small>
 
 <ins>[11] 阿塔蘭忒（Atalanta）</ins><small>：古希臘神話中的女獵手，她會同向她求婚的人賽跑，求婚者輸了便會被她殺死。其中一名求婚者希波墨涅斯（Hesperides）拿到了愛神阿弗洛狄忒（Aphrodite）所給的三顆金蘋果，在賽跑時，每當阿塔蘭忒要超過他，希波墨涅斯就往賽道上扔一顆金蘋果，阿塔蘭忒就會去拿取，如此三次，希波墨涅斯以微弱的優勢贏得賽跑。</small>
 
@@ -193,4 +199,6 @@
 [^16]: <samp>「The dance is an eternal cycle of creation, protection, destruction and deliverance. It takes place in the tiruvāci or prabhamaṇḍala which represents the 'dance' of nature (*prakṛti*), within which the dance of the Prime Mover is an eternal event. The whole form may be 'read' too, as the mystic mantra Om, and all later, metaphysical, sophisticated interpretations agree that the ananda-tāṇḍava is an expression of the fivefold actions of Siva: *sṛṣṭi* or pouring forth, unfolding, creation; *sthiti* or maintenance, duration; *samhāra* or taking back in, destruction; *tirobhava* or concealing, veiling, hiding, i.e. the transcendental essence behind the garb of apparitions; and *anugrahā* or bestowing grace through a manifestation that accepts the devotee, favouring.」见 [[Zvelebil：Ananda-Tandava of Siva-Sadanrttamurti.pdf#page=56&annotation=1599R|Zvelebil：Ananda-Tandava of Siva-Sadanrttamurti, p.56]]</samp>
 [^17]: <samp>「After inventing the Recakas, Aṅgahāras and Piṇḍīs, Śiva communicated them to the sage Taṇḍu who in his turn made out of them dance together with songs and instrumental music; and hence this dance is known as Tāṇḍava (i.e. of Taṇḍu’s creation).」见 [*Natya Shastra*](https://www.wisdomlib.org/hinduism/book/the-natyashastra/d/doc209696.html#:~:text=their%20own%20banners.-,263%2D264.,-After%20inventing%20the) Chapter IV: 263-264.</samp>
 [^18]: <samp>「The name of the dance is simply identical with the Tamil word *tāṇṭavam* which means 'leaping, jumping' (derived from *tāṛṇṭu-* 'to jump, leap across, jump over, dance', cf. *Dravidian Etymological Dictionary* 2578).」见 [[Zvelebil：Ananda-Tandava of Siva-Sadanrttamurti.pdf#page=14&annotation=1578R|Zvelebil：Ananda-Tandava of Siva-Sadanrttamurti, p.14]]</samp>
-[^19]: 见 [晋书·列传第四十九·谢安](calibre://view-book/_hex_-43616c69627265/61/EPUB?open_at=epubcfi%28/160/2/4/2/36/2/1:201%29)
+[^19]: <samp>见 [晋书·列传第四十九·谢安](calibre://view-book/_hex_-43616c69627265/61/EPUB?open_at=epubcfi%28/160/2/4/2/36/2/1:201%29)</samp>
+[^20]: <samp>见 [春秋左传正义·卷二十九 襄元年，尽四年](calibre://view-book/_hex_-43616c69627265/62/EPUB?open_at=epubcfi%28/62/2/4/978/1:2%29)</samp>
+[^21]: <samp>见 [當我們哀悼李文亮時，我們究竟在哀悼什麼？](https://www.twreporter.org/a/2019-ncov-lwl-matters)</samp>
