@@ -19,7 +19,7 @@
 
 ![Ananda-Tandava of Siva-Sadanrttamurti.png](/img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/Ananda-Tandava%20of%20Siva-Sadanrttamurti.png)
 
-<samp>此图为 Kamil V. Zvelebil 所著 *[Ananda-Tandava of Siva-Sadanrttamurti](https://archive.org/details/acc.no.25327anandatandavaofsivasadanrttamurti1985/mode/2up)* 一书的封面，绘着 **Ananda Tandava** 的典型图像，在十世纪晚期成型。[^1]Ananda Tandava 为所有七种 Tandava 的总完成，[^2] 乃极乐之戏舞，[^3] 愉悦地舞蹈着的是四手湿婆（**Siva**，其舞王形态也唤作 **Nataraja**），右后臂擎小鼓，代表宇宙原处的创造力、时间之节拍，也代表男女法则的统一；[^4] 左后臂举火舌，手作 ardhacandrahasta 式，代表三昧（samhāra）即宇宙的毁灭，[^5] 两只手共示毁灭与创造的平衡。[^6] 右前臂结无畏印（abhaya），[^7] 象征着保护/维持与恩典；[^8] 左前臂作 gajahasta 式。[^9] 右脚踏着玩眼镜蛇的侏儒恶魔 **Apasmara**[^10]（象征着精神愚昧和言语混乱 [^11]），代表着 Siva 对愚昧的降伏；左脚抬起，象征着虔诚灵魂的解放，两只脚表示着知识与无知的循环。[^12] 四周是从莲座中长出的火拱门（**Prabha**）。[^13]</samp>
+<samp>此图为 Kamil V. Zvelebil 所著 *[Ananda-Tandava of Siva-Sadanrttamurti](https://archive.org/details/acc.no.25327anandatandavaofsivasadanrttamurti1985/mode/2up)* 一书的封面，绘着 **Ananda Tandava** 的典型图像，在十世纪晚期成型。[^1]Ananda Tandava 为所有七种 Tandava 的总完成，[^2] 乃极乐之戏舞，[^3] 愉悦地舞蹈着的是四手湿婆（**Siva**，其舞王形态也唤作 **Nataraja**），右后臂擎小鼓，代表宇宙原初的创造力、时间之节拍，也代表男女法则的统一；[^4] 左后臂举火舌，手作 ardhacandrahasta 式，代表三昧（samhāra）即宇宙的毁灭，[^5] 两只手共示毁灭与创造的平衡。[^6] 右前臂结无畏印（abhaya），[^7] 象征着保护/维持与恩典；[^8] 左前臂作 gajahasta 式。[^9] 右脚踏着玩眼镜蛇的侏儒恶魔 **Apasmara**[^10]（象征着精神愚昧和言语混乱 [^11]），代表着 Siva 对愚昧的降伏；左脚抬起，象征着虔诚灵魂的解放，两只脚表示着知识与无知的循环。[^12] 四周是从莲座中长出的火拱门（**Prabha**）。[^13]</samp>
 
 <pre>
 
@@ -76,9 +76,13 @@
 
 <ins>[3] 髽</ins><small>：《左傳·襄公四年》：「冬，十月，邾人、莒人伐鄫。臧紇救鄫，侵邾，敗於狐駘。國人逆喪者皆髽，魯於是乎始髽。」杜預注：「髽，麻髮合結也。遭喪者多，故不能備凶服，髽而已。」[^19]</small>
 
-<ins>[4] 被贖者</ins><small>：《呂氏春秋·察微》：魯國之法，魯人為人臣妾於諸侯，有能贖之者，取其金於府。子貢贖魯人於諸侯，來而讓，不取其金。孔子曰：「賜失之矣。自今以往，魯人不贖人矣。取其金則無損於行，不取其金則不復贖人矣。」</small>
+<ins>[4] 被贖者</ins><small>：《呂氏春秋·察微》：</small>
 
-<ins>[5] 陽虎</ins><small>：一名陽貨，魯國權臣，與孔子外貌極相似。《論語·陽貨》：陽貨欲見孔子，孔子不見，歸孔子豚。孔子時其亡也，而往拜之，遇諸塗。謂孔子曰：「來！予與爾言。」曰：「懷其寶而迷其邦，可謂仁乎？」曰：「不可。」「好從事而亟失時，可謂知乎？」曰：「不可。」「日月逝矣，歲不我與。」孔子曰：「諾。吾將仕矣。」</small>
+> 魯國之法，魯人為人臣妾於諸侯，有能贖之者，取其金於府。子貢贖魯人於諸侯，來而讓，不取其金。孔子曰：「賜失之矣。自今以往，魯人不贖人矣。取其金則無損於行，不取其金則不復贖人矣。」[^20]
+
+<ins>[5] 陽虎</ins><small>：一名陽貨，魯國權臣，與孔子外貌極相似。《論語·陽貨》：</small>
+
+> 陽貨欲見孔子，孔子不見，歸孔子豚。孔子時其亡也，而往拜之，遇諸塗。謂孔子曰：「來！予與爾言。」曰：「懷其寶而迷其邦，可謂仁乎？」曰：「不可。」「好從事而亟失時，可謂智乎？」曰：「不可。」「日月逝矣，歲不我與。」孔子曰：「諾；吾將仕矣。」[^21]
 
 <ins>[6] 李文亮</ins><small>：武漢市中心醫院眼科醫生，2020 年 1 月 3 日因吹哨新冠疫情而被警方訓誡，2020 年 2 月 7 日（此爲官方公布時間）因感染新冠去世，後被評定為烈士。警方訓誡書中寫道：</small>
 
@@ -86,9 +90,9 @@
 >
 > 我们希望你冷静下来好好反思，并郑重告诫你：如果你固执己见，不思悔改，继续进行违法活动，你将会受到法律的制裁！你明白了吗？
 
-<small>李文亮在訓誡書上分別簽下「能」「明白」，此三字廣爲網民傳播以譏諷肉食者。[^20]</small>
+<small>李文亮在訓誡書上分別簽下「能」「明白」，此三字廣爲網民傳播以譏諷肉食者。[^22]</small>
 
-<ins>[7] 贊米亞（Zomia）</ins><small>：歷史學家申德爾（Willem van Schendel）於 2002 年提出的地理術語，意指東南亞高地社會中特定群體逃避「國家空間」的產物。贊米亞是世界最大的無國家空間之一，包括從越南中部高地到印度東北部的海拔 300 米以上的區域，橫跨東南亞的五國（越南、柬埔寨、老撾、泰國和緬甸）以及中國的四省（雲南、貴州、廣西和四川），共 250 萬平方公里，約 1 億少數族群人口。</small>
+<ins>[7] 贊米亞（Zomia）</ins><small>：歷史學家申德爾（Willem van Schendel）於 2002 年提出的地理術語，意指東南亞高地社會中特定群體逃避「國家空間」的產物。贊米亞是世界最大的無國家空間之一，包括從越南中部高地到印度東北部的海拔 300 米以上的區域，橫跨東南亞的五國（越南、柬埔寨、老撾、泰國和緬甸）以及中國的四省（雲南、貴州、廣西和四川），共 250 萬平方公里，約 1 億少數族群人口。Zomia 来源于米佐库基钦（Mizo-Kuki-Chin）语支对高地人的称呼 Zomi。 [^23]</small>
 
 <ins>[8] 馬謖</ins><small>：三國時期蜀漢將領，有孔明揮淚斬馬謖的故事。</small>
 
@@ -96,9 +100,9 @@
 
 ![](https://0.api.artsmia.org/800/6223.jpg)
 
-<samp>13 世纪的提毗（**Devi**）铜像（[*Devi Uma Parameshvari, Great Goddess Uma*](https://collections.artsmia.org/art/6223/devi-uma-parameshvari-india)）。Coomaraswamy 说 **Tandava** 起源于前雅利安的半神半魔的神祇，通常由十臂的湿婆（**Śiva**）与提毗（Devi）合跳，并有一群小恶魔伴舞。[^21] 在 Ananda-Tāṇḍava 中，这群小恶魔可能便演化成 **Apasmara**。</samp>
+<samp>13 世纪的提毗（**Devi**）铜像（[*Devi Uma Parameshvari, Great Goddess Uma*](https://collections.artsmia.org/art/6223/devi-uma-parameshvari-india)）。Coomaraswamy 说 **Tandava** 起源于前雅利安的半神半魔的神祇，通常由十臂的湿婆（**Śiva**）与提毗（Devi）合跳，并有一群小恶魔伴舞。[^24] 在 Ananda-Tāṇḍava 中，这群小恶魔可能便演化成 **Apasmara**。</samp>
 
-<ins>[10] 劉謙</ins><small>：世界魔術大師，2011 年曾在 EMC 大會上表演巴格拉斯效果，其原理至今未被破解。</small>
+<ins>[10] 劉謙</ins><small>：世界魔術大師，2011 年曾在 EMC 大會上表演巴格拉斯效果，其原理至今未被破解。可在 [此视频](https://www.bilibili.com/video/BV1Mb41167XA/?vd_source=6bee2e9dfa65e962fc4066ad69b6e5af) 中观看当时的现场。</small>
 
 <ins>[11] 阿塔蘭忒（Atalanta）</ins><small>：古希臘神話中的女獵手，她會同向她求婚的人賽跑，求婚者輸了便會被她殺死。其中一名求婚者希波墨涅斯（Hesperides）拿到了愛神阿弗洛狄忒（Aphrodite）所給的三顆金蘋果，在賽跑時，每當阿塔蘭忒要超過他，希波墨涅斯就往賽道上扔一顆金蘋果，阿塔蘭忒就會去拿取，如此三次，希波墨涅斯以微弱的優勢贏得賽跑。</small>
 
@@ -206,5 +210,8 @@
 [^17]: <samp>「The name of the dance is simply identical with the Tamil word *tāṇṭavam* which means 'leaping, jumping' (derived from *tāṛṇṭu-* 'to jump, leap across, jump over, dance', cf. *Dravidian Etymological Dictionary* 2578).」见 Zvelebil：*[[Zvelebil：Ananda-Tandava of Siva-Sadanrttamurti.pdf#page=14&annotation=1578R|Ananda-Tandava of Siva-Sadanrttamurti, p.14]]*</samp>
 [^18]: <samp>见 [晋书·列传第四十九·谢安](calibre://view-book/_hex_-43616c69627265/61/EPUB?open_at=epubcfi%28/160/2/4/2/36/2/1:201%29)</samp>
 [^19]: <samp>见 [春秋左传正义·卷二十九·襄元年，尽四年](calibre://view-book/_hex_-43616c69627265/62/EPUB?open_at=epubcfi%28/62/2/4/978/1:2%29)</samp>
-[^20]: <samp>见 [當我們哀悼李文亮時，我們究竟在哀悼什麼？](https://www.twreporter.org/a/2019-ncov-lwl-matters)</samp>
-[^21]: <samp>「The second well known dance of Siva is called the *Tandava*, and belongs to His *tāmasic* aspect as Bhairava or Vira-bhadra. It is performed in cemeteries and burning grounds, where Śiva, usually in ten-armed form, dances wildly with Devi, accompanied by troops of capering imps. Representations of this dance are common amongst ancient sculptures, as at Elūra, Elephanta, and also Bhuvaneśvara. The *tāṇdava* dance is in origin that of a pre-Aryan divinity, half-god, half-demon, who holds his midnight revels in the burning ground. In later times, this dance in the cremation ground, sometimes of Śiva, sometimes of Devi, is interpreted in Śaiva and Śākta literature in a most touching and profound sense.」见 Coomaraswamy：*[[Coomaraswamy：The Dance of Siva：fourteen Indian essays.pdf#page=93&annotation=1095R|The Dance of Shiva]]*</samp>
+[^20]: <samp>见 [呂氏春秋·察微](calibre://view-book/_hex_-43616c69627265/63/EPUB?open_at=epubcfi%28/42/2/4/538/1:0%29)</samp>
+[^21]: <samp>见程树德： [[程树德：论语集释（全四册）.pdf#page=1203&rect=66,61,389,776|论语集释·卷三十四·阳货上]]</samp>
+[^22]: <samp>见 [當我們哀悼李文亮時，我們究竟在哀悼什麼？](https://www.twreporter.org/a/2019-ncov-lwl-matters)</samp>
+[^23]: <samp>见 Schendel: *Geographies of Knowing, Geographies of Ignorance: Jumping Scale in Southeast Asia* from *[[Locating Southeast Asia：Geographies of Knowledge and Politics of Space.pdf#page=294&annotation=2859R|Locating Southeast Asia：Geographies of Knowledge and Politics of Space, p.282]]* </samp>
+[^24]: <samp>「The second well known dance of Siva is called the *Tandava*, and belongs to His *tāmasic* aspect as Bhairava or Vira-bhadra. It is performed in cemeteries and burning grounds, where Śiva, usually in ten-armed form, dances wildly with Devi, accompanied by troops of capering imps. Representations of this dance are common amongst ancient sculptures, as at Elūra, Elephanta, and also Bhuvaneśvara. The *tāṇdava* dance is in origin that of a pre-Aryan divinity, half-god, half-demon, who holds his midnight revels in the burning ground. In later times, this dance in the cremation ground, sometimes of Śiva, sometimes of Devi, is interpreted in Śaiva and Śākta literature in a most touching and profound sense.」见 Coomaraswamy：*[[Coomaraswamy：The Dance of Siva：fourteen Indian essays.pdf#page=93&annotation=1095R|The Dance of Shiva]]*</samp>
