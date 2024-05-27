@@ -19,7 +19,7 @@
 
 ![Ananda-Tandava of Siva-Sadanrttamurti.png](/img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/Ananda-Tandava%20of%20Siva-Sadanrttamurti.png)
 
-<samp>此图为 Kamil V. Zvelebil 所著 *[Ananda-Tandava of Siva-Sadanrttamurti](https://archive.org/details/acc.no.25327anandatandavaofsivasadanrttamurti1985/mode/2up)* 一书的封面，绘着 **Ananda Tandava** 的典型图像，在十世纪晚期成型。[^1]Ananda Tandava 为所有七种 Tandava 的总完成，[^2] 乃极乐之戏舞，[^3] 愉悦地舞蹈着的是四手湿婆（**Siva**，其舞王形态也唤作 **Nataraja**），头戴孔雀羽，[^4] 右后臂擎小鼓，代表宇宙原处的创造力、时间之节拍，也代表男女法则的统一；[^5] 左后臂举火舌，手作 ardhacandrahasta 式，代表三昧（samhāra）即宇宙的毁灭，[^6] 两只手共示毁灭与创造的平衡。[^7] 右前臂结无畏印（abhaya），[^8] 象征着保护、维持与恩典；[^9] 左前臂作 gajahasta 式。[^10] 右脚踏着玩眼镜蛇的侏儒恶魔 **Apasmara**[^11]（象征着精神愚昧和言语混乱 [^12]），代表着 Siva 对愚昧的降伏；左脚抬起，象征着虔诚灵魂的解放，两只脚表示着知识与无知的循环。[^13] 四周是从莲座中长出的火拱门（**Prabha**）。[^14] [^15]</samp>
+<samp>此图为 Kamil V. Zvelebil 所著 *[Ananda-Tandava of Siva-Sadanrttamurti](https://archive.org/details/acc.no.25327anandatandavaofsivasadanrttamurti1985/mode/2up)* 一书的封面，绘着 **Ananda Tandava** 的典型图像，在十世纪晚期成型。[^1]Ananda Tandava 为所有七种 Tandava 的总完成，[^2] 乃极乐之戏舞，[^3] 愉悦地舞蹈着的是四手湿婆（**Siva**，其舞王形态也唤作 **Nataraja**），头戴孔雀羽，[^4] 右后臂擎小鼓，代表宇宙原处的创造力、时间之节拍，也代表男女法则的统一；[^5] 左后臂举火舌，手作 ardhacandrahasta 式，代表三昧（samhāra）即宇宙的毁灭，[^6] 两只手共示毁灭与创造的平衡。[^7] 右前臂结无畏印（abhaya），[^8] 象征着保护/维持与恩典；[^9] 左前臂作 gajahasta 式。[^10] 右脚踏着玩眼镜蛇的侏儒恶魔 **Apasmara**[^11]（象征着精神愚昧和言语混乱 [^12]），代表着 Siva 对愚昧的降伏；左脚抬起，象征着虔诚灵魂的解放，两只脚表示着知识与无知的循环。[^13] 四周是从莲座中长出的火拱门（**Prabha**）。[^14] [^15]</samp>
 
 <pre>
 
@@ -36,7 +36,7 @@
 </pre>
 
 <pre>
-匿名票<sup>[在 Reddit 的淚腺<sup>[：謝安的左脚特技<sup>[2]</sup>]</sup> 中]</sup>為再路過
+匿名票<sup>[在 Reddit 的淚腺<sup>[：謝安的戶限<sup>[2]</sup>]</sup> 中]</sup>為再路過
 的魯<sup>[髽<sup>[3]</sup>起<sup>[被贖者<sup>[4]</sup>便放慢收尾] </sup>陽虎<sup>[5]</sup>的潮汐]</sup>流血，
  <sub>(的李文亮<sup>[6] </sup>)</sub>能掩與席邏<sub>(羅)<sub>(維)</sub></sub>輯的卷耳：
 雪如漢學嗎？贊米亞<sup>[7]</sup>概率<sup>[中的魯人。]</sup>
@@ -62,7 +62,9 @@
 
 </pre>
 
-<ins>[1] Tandava</ins><small>：音译为「坦达瓦」，印度教毁灭之神湿婆（Shiva 或 Siva）所跳的灭世之舞。当旧时代结束，湿婆会跳起坦达瓦来完成世界的毁灭，并使世界回归到宇宙精神中。Tandava 在创造、保护、毁灭与解脱的循环中成为世界的永恒的、原初的动力，而 Ananda-Tāṇḍava（Tandava 的第七支） 表现着 Siva 的五重行动：涌现（sṛṣṭi）、持存（sthiti）、毁灭（samhāra）、隐藏（tirobhava）、恩赐（anugrahā）。[^16] 印度经典《乐舞论》（*Natya Shastra*）以为 Tandava 由 Shiva 的侍从 Tandu 发明。[^17] Tandava 一词与泰米尔语 *tāṇṭavam* 同源，意为「跳舞」。 [^18]</small>
+<ins>[1] Tandava</ins><small>：音译为「坦达瓦」，印度教毁灭之神湿婆（Shiva 或 Siva）所跳的灭世之舞。当旧时代结束，湿婆会跳起 Tandava 来完成世界的毁灭，并使世界回归到宇宙精神中。Tandava 在创造、保护、毁灭与解脱的循环中成为世界的永恒的、原初的动力，而 Ananda-Tāṇḍava（Tandava 的第七支） 表现着 Siva 的五重行动（Pañcakṛitya）：涌现（sṛṣṭi）、持存（sthiti）、毁灭（samhāra）、遮蔽（tirobhava）、恩典（anugrahā）。[^16] 这五重行动又分别是梵天 （Brahmā）、毗湿奴（Vishnu）、楼陀罗（Rudra）、大自在天（Maheśvara）和永恒湿婆（Sadāśiva）等五位神的行动。[^17]</small>
+
+<small>印度经典《乐舞论》（*Natya Shastra*）以为 Tandava 由 Shiva 的侍从 Tandu 发明。[^18] 但其实 Tandava 一词与泰米尔语 *tāṇṭavam* 同源，意为「跳舞」。 [^19]</small>
 
 ![Shiva as Nataraja, king of dancers.png](/img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/Shiva%20as%20Nataraja,%20king%20of%20dancers.png)
 
@@ -70,9 +72,9 @@
 
 <ins>[2] 謝安</ins><small>：東晉名相，《晉書·謝安傳》記載淝水之戰勝利后的謝安的「矯情鎮物」：</small>
 
-> 玄等既破堅，有驛書至，安方對客圍棋，看書既竟，便攝放床上，了無喜色，棋如故。客問之，徐答云：「小兒輩遂已破賊。」既罷，還內，過戶限，心喜甚，不覺屐齒之折。[^19]
+> 玄等既破堅，有驛書至，安方對客圍棋，看書既竟，便攝放床上，了無喜色，棋如故。客問之，徐答云：「小兒輩遂已破賊。」既罷，還內，過戶限，心喜甚，不覺屐齒之折。[^20]
 
-<ins>[3] 髽</ins><small>：《左傳·襄公四年》：「冬，十月，邾人、莒人伐鄫。臧紇救鄫，侵邾，敗於狐駘。國人逆喪者皆髽，魯於是乎始髽。」杜預注：「髽，麻髮合結也。遭喪者多，故不能備凶服，髽而已。」[^20]</small>
+<ins>[3] 髽</ins><small>：《左傳·襄公四年》：「冬，十月，邾人、莒人伐鄫。臧紇救鄫，侵邾，敗於狐駘。國人逆喪者皆髽，魯於是乎始髽。」杜預注：「髽，麻髮合結也。遭喪者多，故不能備凶服，髽而已。」[^21]</small>
 
 <ins>[4] 被贖者</ins><small>：《呂氏春秋·察微》：魯國之法，魯人為人臣妾於諸侯，有能贖之者，取其金於府。子貢贖魯人於諸侯，來而讓，不取其金。孔子曰：「賜失之矣。自今以往，魯人不贖人矣。取其金則無損於行，不取其金則不復贖人矣。」</small>
 
@@ -84,13 +86,15 @@
 >
 > 我们希望你冷静下来好好反思，并郑重告诫你：如果你固执己见，不思悔改，继续进行违法活动，你将会受到法律的制裁！你明白了吗？
 
-<small>李文亮在訓誡書上分別簽下「能」「明白」，此三字廣爲網民傳播以譏諷肉食者。[^21]</small>
+<small>李文亮在訓誡書上分別簽下「能」「明白」，此三字廣爲網民傳播以譏諷肉食者。[^22]</small>
 
 <ins>[7] 贊米亞（Zomia）</ins><small>：歷史學家申德爾（Willem van Schendel）於 2002 年提出的地理術語，意指東南亞高地社會中特定群體逃避「國家空間」的產物。贊米亞是世界最大的無國家空間之一，包括從越南中部高地到印度東北部的海拔 300 米以上的區域，橫跨東南亞的五國（越南、柬埔寨、老撾、泰國和緬甸）以及中國的四省（雲南、貴州、廣西和四川），共 250 萬平方公里，約 1 億少數族群人口。</small>
 
 <ins>[8] 馬謖</ins><small>：三國時期蜀漢將領，有孔明揮淚斬馬謖的故事。</small>
 
 <ins>[9] 提毗（Devi）</ins><small>：印度教女神，濕婆之妻。</small>
+
+<samp>Coomaraswamy 说 **Tandava** 起源于前雅利安的半神半魔的神祇，通常由十臂的湿婆（**Śiva**）与提毗（**Devi**）合跳，并有一群小恶魔伴舞。[^23] 在 Ananda-Tāṇḍava 中，这群小恶魔可能便演化成 **Apasmara**。</samp>
 
 <ins>[10] 劉謙</ins><small>：世界魔術大師，2011 年曾在 EMC 大會上表演巴格拉斯效果，其原理至今未被破解。</small>
 
@@ -197,8 +201,10 @@
 [^14]: <samp>「The prabha or the aureola is surmounted all round with flames of fire similar to the one which is held in His hand and the Silparatna states that this prabha is the ravi-marulala or the sun’s disc.」见 M. A. Dorai Rangaswamy: [*The Religion and Philosophy of Tevaram*](https://www.wisdomlib.org/hinduism/book/tevaram-religion-and-philosophy/d/doc421162.html#:~:text=The%20prabha%20or%20the%20aureola%20is%20surmounted%20all%20round%20with%20flames%20of%20fire%20similar%20to%20the%20one%20which%20is%20held%20in%20His%20hand%20and%20the%20Silparatna%20states%20that%20this%20prabha%20is%20the%20ravi%2Dmarulala%20or%20the%20sun%E2%80%99s%20disc.)</samp>
 [^15]: <samp>「The whole composition should be surrounded by a fire-arch (*prabhā, tiruvāci*) growing out of the 'lotus postament; this fire-arch is, though, frequently missing.」见 [[Zvelebil：Ananda-Tandava of Siva-Sadanrttamurti.pdf#page=23&annotation=1590R|Zvelebil：Ananda-Tandava of Siva-Sadanrttamurti, p.23]]</samp>
 [^16]: <samp>「The dance is an eternal cycle of creation, protection, destruction and deliverance. It takes place in the tiruvāci or prabhamaṇḍala which represents the 'dance' of nature (*prakṛti*), within which the dance of the Prime Mover is an eternal event. The whole form may be 'read' too, as the mystic mantra Om, and all later, metaphysical, sophisticated interpretations agree that the ananda-tāṇḍava is an expression of the fivefold actions of Siva: *sṛṣṭi* or pouring forth, unfolding, creation; *sthiti* or maintenance, duration; *samhāra* or taking back in, destruction; *tirobhava* or concealing, veiling, hiding, i.e. the transcendental essence behind the garb of apparitions; and *anugrahā* or bestowing grace through a manifestation that accepts the devotee, favouring.」见 [[Zvelebil：Ananda-Tandava of Siva-Sadanrttamurti.pdf#page=56&annotation=1599R|Zvelebil：Ananda-Tandava of Siva-Sadanrttamurti, p.56]]</samp>
-[^17]: <samp>「After inventing the Recakas, Aṅgahāras and Piṇḍīs, Śiva communicated them to the sage Taṇḍu who in his turn made out of them dance together with songs and instrumental music; and hence this dance is known as Tāṇḍava (i.e. of Taṇḍu’s creation).」见 [*Natya Shastra*](https://www.wisdomlib.org/hinduism/book/the-natyashastra/d/doc209696.html#:~:text=their%20own%20banners.-,263%2D264.,-After%20inventing%20the) Chapter IV: 263-264.</samp>
-[^18]: <samp>「The name of the dance is simply identical with the Tamil word *tāṇṭavam* which means 'leaping, jumping' (derived from *tāṛṇṭu-* 'to jump, leap across, jump over, dance', cf. *Dravidian Etymological Dictionary* 2578).」见 [[Zvelebil：Ananda-Tandava of Siva-Sadanrttamurti.pdf#page=14&annotation=1578R|Zvelebil：Ananda-Tandava of Siva-Sadanrttamurti, p.14]]</samp>
-[^19]: <samp>见 [晋书·列传第四十九·谢安](calibre://view-book/_hex_-43616c69627265/61/EPUB?open_at=epubcfi%28/160/2/4/2/36/2/1:201%29)</samp>
-[^20]: <samp>见 [春秋左传正义·卷二十九 襄元年，尽四年](calibre://view-book/_hex_-43616c69627265/62/EPUB?open_at=epubcfi%28/62/2/4/978/1:2%29)</samp>
-[^21]: <samp>见 [當我們哀悼李文亮時，我們究竟在哀悼什麼？](https://www.twreporter.org/a/2019-ncov-lwl-matters)</samp>
+[^17]: <samp>「The dance, in fact, represents His five activites (*Pañcakṛitya*), viz: *Srishți* (overlooking, creation, evolution), *Sthiti* (preservation, support), *Samhāra* (destruction, evolution), *Tirobhava* (veiling, embodiment, illusion, and also, giving rest), *Anugraha* (release, salvation, grace). These, separately considered, are the activities of the deities Brahmā, Vishnu, Rudra, Maheśvara and Sadāśiva.」见 Coomaraswamy, *[[Coomaraswamy：The Dance of Siva：fourteen Indian essays.pdf#page=95&annotation=1103R|The Dance of Shiva]]*</samp>
+[^18]: <samp>「After inventing the Recakas, Aṅgahāras and Piṇḍīs, Śiva communicated them to the sage Taṇḍu who in his turn made out of them dance together with songs and instrumental music; and hence this dance is known as Tāṇḍava (i.e. of Taṇḍu’s creation).」见 [*Natya Shastra* Chapter IV: 263-264](https://www.wisdomlib.org/hinduism/book/the-natyashastra/d/doc209696.html#:~:text=their%20own%20banners.-,263%2D264.,-After%20inventing%20the).</samp>
+[^19]: <samp>「The name of the dance is simply identical with the Tamil word *tāṇṭavam* which means 'leaping, jumping' (derived from *tāṛṇṭu-* 'to jump, leap across, jump over, dance', cf. *Dravidian Etymological Dictionary* 2578).」见 [[Zvelebil：Ananda-Tandava of Siva-Sadanrttamurti.pdf#page=14&annotation=1578R|Zvelebil：Ananda-Tandava of Siva-Sadanrttamurti, p.14]]</samp>
+[^20]: <samp>见 [晋书·列传第四十九·谢安](calibre://view-book/_hex_-43616c69627265/61/EPUB?open_at=epubcfi%28/160/2/4/2/36/2/1:201%29)</samp>
+[^21]: <samp>见 [春秋左传正义·卷二十九 襄元年，尽四年](calibre://view-book/_hex_-43616c69627265/62/EPUB?open_at=epubcfi%28/62/2/4/978/1:2%29)</samp>
+[^22]: <samp>见 [當我們哀悼李文亮時，我們究竟在哀悼什麼？](https://www.twreporter.org/a/2019-ncov-lwl-matters)</samp>
+[^23]: <samp>「The second well known dance of Siva is called the *Tandava*, and belongs to His *tāmasic* aspect as Bhairava or Vira-bhadra. It is performed in cemeteries and burning grounds, where Śiva, usually in ten-armed form, dances wildly with Devi, accompanied by troops of capering imps. Representations of this dance are common amongst ancient sculptures, as at Elūra, Elephanta, and also Bhuvaneśvara. The *tāṇdava* dance is in origin that of a pre-Aryan divinity, half-god, half-demon, who holds his midnight revels in the burning ground. In later times, this dance in the cremation ground, sometimes of Śiva, sometimes of Devi, is interpreted in Śaiva and Śākta literature in a most touching and profound sense.」见 Coomaraswamy, *[[Coomaraswamy：The Dance of Siva：fourteen Indian essays.pdf#page=93&annotation=1095R|The Dance of Shiva]]*</samp>
