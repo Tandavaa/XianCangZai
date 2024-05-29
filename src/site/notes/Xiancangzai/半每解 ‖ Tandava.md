@@ -104,11 +104,17 @@
 
 <ins>[10] 劉謙</ins><small>：世界魔術大師，2011 年曾在 EMC 大會上表演巴格拉斯效果，其原理至今未被破解。可在 [此视频](https://www.bilibili.com/video/BV1Mb41167XA/?vd_source=6bee2e9dfa65e962fc4066ad69b6e5af) 中观看当时的现场。</small>
 
-<ins>[11] 阿塔蘭忒（Atalanta）</ins><small>：古希臘神話中的女獵手，她會同向她求婚的人賽跑，求婚者輸了便會被她殺死。其中一名求婚者希波墨涅斯（Hesperides）拿到了愛神阿弗洛狄忒（Aphrodite）所給的三顆金蘋果，在賽跑時，每當阿塔蘭忒要超過他，希波墨涅斯就往賽道上扔一顆金蘋果，阿塔蘭忒就會去拿取，如此三次，希波墨涅斯以微弱的優勢贏得賽跑。</small>
+<ins>[11] 阿塔蘭忒（Atalanta）</ins><small>：古希腊神话中的女猎手。神谕说婚姻会给阿塔兰忒（Atalanta）带来不幸，她便立下一个规矩，向她求婚的人必须与她赛跑，求婚者输了便会被杀死，赢了便能娶她。其中一名求婚者希波墨涅斯（Hesperides）拿到了爱神阿弗洛狄忒（Aphrodite）所给的三颗金苹果，在赛跑时，每当阿塔兰忒要超过他，希波墨涅斯就往赛道上扔一颗金苹果，阿塔兰忒就会去拿取，如此三次，希波墨涅斯以微弱的优势赢得赛跑。奥维德《变形记》对此有描写：</small>
 
-<ins>[12] 椎牛</ins><small>：擊殺牛。《韓詩外傳》：是故椎牛而祭墓，不如雞豚之逮親存也。</small>
+> 当她本可以越过他去的时候，她却屡次迟迟不前，用很长的时间望着他的脸，看了半天才无可奈何地把他超过。这时他有些疲倦了，喉咙里又是喘气又觉得干燥，而终点还很远呢。最后，他就把三只金苹果中的一只丢了出去。姑娘一见，显出赞赏的神情，很想拾起这灿烂的果子，于是就离开跑道，在地上拾起那还在滚转的金球。希波墨涅斯这回跑在她前面了，观众大声欢呼。她加快速度，弥补耽搁和损失的时间，又把希波涅斯在后面了。第二只苹果又出来，她又停下，又追赶他，又把他超过。现在到了竞赛的最后一段了。他说道：「女神啊，你赏了我金苹果，现在来帮助我吧！」说罢他用足气力把最后一只灿烂的金苹果向田野里斜掷了出去，她若去拾，再回来，就会耽误很多时间。姑娘好像犹豫了一会儿，不能决定是去拾呢还是不拾。我就逼着她去捡起来，并且增加了果子的重量，因此既增重她的负担又使她拖延了时间。好了，不要让我的故事说得比赛跑的时间还长吧，姑娘落在了后面，胜利者把胜利品带了回去。[^25]
 
-<ins>[13] 要離</ins><small>：春秋時期著名刺客，為了刺殺慶忌，他自斷右臂以獲取慶忌信任。</small>
+<ins>[12] 椎牛</ins><small>：擊殺牛。《韓詩外傳》曰：</small>
+
+> 往而不可還者親也。至而不可加者年也。是故孝子欲養，而親不待也。木欲直，而時不待也。是故椎牛而祭墓，不如雞豚逮親存也。[^26]
+
+<ins>[13] 要離</ins><small>：春秋時期著名刺客，為了刺殺慶忌，要離使闔閭殺其妻子、斷其右臂，以獲取慶忌信任，事見《吳越春秋·闔閭内傳》：</small>
+
+> 王曰：「子何為者？」要離曰：「臣國東千里之人，臣細小無力，迎風則僵，負風則伏。大王有命，臣敢不盡力？」 吳王心非子胥進此人，良久默然不言。要離即進曰：「大王患慶忌乎？臣能殺之。」王曰：「慶忌之勇，世所聞也。筋骨果勁，萬人莫當。走追奔獸，手接飛鳥，骨騰肉飛，拊膝數百里。吾嘗追之於江，駟馬馳不及，射之闇接，矢不可中。今子之力不如也。」要離曰：「王有意焉，臣能殺之。」王曰：「慶忌明智之人，歸窮於諸侯，不下諸侯之士。」要離曰：「臣聞安其妻子之樂，不盡事君之義，非忠也；懷家室之愛，而不除君之患者，非義也。臣詐以負罪出奔，願王戮臣妻子，斷臣右手，慶忌必信臣矣。」王曰：「諾。」要離乃詐得罪出奔，吳王乃取其妻子，焚棄於市 。要離乃奔諸侯而行怨言，以無罪聞於天下 。遂如衛，求見慶忌。見曰：「闔閭無道，王子所知。今戮吾妻子，焚之於市，無罪見誅。吳國之事，吾知其情，願因王子之勇，闔閭可得也。何不與我東之於吳？」慶忌信其謀。 後三月，揀練士卒，遂之吳 。將渡江於中流，要離力微，坐與上風，因風勢以矛鉤其冠，順風而刺慶忌，慶忌顧而揮之，三捽其頭於水中，乃加於膝上，「嘻嘻哉！天下之勇士也！乃敢加兵刃於我。」左右欲殺之，慶忌止之，曰：「此是天下勇士。豈可一日而殺天下勇士二人哉？」乃誡左右曰：「可令還吳，以旌其忠。」於是慶忌死 。要離渡至江陵，愍然不行。從者曰：「君何不行？」要離曰：「殺吾妻子，以事吾君，非仁也；為新君而殺故君之子，非義也。重其死， 不貴無義。今吾貪生棄行，非義也。夫人有三惡以立於世，吾何面目以視天下之士？」言訖遂投身於江，未絕，從者出之。要離曰：「吾寧能不死乎？」從者曰：「君且勿死，以俟爵祿。」要離乃自斷手足，伏劍而死 。[^27]
 
 <pre>
 
@@ -215,3 +221,6 @@
 [^22]: <samp>见 [當我們哀悼李文亮時，我們究竟在哀悼什麼？](https://www.twreporter.org/a/2019-ncov-lwl-matters)</samp>
 [^23]: <samp>见 Schendel: *Geographies of Knowing, Geographies of Ignorance: Jumping Scale in Southeast Asia* from *[[Locating Southeast Asia：Geographies of Knowledge and Politics of Space.pdf#page=294&annotation=2859R|Locating Southeast Asia：Geographies of Knowledge and Politics of Space, p.282]]* </samp>
 [^24]: <samp>「The second well known dance of Siva is called the *Tandava*, and belongs to His *tāmasic* aspect as Bhairava or Vira-bhadra. It is performed in cemeteries and burning grounds, where Śiva, usually in ten-armed form, dances wildly with Devi, accompanied by troops of capering imps. Representations of this dance are common amongst ancient sculptures, as at Elūra, Elephanta, and also Bhuvaneśvara. The *tāṇdava* dance is in origin that of a pre-Aryan divinity, half-god, half-demon, who holds his midnight revels in the burning ground. In later times, this dance in the cremation ground, sometimes of Śiva, sometimes of Devi, is interpreted in Śaiva and Śākta literature in a most touching and profound sense.」见 Coomaraswamy：*[[Coomaraswamy：The Dance of Siva：fourteen Indian essays.pdf#page=93&annotation=1095R|The Dance of Shiva]]*</samp>
+[^25]: <samp>见 [[奥维德：变形记.pdf#page=237&annotation=2998R|奥维德：变形记·卷10]]</samp>
+[^26]: <samp>见 [[许维遹：韩诗外传集释.pdf#page=249&rect=48,55,223,561|许维遹：韩诗外传集释·卷七·第六章]]</samp>
+[^27]: <samp>见 [[周生春：吴越春秋辑校汇考.pdf#page=94&rect=63,51,359,540|周生春：吴越春秋辑校汇考·闔閭内傳]]</samp>
