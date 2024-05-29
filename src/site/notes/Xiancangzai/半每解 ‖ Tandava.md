@@ -94,7 +94,11 @@
 
 <ins>[7] 贊米亞（Zomia）</ins><small>：歷史學家申德爾（Willem van Schendel）於 2002 年提出的地理術語，意指東南亞高地社會中特定群體逃避「國家空間」的產物。贊米亞是世界最大的無國家空間之一，包括從越南中部高地到印度東北部的海拔 300 米以上的區域，橫跨東南亞的五國（越南、柬埔寨、老撾、泰國和緬甸）以及中國的四省（雲南、貴州、廣西和四川），共 250 萬平方公里，約 1 億少數族群人口。Zomia 来源于米佐库基钦（Mizo-Kuki-Chin）语支对高地人的称呼 Zomi。 [^23]</small>
 
-<ins>[8] 馬謖</ins><small>：三國時期蜀漢將領，有孔明揮淚斬馬謖的故事。</small>
+<ins>[8] 馬謖</ins><small>：三國時期蜀漢參軍。有孔明揮淚斬馬謖的故事，京劇常演《斬馬謖》，與《失街亭》《空城計》連演，并稱「失空斬」，《斬馬謖》也是高派創始人高慶奎拿手劇「三斬一碰」之一，高亢激越，目前能聽到的是 1929 年高亭公司唱片，與 1933 年百代公司唱片，視頻鏈接：</small>
+
+<small>[京剧老唱片欣赏：高庆奎《斩马谡》，1929年高亭公司唱片1面](https://www.bilibili.com/video/BV1Zh411r7Dt/?share_source=copy_web&vd_source=9a508718f8742a2b6568906c0305fcc3)</small>
+
+<small>[京剧《斩马谡》 高庆奎 郝寿臣 （1932年百代唱片1面）]( https://www.bilibili.com/video/BV1bd4y1k7XP/?share_source=copy_web&vd_source=9a508718f8742a2b6568906c0305fcc3 ) </small>
 
 <ins>[9] 提毗（Devi）</ins><small>：印度教女神，濕婆之妻。</small>
 
@@ -102,7 +106,7 @@
 
 <samp>13 世纪的提毗（**Devi**）铜像（[*Devi Uma Parameshvari, Great Goddess Uma*](https://collections.artsmia.org/art/6223/devi-uma-parameshvari-india)）。Coomaraswamy 说 **Tandava** 起源于前雅利安的半神半魔的神祇，通常由十臂的湿婆（**Śiva**）与提毗（Devi）合跳，并有一群小恶魔伴舞。[^24] 在 Ananda-Tāṇḍava 中，这群小恶魔可能便演化成 **Apasmara**。</samp>
 
-<ins>[10] 劉謙</ins><small>：世界魔術大師，2011 年曾在 EMC 大會上表演巴格拉斯效果，其原理至今未被破解。可在 [此视频](https://www.bilibili.com/video/BV1Mb41167XA/?vd_source=6bee2e9dfa65e962fc4066ad69b6e5af) 中观看当时的现场。</small>
+<ins>[10] 劉謙</ins><small>：世界魔術大師，2011 年曾在 EMC 大會上表演巴格拉斯效果，其原理至今未被破解。当时现场的视频链接： [「刘谦」令巴格拉斯本人难解的高难度巴格拉斯效果表演](https://www.bilibili.com/video/BV1Mb41167XA/?vd_source=6bee2e9dfa65e962fc4066ad69b6e5af) </small>
 
 <ins>[11] 阿塔蘭忒（Atalanta）</ins><small>：古希腊神话中的女猎手。神谕说婚姻会给阿塔兰忒（Atalanta）带来不幸，她便立下一个规矩，向她求婚的人必须与她赛跑，求婚者输了便会被杀死，赢了便能娶她。其中一名求婚者希波墨涅斯（Hesperides）拿到了爱神阿弗洛狄忒（Aphrodite）所给的三颗金苹果，在赛跑时，每当阿塔兰忒要超过他，希波墨涅斯就往赛道上扔一颗金苹果，阿塔兰忒就会去拿取，如此三次，希波墨涅斯以微弱的优势赢得赛跑。奥维德《变形记》对此有描写：</small>
 
