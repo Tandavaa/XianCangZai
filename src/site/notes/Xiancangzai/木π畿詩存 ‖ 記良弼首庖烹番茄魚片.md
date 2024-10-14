@@ -193,7 +193,7 @@
 
 <cite>₸ YouTube 频道：[Linomo Danvatan](http://www.youtube.com/@LinomoDanvatan) </cite>
 
-<cite>⁜ 微信交流群：lido1122</cite>
+<cite>⁜ 微信交流群：联系 lido1122</cite>
 
 
 </div></div>
