@@ -52,31 +52,6 @@ svg.lucide.lucide-calendar-plus {width:0px; height:0px;} /*发表日期图标*/
 
 /*以下与Obsidian设置保持一致*/       
 
-body {
-    /***
-      ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-  --h1-color: #a61b29; /*苋菜红*/
-  --h2-color: #e16723; /*陶瓷红*/
-  --h3-color: #d2b42c; /*草黄*/
-  --h4-color: #207f4c; /*薄荷绿*/
-  --h5-color: #126e82; /*玉鈫蓝*/
-  --h6-color: #9b1e64; /*苋菜紫*/
-
-  --h1-size: 1.4em;
-  --h2-size: 1.25em;
-
-  --h1-weight: 500;
-  --h2-weight: 500;
-
-  --code-background: #fff; /*<pre>与<code>元素背景*/
-  --link-external-color: #126e82; /*超链接颜色：玉鈫蓝*/
-	
-  text-align: justify;
-  hyphens: auto;/*两端对齐*/	
-}
-
 .markdown-rendered pre {
   padding: var(--size-4-2) 0px;
   }/*<pre>元素的padding*/
