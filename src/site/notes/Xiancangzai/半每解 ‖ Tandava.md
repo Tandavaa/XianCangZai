@@ -195,7 +195,7 @@
 
 <cite>⁜ 微信交流群：扫码进入</cite>
 
-![[LinkTree.jpg \|200]]
+<img src="https://ik.imagekit.io/knzeyrs0a/LinkTree.jpg?updatedAt=1729351039446" width="100">
 
 
 </div></div>
