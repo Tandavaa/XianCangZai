@@ -11,6 +11,6 @@
 
 <cite>₸ YouTube 频道：[Linomo Danvatan](http://www.youtube.com/@LinomoDanvatan) </cite>
 
-<cite>⁜ 微信交流群：扫码进入</cite>
+<cite>⁜ 微信交流群</cite>
 
 <img src="https://ik.imagekit.io/knzeyrs0a/LinkTree.jpg?updatedAt=1729351039446" width="100">
