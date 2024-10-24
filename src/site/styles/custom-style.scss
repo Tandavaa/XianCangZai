@@ -91,7 +91,7 @@ p {
 
 pre {
   font-size: 1rem;
-  font-family: "Times New Roman","PMINGLIU";
+  font-family: "Times New Roman","PMingLiU-TW","PMingLiU","KaiXinSongB";
 }/*诗歌文本*/
 
 h1 {
@@ -130,7 +130,7 @@ small {
 
 samp {
   color: #999ea2;
-  font-family: "Times New Roman", "PMINGLIU";
+  font-family: "Times New Roman", "PMingLiU-TW";
   font-style: normal;
   font-size: 0.8rem;
 }/*极小号浅灰字*/
@@ -140,18 +140,19 @@ ins {
   font-style: normal;
   text-decoration: none;
   font-size: 0.9rem;
+  font-family: "Times New Roman","PMingLiU-TW","PMingLiU","KaiXinSongB";
 }/*小号黄字*/
 
 kbd {
   color: #126e82;/*玉鈫蓝*/
   font-style: normal;
   font-size: 0.9rem;
-  font-family: "Times New Roman", "PMINGLIU";
+  font-family: "Times New Roman","PMingLiU-TW";
 }/*小号蓝字*/
 
 cite {
   color: #999ea2;
-  font-family: "Courier New", "PMINGLIU";
+  font-family: "Courier New","PMingLiU-TW";
   font-style: normal;
   font-size: 0.8rem;
 }/*参考文献、日期落款*/
