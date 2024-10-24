@@ -2,11 +2,13 @@ span.human-date {font-family: "Courier New";}/*发表日期字体*/
 
 nav.navbar {background-color: #fff;}/*网站页眉背景*/
 
-@font-face {
+@import url('https://ik.imagekit.io/knzeyrs0a/PMingLiU/result.css');
+
+/*@font-face {
   font-style:normal;
   font-family: "PMINGLIU";
   src:url('../img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/PMINGLIU.ttf') format('truetype');
-}/*自定义字体*/
+}自定义字体*/
 
 @font-face {
   font-style:normal;
@@ -14,7 +16,7 @@ nav.navbar {background-color: #fff;}/*网站页眉背景*/
   src:url('../img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/AntroVectra.otf') format('opentype');
 }/*自定义字体*/
 
-:root {--default-font: "Times New Roman","PMINGLIU";}/*全站字体*/
+:root {--default-font: "Times New Roman","PMingLiU";}/*全站字体*/
 
 body {
     /***
