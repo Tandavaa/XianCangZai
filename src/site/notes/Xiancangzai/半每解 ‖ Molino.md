@@ -44,8 +44,8 @@
 俾格米，比俙<sup>[9]</sup>的速成<sup>以檄文與烓<sup>[10]</sup> 的</sup>
 <sup>記憶，撲滅<sup>向著燈之喌<sup>[11]</sup></sup>躲姓之餐</sup>更無關
 的是他們在豦<sup>[12]</sup>中的沉澱，兩隻最重
-的聲呐<sup>晚於減排之娭<sup>[13]</sup></sup>，以<sup>[似]</sup>輀<sup>[14]</sup>的認真，
-以<sup>催促宮殿與炱<sup>[15]</sup></sup>殙<sup>[16]</sup>之薇，進<sup>[植]</sup>入豩<sup>[17]</sup>的
+的聲呐<sup>晚於減排之娭<sup>[13]</sup></sup>，以<sup>似</sup>輀<sup>[14]</sup>的認真，
+以<sup>催促宮殿與炱<sup>[15]</sup></sup>殙<sup>[16]</sup>之薇，進<sup>植</sup>入豩<sup>[17]</sup>的
 安慰。「鵑意之步走得好。」如果
 國王之堫<sup>[18]</sup>此番越過摸黑的天使，
 潨<sup>[19]</sup>如行星，那麽此句<sup>在榸<sup>[20]</sup>中自轉的機密</sup>
