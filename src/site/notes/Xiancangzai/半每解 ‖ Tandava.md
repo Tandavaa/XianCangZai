@@ -36,17 +36,17 @@
 </pre>
 
 <pre>
-匿名票<sup>[在 Reddit 的淚腺<sup>[：謝安的戶限<sup>[2]</sup>]</sup> 中]</sup>為再路過
-的魯<sup>[髽<sup>[3]</sup>起<sup>[被贖者<sup>[4]</sup>便放慢收尾] </sup>陽虎<sup>[5]</sup>的潮汐]</sup>流血，
+匿名票<sup>在 Reddit 的淚腺<sup>：謝安的戶限<sup>[2]</sup></sup> 中</sup>為再路過
+的魯<sup>髽<sup>[3]</sup>起<sup>被贖者<sup>[4]</sup>便放慢收尾</sup>陽虎<sup>[5]</sup>的潮汐</sup>流血，
  <sub>(的李文亮<sup>[6] </sup>)</sub>能掩與席邏<sub>(羅)<sub>(維)</sub></sub>輯的卷耳：
-雪如漢學嗎？贊米亞<sup>[7]</sup>概率<sup>[中的魯人。]</sup>
-還回<sup>[以馬謖<sup>[8]</sup>的提毗<sup>[9]</sup>票<sup>[也狂等拿取]</sup>]</sup>劉謙<sup>[10]</sup>之舞，
-維<sup>[為它<sup>[臨<sub>(Tan)</sub>江<sub>(da)</sub>仙<sub>(va)</sub>之幺]</sup>合并成阿塔蘭忒<sup>[11]</sup>] </sup>有
-空<sup>[右臂消失]</sup>城計的陰部蘋果<sup>[來世的孢子在等<sup>[解]</sup>它]</sup>
-三撾偶然<sup>[怎樣不再無贖人者<sub>漂涌于椎牛<sup>[12]</sup></sub>]</sup>的要離<sup>[13]</sup> 。
+雪如漢學嗎？贊米亞<sup>[7]</sup>概率<sup>中的魯人。</sup>
+還回<sup>以馬謖<sup>[8]</sup>的提毗<sup>[9]</sup>票<sup>也狂等拿取</sup></sup>劉謙<sup>[10]</sup>之舞，
+維<sup>為它<sup>臨<sub>(Tan)</sub>江<sub>(da)</sub>仙<sub>(va)</sub>之幺</sup>合并成阿塔蘭忒<sup>[11]</sup></sup>有
+空<sup>右臂消失</sup>城計的陰部蘋果<sup>來世的孢子在等<sup>解</sup>它</sup>
+三撾偶然<sup>怎樣不再無贖人者<sub>漂涌于椎牛<sup>[12]</sup></sub></sup>的要離<sup>[13]</sup> 。
 </pre>
 
-<cite>2022.7.28</cite><br/><cite>2024.5.22</cite>
+<cite>2022.7.28</cite><br/><cite>2024.5.22</cite><br/><cite>2024.10.28</cite>
 
 <pre>
 
