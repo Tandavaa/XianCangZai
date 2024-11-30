@@ -194,16 +194,24 @@ blockquote p {
 }
 
 .text-content h1 {
-    color: #333;
+    color: #255359;
     margin: 0 0 10px 0;
-    font-family: "Times New Roman","PMingLiU-TW","PMingLiU","KaiXinSongB","FSung-F";
-}
+}/* 主页文章部件·文章标题 */
+
+.text-content h1 a {
+    color: #255359;
+    text-decoration: none;
+}/* 主页文章部件·文章标题超链接 */
 
 .text-content p {
     color: #B54434;
     margin: 0 0 20px 0;
-    font-family: "Times New Roman","PMingLiU-TW","PMingLiU","KaiXinSongB","FSung-F";
-}
+}/* 主页文章部件·文章合集 */
+
+.text-content p a {
+    color: #B54434;
+    text-decoration: none;
+}/* 主页文章部件·文章合集超链接 */
 
 .text-content cite {
     color: #B54434;
