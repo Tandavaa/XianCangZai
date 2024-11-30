@@ -10,7 +10,7 @@
 
 </pre>
 
-<pre style="text-align:center;font-family:'AntroVectra';"><a href="https://www.xiancangzai.com/" style="font-size:0.6em; color:#a61b29;">--- Xian Cang Zai ---</a></pre>
+<pre style="text-align:center;font-family:'Antro Vectra';"><a href="https://www.xiancangzai.com/" style="font-size:0.6em; color:#B54434;">--- Xian Cang Zai ---</a></pre>
 
 <pre>
 
@@ -142,7 +142,7 @@
 
 </pre>
 
-<pre style="text-align:center;font-family:'AntroVectra';"><a href="https://www.xiancangzai.com/" style="font-size:0.6em; color:#a61b29;">--- Xian Cang Zai ---</a></pre>
+<pre style="text-align:center;font-family:'Antro Vectra';"><a href="https://www.xiancangzai.com/" style="font-size:0.6em; color:#B54434;">--- Xian Cang Zai ---</a></pre>
 
 <pre>
 
@@ -164,7 +164,7 @@
 
 </pre>
 
-<pre style="text-align:center;font-family:'AntroVectra';"><a href="https://www.xiancangzai.com/" style="font-size:0.6em; color:#a61b29;">--- Xian Cang Zai ---</a></pre>
+<pre style="text-align:center;font-family:'Antro Vectra';"><a href="https://www.xiancangzai.com/" style="font-size:0.6em; color:#B54434;">--- Xian Cang Zai ---</a></pre>
 
 <pre>
 
