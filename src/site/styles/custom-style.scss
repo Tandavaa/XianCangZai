@@ -6,6 +6,7 @@ nav.navbar {background-color: #fff;}/*网站页眉背景*/
 @import url('https://ik.imagekit.io/knzeyrs0a/PMingLiU/result.css');
 @import url('https://ik.imagekit.io/knzeyrs0a/KaiXinSongB/result.css');
 @import url('https://ik.imagekit.io/knzeyrs0a/FSung-F/result.css');
+@import url('https://ik.imagekit.io/knzeyrs0a/Antro_Vectra/result.css');/*自定义字体*/
 
 /*@font-face {
   font-style:normal;
@@ -13,11 +14,11 @@ nav.navbar {background-color: #fff;}/*网站页眉背景*/
   src:url('../img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/PMINGLIU.ttf') format('truetype');
 }自定义字体*/
 
-@font-face {
+/*@font-face {
   font-style:normal;
   font-family: "AntroVectra";
   src:url('../img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/AntroVectra.otf') format('opentype');
-}/*自定义字体*/
+}自定义字体*/
 
 :root {--default-font: "Times New Roman","PMingLiU-TW","PMingLiU","KaiXinSongB","FSung-F";}/*全站字体*/
 
@@ -77,7 +78,7 @@ body {
 
   --code-background: #fff; /*<pre>与<code>元素背景*/
   --link-external-color: #126e82; /*超链接颜色：玉鈫蓝*/
-	
+
   text-align: justify;
   hyphens: auto;/*两端对齐*/	
 }
@@ -226,13 +227,13 @@ blockquote p {
 .text-content h1 {
     color: #333;
     margin: 0 0 10px 0;
-    font-family: "Times New Roman","PMingLiU-TW","PMingLiU","KaiXinSongB";"FSung-F";
+    font-family: "Times New Roman","PMingLiU-TW","PMingLiU","KaiXinSongB","FSung-F";
 }
 
 .text-content p {
     color: #666;
     margin: 0 0 20px 0;
-    font-family: "Times New Roman","PMingLiU-TW","PMingLiU","KaiXinSongB";"FSung-F";
+    font-family: "Times New Roman","PMingLiU-TW","PMingLiU","KaiXinSongB","FSung-F";
 }
 
 .action-link {
