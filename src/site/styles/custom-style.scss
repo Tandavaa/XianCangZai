@@ -5,6 +5,7 @@ nav.navbar {background-color: #fff;}/*网站页眉背景*/
 @import url('https://ik.imagekit.io/knzeyrs0a/PMINGLIU/result.css');
 @import url('https://ik.imagekit.io/knzeyrs0a/PMingLiU/result.css');
 @import url('https://ik.imagekit.io/knzeyrs0a/KaiXinSongB/result.css');
+@import url('https://ik.imagekit.io/knzeyrs0a/FSung-F/result.css');
 
 /*@font-face {
   font-style:normal;
@@ -18,10 +19,10 @@ nav.navbar {background-color: #fff;}/*网站页眉背景*/
   src:url('../img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/AntroVectra.otf') format('opentype');
 }/*自定义字体*/
 
-:root {--default-font: "Times New Roman","PMingLiU-TW","PMingLiU","KaiXinSongB";}/*全站字体*/
+:root {--default-font: "Times New Roman","PMingLiU-TW","PMingLiU","KaiXinSongB";"FSung-F";}/*全站字体*/
 
-body {
-    /***
+body {  
+    /***  
       ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
@@ -186,3 +187,56 @@ blockquote p {
   object-fit: cover;
   border: 0px solid white;
 }/*主页图片*/
+
+/*以下为标签图*/
+
+.header-media {
+    position: relative;
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding-left: 50px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    background-size: cover;
+    background-position: center;
+}
+
+.header-media:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.2); /* 黑色蒙版 */
+    z-index: 1;
+}
+
+.text-content {
+    position: relative;
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 20px;
+    width: 300px;
+    z-index: 2; /* 确保文本内容位于蒙版之上 */
+}
+
+.text-content h1 {
+    color: #333;
+    margin: 0 0 10px 0;
+    font-family: "Times New Roman","PMingLiU-TW","PMingLiU","KaiXinSongB";"FSung-F";
+}
+
+.text-content p {
+    color: #666;
+    margin: 0 0 20px 0;
+    font-family: "Times New Roman","PMingLiU-TW","PMingLiU","KaiXinSongB";"FSung-F";
+}
+
+.action-link {
+    color: #0056b3;
+    text-decoration: none;
+    font-weight: bold;
+}
