@@ -4,9 +4,11 @@ nav.navbar {background-color: #fff;}/*网站页眉背景*/
 
 @import url('https://ik.imagekit.io/knzeyrs0a/PMINGLIU/result.css');
 @import url('https://ik.imagekit.io/knzeyrs0a/PMingLiU/result.css');
+@import url('https://ik.imagekit.io/knzeyrs0a/KaiXinSongA/result.css');
 @import url('https://ik.imagekit.io/knzeyrs0a/KaiXinSongB/result.css');
 @import url('https://ik.imagekit.io/knzeyrs0a/FSung-F/result.css');
-@import url('https://ik.imagekit.io/knzeyrs0a/Antro_Vectra/result.css');/*自定义字体*/
+@import url('https://ik.imagekit.io/knzeyrs0a/Antro_Vectra/result.css');
+/*自定义字体*/
 
 /***@font-face {
   font-style:normal;
@@ -20,7 +22,7 @@ nav.navbar {background-color: #fff;}/*网站页眉背景*/
   src:url('../img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/AntroVectra.otf') format('opentype');
 }自定义字体***/
 
-:root {--default-font: "Times New Roman","PMingLiU-TW","PMingLiU","KaiXinSongB","FSung-F";}/*全站字体*/
+:root {--default-font: "Times New Roman","PMingLiU-TW","PMingLiU","KaiXinSongA","KaiXinSongB","FSung-F";}/*全站字体*/
 
 body {
   --h1-color: #a61b29; /*苋菜红*/
@@ -60,7 +62,7 @@ p {
 
 pre {
   font-size: 1rem;
-  font-family: "Times New Roman","PMingLiU-TW","PMingLiU","KaiXinSongB";
+  font-family: "Times New Roman","PMingLiU-TW","PMingLiU","KaiXinSongA","KaiXinSongB","FSung-F";
 }/*诗歌文本*/
 
 h1 {
