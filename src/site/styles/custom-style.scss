@@ -2,6 +2,8 @@ span.human-date {font-family: "Courier New";}/*发表日期字体*/
 
 nav.navbar {background-color: #fff;}/*网站页眉背景*/
 
+.markdown-preview-view {padding: 40px;}/*网站页边距*/
+
 @import url('https://ik.imagekit.io/knzeyrs0a/PMINGLIU/result.css');
 @import url('https://ik.imagekit.io/knzeyrs0a/PMingLiU/result.css');
 @import url('https://ik.imagekit.io/knzeyrs0a/KaiXinSongA/result.css');
@@ -31,17 +33,35 @@ body {
   text-align: justify;
   hyphens: auto;/*两端对齐*/
 
+  p {
+    font-size: 1rem;
+  }/*正文*/
+
+  pre {
+    font-size: 1rem;
+    font-family: var(--default-font);
+  }/*诗歌文本*/
+  
   ins {
   color: rgb(214,168,65);
   font-style: normal;
   text-decoration: none !important;
   font-size: 0.9rem;
   font-family: var(--default-font);
-}/*小号黄字*/
-  
-}
+  }/*小号黄字*/
 
-.markdown-preview-view {padding: 40px;}/*网站页边距*/
+  samp {
+  color: #999ea2;
+  font-family: "Source Han Sans TC VF";
+  font-weight: 200;
+  font-size: 0.8rem;
+}/*极小号浅灰字*/
+
+samp strong {
+  font-family: "Source Han Sans TC VF","Source Han Sans SC VF";
+  font-weight: bolder;
+  font-size: 0.8rem;
+}/*极小号浅灰字加粗*/ 
 
 a.internal-link.is-unresolved {padding: 0px 0px;}/*无笔记双链边距*/
 a.internal-link {padding: 0px 0px;}/*双链边距*/
@@ -55,15 +75,6 @@ svg.lucide.lucide-calendar-plus {width:0px; height:0px;} /*发表日期图标*/
 .markdown-rendered pre {
   padding: var(--size-4-2) 0px;
   }/*<pre>元素的padding*/
-
-p {
-  font-size: 1rem;
-}/*正文*/
-
-pre {
-  font-size: 1rem;
-  font-family: var(--default-font);
-}/*诗歌文本*/
 
 h1 {
   font-weight: normal;
@@ -98,27 +109,6 @@ small {
   font-style: normal;
   font-size: 0.9rem;
 }/*小号浅黑字*/
-
-samp {
-  color: #999ea2;
-  font-family: "Source Han Sans TC VF";
-  font-weight: 200;
-  font-size: 0.8rem;
-}/*极小号浅灰字*/
-
-samp strong {
-  font-family: "Source Han Sans TC VF","Source Han Sans SC VF";
-  font-weight: bolder;
-  font-size: 0.8rem;
-}/*极小号浅灰字加粗*/ 
-
-ins {
-  color: rgb(214,168,65);
-  font-style: normal;
-  text-decoration: none !important;
-  font-size: 0.9rem;
-  font-family: var(--default-font);
-}/*小号黄字*/
 
 kbd {
   color: #126e82;/*玉鈫蓝*/
@@ -228,4 +218,5 @@ blockquote p {
     margin: 0 0 20px 0;
     font-family: "Antro Vectra";
     font-size: 0.6rem;
+}
 }
