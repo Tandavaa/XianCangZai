@@ -29,7 +29,16 @@ body {
   --code-background: #fff; /*<pre>与<code>元素背景*/
   --link-external-color: #126e82; /*超链接颜色：玉鈫蓝*/
   text-align: justify;
-  hyphens: auto;/*两端对齐*/	
+  hyphens: auto;/*两端对齐*/
+
+  ins {
+  color: rgb(214,168,65);
+  font-style: normal;
+  text-decoration: none !important;
+  font-size: 0.9rem;
+  font-family: var(--default-font);
+}/*小号黄字*/
+  
 }
 
 .markdown-preview-view {padding: 40px;}/*网站页边距*/
