@@ -1,7 +1,5 @@
 span.human-date {font-family: "Courier New";}/*发表日期字体*/
-
 nav.navbar {background-color: #fff;}/*网站页眉背景*/
-
 .markdown-preview-view {padding: 40px;}/*网站页边距*/
 
 @import url('https://ik.imagekit.io/knzeyrs0a/PMINGLIU/result.css');
@@ -14,6 +12,16 @@ nav.navbar {background-color: #fff;}/*网站页眉背景*/
 :root {--default-font: "Times New Roman","PMingLiU-TW","PMingLiU","FSung-2","FSung-F";}/*全站字体*/
 
 body {
+
+a.internal-link.is-unresolved {padding: 0px 0px;}/*无笔记双链边距*/
+a.internal-link {padding: 0px 0px;}/*双链边距*/
+a.external-link {padding: 0px 0px 0px 0px;}/*超链接边距*/
+a.referred {margin: 0px 0px;}/*注释被重新定位后的边距*/
+a.footnote-backref {padding: 0px 0px;}/*注释回链符号边距*/
+svg.lucide.lucide-calendar-plus {width:0px; height:0px;} /*发表日期图标*/
+.markdown-rendered pre {padding: var(--size-4-2) 0px;}/*<pre>元素的padding*/
+
+/*以下与Obsidian设置保持一致*/
 
   font-family: var(--default-font);
   --h1-color: #a61b29; /*苋菜红*/
@@ -59,19 +67,6 @@ samp strong {
   font-weight: bolder;
   font-size: 0.8rem;
 }/*极小号浅灰字加粗*/ 
-
-a.internal-link.is-unresolved {padding: 0px 0px;}/*无笔记双链边距*/
-a.internal-link {padding: 0px 0px;}/*双链边距*/
-a.external-link {padding: 0px 0px 0px 0px;}/*超链接边距*/
-a.referred {margin: 0px 0px;}/*注释被重新定位后的边距*/
-a.footnote-backref {padding: 0px 0px;}/*注释回链符号边距*/
-svg.lucide.lucide-calendar-plus {width:0px; height:0px;} /*发表日期图标*/
-
-/*以下与Obsidian设置保持一致*/
-
-.markdown-rendered pre {
-  padding: var(--size-4-2) 0px;
-  }/*<pre>元素的padding*/
 
 h1 {
   font-weight: normal;
