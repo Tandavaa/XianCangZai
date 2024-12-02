@@ -52,14 +52,13 @@ body {
 
   samp {
   color: #999ea2;
-  font-family: "Source Han Sans TC VF","Source Han Sans SC VF";
-  font-weight: 300;
+  font-weight: 200;
   font-size: 0.8rem;
+  font-family: var(--default-font);
 }/*极小号浅灰字*/
 
 samp strong {
-  font-family: "Source Han Sans TC VF","Source Han Sans SC VF";
-  font-weight: bolder;
+  font-weight: 300;
   font-size: 0.8rem;
 }/*极小号浅灰字加粗*/ 
 
@@ -219,6 +218,7 @@ blockquote p {
     font-family: "Antro Vectra";
     font-size: 0.6rem;
 }
+
 .spacer {
         margin-bottom: 100px; 
     }
