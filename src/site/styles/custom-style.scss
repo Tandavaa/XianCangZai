@@ -13,7 +13,8 @@ nav.navbar {background-color: #fff;}/*网站页眉背景*/
 
 :root {--default-font: "Times New Roman","PMingLiU-TW","PMingLiU","FSung-2","FSung-F";}/*全站字体*/
 
-body { 
+body {
+
   font-family: var(--default-font);
   --h1-color: #a61b29; /*苋菜红*/
   --h2-color: #e16723; /*陶瓷红*/
@@ -220,5 +221,5 @@ blockquote p {
 
 .spacer {
         margin-bottom: 100px; 
-    }
-}/* 空行间距 */
+    }/* 空行间距 */
+}
