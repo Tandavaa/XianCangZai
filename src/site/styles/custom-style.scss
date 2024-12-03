@@ -39,114 +39,39 @@ svg.lucide.lucide-calendar-plus {width:0px; height:0px;} /*发表日期图标*/
   text-align: justify;
   hyphens: auto;/*两端对齐*/
 
-  p {
-    font-size: 1rem;
-  }/*正文*/
-
-  pre {
-    font-size: 1rem;
-    font-family: var(--default-font);
-  }/*诗歌文本*/
-  
-  ins {
-  color: rgb(214,168,65);
-  font-style: normal;
-  text-decoration: none !important;
-  font-size: 0.9rem;
-  font-family: var(--default-font);
-  }/*小号黄字*/
-
-  samp {
-  color: #999ea2;
-  font-weight: 200;
-  font-size: 0.8rem;
-  font-family: var(--default-font);
-}/*极小号浅灰字*/
-
-samp strong {
-  font-weight: bolder;
-  font-size: 0.8rem;
-}/*极小号浅灰字加粗*/ 
-
-h1 {
-  font-weight: normal;
-}
-
+/* 各级标题 */
+h1 {font-weight: normal;}
 h2 {text-indent: 18px; font-weight: normal; margin-bottom: 100px !important;margin-top: 100px !important;}
 h3 {text-indent: 18px; font-weight: normal; margin-bottom: 100px !important;margin-top: 100px !important;}
+h4 {text-indent: 18px; font-weight: normal; margin-bottom: 100px !important;margin-top: 100px !important;}
+h5 {text-indent: 18px; font-weight: normal; margin-bottom: 100px !important;margin-top: 100px !important;}
+h6 {text-indent:18px;}
 
-h4 {
-  font-weight: normal;
-  text-indent:18px;
-}
+/* 各类字体标签 */
+p {font-size: 1rem;}/*正文*/
+pre {font-size: 1rem; font-family: var(--default-font); text-indent: 0px;}/*诗歌文本*/
+ins {color: rgb(214,168,65);  font-style: normal;  text-decoration: none !important;  font-size: 0.9rem;  font-family: var(--default-font);}/*小号黄字*/
+samp {color: #999ea2;font-weight: 200;font-size: 0.8rem;font-family: var(--default-font);}/*极小号浅灰字*/
+samp strong {font-weight: bolder;font-size: 0.8rem;}/*极小号浅灰字加粗*/
+small {color: #495c69; font-style: normal; font-size: 0.9rem;}/*小号浅黑字*/
+kbd {color: #126e82; font-style: normal;  font-size: 0.9rem;  font-family: var(--default-font);}/*小号蓝字*/
+cite {color: #999ea2;  font-family: "Courier New","PMingLiU-TW";  font-style: normal; font-size: 0.8rem;}/*参考文献、日期落款*/
+sup {color: rgb(214,168,65); vertical-align: super; font-style: normal; font-size: 0.8rem;}/*上标黄字*/
+sub {color: #126e82;font-style: normal; font-size: 0.8rem;}/*下标蓝字*/
+blockquote {margin: 0;}/*引用段落缩进*/
+blockquote p {color: #126e82; font-style: normal; font-size: 0.85rem; line-height: 1.8; font-family: var(--default-font);}/*引用段落蓝字*/
 
-h5 {
-  text-indent:18px;
-  font-weight: normal;
-}
-
-h6 {
-  text-indent:18px;
-}
-
-small {
-  color: #495c69;/*夏云灰*/
-  font-style: normal;
-  font-size: 0.9rem;
-}/*小号浅黑字*/
-
-kbd {
-  color: #126e82;/*玉鈫蓝*/
-  font-style: normal;
-  font-size: 0.9rem;
-  font-family: var(--default-font);
-}/*小号蓝字*/
-
-cite {
-  color: #999ea2;
-  font-family: "Courier New","PMingLiU-TW";
-  font-style: normal;
-  font-size: 0.8rem;
-}/*参考文献、日期落款*/
-
-sup {
-  color: rgb(214,168,65);
-  vertical-align: super;
-  font-style: normal;
-  font-size: 0.8rem;
-}/*上标黄字*/
-
-sub {
-  color: #126e82;/*玉鈫蓝*/
-  font-style: normal;
-  font-size: 0.8rem;
-}/*下标蓝字*/
-
-blockquote {
-  margin: 0;
-}/*引用段落缩进*/
-
-blockquote p {
-  color: #126e82;/*玉鈫蓝*/
-  font-style: normal;
-  font-size: 0.85rem;
-  line-height: 1.8;
-  font-family: var(--default-font);
-}/*引用段落蓝字*/
-
-/* 主页文章宽卡片 */
-.header-media {position: relative; width: 100%;  height: 300px;  display: flex;  justify-content: flex-start; align-items: center; padding-left: 50px;
+  /* 主页文章宽卡片 */
+.header-media {position: relative; width: 100%;  height: 240px;  display: flex;  justify-content: flex-start; align-items: center; padding-left: 50px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);  margin-bottom: 20px;  background-size: cover; background-position: center;}/* 主页文章宽卡片·卡片大框架 */
 .header-media:before {content: "";  position: absolute; top: 0;  left: 0; right: 0; bottom: 0;  background: rgba(0, 0, 0, 0.2); z-index: 1;}/* 主页文章宽卡片·黑色蒙版 */ 
 .text-content {position: relative;  background-color: rgba(255, 255, 255, 0.7); padding: 20px; width: 300px; z-index: 2; }/* 主页文章宽卡片·文本内容 */
-.text-content h1 {color: #255359; margin: 0 0 10px 0;}/* 主页文章宽卡片·文章标题 */
+.text-content h1 {color: #255359; margin: 0 0 10px 0; font-size: 1.1rem;}/* 主页文章宽卡片·文章标题 */
 .text-content h1 a {color: #255359; text-decoration: none;}/* 主页文章宽卡片·文章标题超链接 */
 .text-content h1 a:active {color: rgba(37, 83, 89, 0.9);}/* 主页文章宽卡片·文章标题超链接点击后变色 */
 .text-content p {color: #B54434; margin: 0 0 20px 0;}/* 主页文章宽卡片·文章合集 */
 .text-content p a {color: #B54434; text-decoration: none;}/* 主页文章宽卡片·文章合集超链接 */
 .text-content cite {color: #B54434; margin: 0 0 20px 0; font-family: "Antro Vectra";  font-size: 0.8rem;}/* 主页文章宽卡片·日期 */
-
-.spacer {margin-bottom: 100px;}/* 空行间距 */
 
 /* 合集窄卡片 */
 .triangle {width: 0; height: 0; border-left: 15px solid #B54434; border-top: 10px solid transparent; border-bottom: 10px solid transparent; margin-right: 10px;}/* 三角形 */
@@ -162,4 +87,6 @@ blockquote p {
 /* 分割线 */
 .splitline {margin-bottom: 100px;margin-top: 100px; text-align:center; font-family:'Antro Vectra'; font-size:0.7em; color:#B54434;}
 .splitline a {color:#B54434; text-decoration: none;}
+
+.spacer {margin-bottom: 100px;}/* 空行间距 */
 }
