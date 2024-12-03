@@ -136,11 +136,17 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Scuola_bolognese%2C_ciclo_dell%27abbazia_di_pomposa%2C_1350_ca.%2C_apocalisse%2C_12_bestia_dalle_7_teste_4.jpg/975px-Scuola_bolognese%2C_ciclo_dell%27abbazia_di_pomposa%2C_1350_ca.%2C_apocalisse%2C_12_bestia_dalle_7_teste_4.jpg?20180418183504)
 
 <p style="text-align:center;color:#999ea2;font-size:0.6em;">apocalisse, 12 bestia dalle 7 teste 4 | Scuola bolognese, ciclo dell'abbazia di pomposa | 1350</p>
-<pre>
 
+<div class="spacer"></div>
 
-
-</pre>
+<div class="header-container"><div class="triangle"></div>
+    <div class="collect-media" style="background-image: url('https://www.xiancangzai.com/img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/%E5%8D%8A%E6%AF%8F%E8%A7%A3.png');">
+        <div class="collect-text">
+            <cite>Ban Mei Jie</cite>
+            <h1><a href="https://www.xiancangzai.com/Xiancangzai/%E5%8D%8A%E6%AF%8F%E8%A7%A3/">半每解</a></h1>
+        </div>
+    </div>
+</div>
 
 <pre style="text-align:center;font-family:'Antro Vectra';"><a href="https://www.xiancangzai.com/" style="font-size:0.6em; color:#B54434;">--- Xian Cang Zai ---</a></pre>
 

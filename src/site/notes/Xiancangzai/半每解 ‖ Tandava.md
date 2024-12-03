@@ -138,11 +138,18 @@
 
 <cite>2022.7.28</cite>
 
-<pre>
+<div class="spacer"></div>
 
 
+<div class="header-container"><div class="triangle"></div>
+    <div class="collect-media" style="background-image: url('https://www.xiancangzai.com/img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/%E5%8D%8A%E6%AF%8F%E8%A7%A3.png');">
+        <div class="collect-text">
+            <cite>Ban Mei Jie</cite>
+            <h1><a href="https://www.xiancangzai.com/Xiancangzai/%E5%8D%8A%E6%AF%8F%E8%A7%A3/">半每解</a></h1>
+        </div>
+    </div>
+</div>
 
-</pre>
 
 <pre style="text-align:center;font-family:'Antro Vectra';"><a href="https://www.xiancangzai.com/" style="font-size:0.6em; color:#B54434;">--- Xian Cang Zai ---</a></pre>
 
