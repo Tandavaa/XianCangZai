@@ -61,6 +61,9 @@ sub {color: #126e82;font-style: normal; font-size: 0.8rem;}/*下标蓝字*/
 blockquote {margin: 0;}/*引用段落缩进*/
 blockquote p {color: #126e82; font-style: normal; font-size: 0.85rem; line-height: 1.8; font-family: var(--default-font);}/*引用段落蓝字*/
 
+/* 外部链接覆盖卡片 */
+.card-link {display: block;  text-decoration: none;   width: 100%;   height: 100%; position: relative;   top: 0;  left: 0;  z-index: 1;}
+
 /* 主页文章宽卡片 */
 .header-media {position: relative; width: 100%;  height: 240px;  display: flex;  justify-content: flex-start; align-items: center; padding-left: 50px; transition: transform 0.3s ease-in-out; /* 添加点击缩放过渡效果 */
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);  margin-bottom: 20px;  background-size: cover; background-position: center;}/* 主页文章宽卡片·卡片大框架 */
@@ -74,19 +77,16 @@ blockquote p {color: #126e82; font-style: normal; font-size: 0.85rem; line-heigh
 .text-content cite {color: #B54434; margin: 0 0 20px 0; font-family: "Antro Vectra";  font-size: 0.8rem;}/* 主页文章宽卡片·日期 */
 .header-media:active {transform: scale(0.9); }/* 卡片点击缩放 */
 
-/* 点击卡片时的缩放效果 */
-.card-link:active .header-media {
+/* 使用 :focus-within 实现点击后缩放效果 */
+.card-link:focus-within .header-media {
     transform: scale(0.9); /* 缩小 */
 }
 
-/* 修复手机首次点击无反应问题 */
+/* 修复手机点击延迟问题 */
 .card-link {
-    -webkit-tap-highlight-color: transparent; /* 去掉点击高亮 */
+    -webkit-tap-highlight-color: transparent; /* 去除点击高亮 */
     touch-action: manipulation; /* 优化点击响应 */
 }
-
-/* 外部链接覆盖卡片 */
-.card-link {display: block;  text-decoration: none;   width: 100%;   height: 100%; position: relative;   top: 0;  left: 0;  z-index: 1;}
 
 /* 合集窄卡片 */
 .triangle {width: 0; height: 0; border-left: 15px solid #B54434; border-top: 10px solid transparent; border-bottom: 10px solid transparent; margin-right: 10px;}/* 三角形 */
