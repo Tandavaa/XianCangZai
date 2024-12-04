@@ -74,14 +74,15 @@ blockquote p {color: #126e82; font-style: normal; font-size: 0.85rem; line-heigh
 .text-content cite {color: #B54434; margin: 0 0 20px 0; font-family: "Antro Vectra";  font-size: 0.8rem;}/* 主页文章宽卡片·日期 */
 .header-media:active {transform: scale(0.9); }/* 卡片点击缩放 */
 
-/* 隐藏 checkbox */
-.card-toggle {
-    display: none; /* 隐藏 checkbox */
+/* 点击卡片时的缩放效果 */
+.card-link:active .header-media {
+    transform: scale(0.9); /* 缩小 */
 }
 
-/* 通过 :checked 状态控制缩放效果 */
-.card-toggle:checked + .header-media {
-    transform: scale(0.9); /* 缩小 */
+/* 修复手机首次点击无反应问题 */
+.card-link {
+    -webkit-tap-highlight-color: transparent; /* 去掉点击高亮 */
+    touch-action: manipulation; /* 优化点击响应 */
 }
 
 /* 外部链接覆盖卡片 */
