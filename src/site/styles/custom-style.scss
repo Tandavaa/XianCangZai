@@ -61,8 +61,8 @@ sub {color: #126e82;font-style: normal; font-size: 0.8rem;}/*下标蓝字*/
 blockquote {margin: 0;}/*引用段落缩进*/
 blockquote p {color: #126e82; font-style: normal; font-size: 0.85rem; line-height: 1.8; font-family: var(--default-font);}/*引用段落蓝字*/
 
-  /* 主页文章宽卡片 */
-.header-media {position: relative; width: 100%;  height: 240px;  display: flex;  justify-content: flex-start; align-items: center; padding-left: 50px;
+/* 主页文章宽卡片 */
+.header-media {position: relative; width: 100%;  height: 240px;  display: flex;  justify-content: flex-start; align-items: center; padding-left: 50px; transition: transform 0.3s ease-in-out; /* 添加点击缩放过渡效果 */
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);  margin-bottom: 20px;  background-size: cover; background-position: center;}/* 主页文章宽卡片·卡片大框架 */
 .header-media:before {content: "";  position: absolute; top: 0;  left: 0; right: 0; bottom: 0;  background: rgba(0, 0, 0, 0.2); z-index: 1;}/* 主页文章宽卡片·黑色蒙版 */ 
 .text-content {position: relative;  background-color: rgba(255, 255, 255, 0.7); padding: 20px; width: 300px; z-index: 2; }/* 主页文章宽卡片·文本内容 */
@@ -72,6 +72,10 @@ blockquote p {color: #126e82; font-style: normal; font-size: 0.85rem; line-heigh
 .text-content p {color: #B54434; margin: 0 0 20px 0;}/* 主页文章宽卡片·文章合集 */
 .text-content p a {color: #B54434; text-decoration: none;}/* 主页文章宽卡片·文章合集超链接 */
 .text-content cite {color: #B54434; margin: 0 0 20px 0; font-family: "Antro Vectra";  font-size: 0.8rem;}/* 主页文章宽卡片·日期 */
+.header-media:active {transform: scale(0.9); }/* 卡片点击缩放 */
+
+/* 外部链接覆盖卡片 */
+.card-link {display: block;  text-decoration: none;   width: 100%;   height: 100%; position: relative;   top: 0;  left: 0;  z-index: 1;}
 
 /* 合集窄卡片 */
 .triangle {width: 0; height: 0; border-left: 15px solid #B54434; border-top: 10px solid transparent; border-bottom: 10px solid transparent; margin-right: 10px;}/* 三角形 */
@@ -89,4 +93,56 @@ blockquote p {color: #126e82; font-style: normal; font-size: 0.85rem; line-heigh
 .splitline a {color:#B54434; text-decoration: none;}
 
 .spacer {margin-bottom: 100px;}/* 空行间距 */
+
+/* 黑白反色小注 */
+.note {font-size:0.7em; color:#999ea2;}
+.note ins {font-size:1em;background: black;color:white;}
+
+/* 图片左右滑动 */
+
+/* 外层容器 */
+.carousel-container {
+  width: 100%; /* 容器宽度调整为 100% */
+  max-width: 1200px; /* 最大宽度与段落宽度对齐 */
+  margin: auto;
+  overflow-x: auto; /* 水平方向滚动 */
+  scroll-snap-type: x mandatory; /* 开启滚动捕捉 */
+  -webkit-overflow-scrolling: touch; /* 触屏设备平滑滚动 */
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* 滑动容器 */
+.carousel {
+  display: flex;
+  gap: 15px; /* 图片之间的间距 */
+  padding: 10px 0;
+}
+
+/* 每个图片项 */
+.carousel-item {
+  flex: 0 0 90%; /* 每张图片占容器的90%宽度 */
+  scroll-snap-align: center; /* 滚动捕捉到图片中心 */
+}
+
+.carousel-item img {
+  width: 100%;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  display: block;
+}
+
+/* 可视化左右部分提示（去除不需要的阴影） */
+.carousel-container::before,
+.carousel-container::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 5%; /* 减少提示区域宽度 */
+  pointer-events: none;
+  background: none; /* 去除背景 */
+}       
 }
