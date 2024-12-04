@@ -74,6 +74,16 @@ blockquote p {color: #126e82; font-style: normal; font-size: 0.85rem; line-heigh
 .text-content cite {color: #B54434; margin: 0 0 20px 0; font-family: "Antro Vectra";  font-size: 0.8rem;}/* 主页文章宽卡片·日期 */
 .header-media:active {transform: scale(0.9); }/* 卡片点击缩放 */
 
+/* 隐藏 checkbox */
+.card-toggle {
+    display: none; /* 隐藏 checkbox */
+}
+
+/* 通过 :checked 状态控制缩放效果 */
+.card-toggle:checked + .header-media {
+    transform: scale(0.9); /* 缩小 */
+}
+
 /* 外部链接覆盖卡片 */
 .card-link {display: block;  text-decoration: none;   width: 100%;   height: 100%; position: relative;   top: 0;  left: 0;  z-index: 1;}
 
