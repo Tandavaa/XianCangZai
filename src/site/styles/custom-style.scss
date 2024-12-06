@@ -99,50 +99,11 @@ blockquote p {color: #126e82; font-style: normal; font-size: 0.85rem; line-heigh
 .note ins {font-size:1em;background: black;color:white;}
 
 /* 图片左右滑动 */
+.carousel-container { width: 100%; max-width: 1200px; margin: auto; overflow-x: auto; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch; position: relative; display: flex; justify-content: center; align-items: center; }/* 外层容器 */
+.carousel { display: flex; gap: 15px; padding: 10px 0; }/* 滑动容器 */
+.carousel-item { flex: 0 0 90%; scroll-snap-align: center; }/* 每个图片项 */
+.carousel-item img { width: 100%; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); display: block; }
+.carousel-container::before, 
+.carousel-container::after { content: ''; position: absolute; top: 0; bottom: 0; width: 5%; pointer-events: none; background: none; }
 
-/* 外层容器 */
-.carousel-container {
-  width: 100%; /* 容器宽度调整为 100% */
-  max-width: 1200px; /* 最大宽度与段落宽度对齐 */
-  margin: auto;
-  overflow-x: auto; /* 水平方向滚动 */
-  scroll-snap-type: x mandatory; /* 开启滚动捕捉 */
-  -webkit-overflow-scrolling: touch; /* 触屏设备平滑滚动 */
-  position: relative;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-/* 滑动容器 */
-.carousel {
-  display: flex;
-  gap: 15px; /* 图片之间的间距 */
-  padding: 10px 0;
-}
-
-/* 每个图片项 */
-.carousel-item {
-  flex: 0 0 90%; /* 每张图片占容器的90%宽度 */
-  scroll-snap-align: center; /* 滚动捕捉到图片中心 */
-}
-
-.carousel-item img {
-  width: 100%;
-  border-radius: 10px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  display: block;
-}
-
-/* 可视化左右部分提示（去除不需要的阴影） */
-.carousel-container::before,
-.carousel-container::after {
-  content: '';
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  width: 5%; /* 减少提示区域宽度 */
-  pointer-events: none;
-  background: none; /* 去除背景 */
-}
 }
