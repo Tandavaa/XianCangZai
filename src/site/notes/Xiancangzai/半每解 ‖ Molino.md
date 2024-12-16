@@ -3,38 +3,13 @@
 ---
 
 
-
-<pre>
-
-
-
-</pre>
-
-<pre style="text-align:center;font-family:'Antro Vectra';"><a href="https://www.xiancangzai.com/" style="font-size:0.6em; color:#B54434;">--- Xian Cang Zai ---</a></pre>
-
-<pre>
-
-
-
-</pre>
+<div class="splitline"><a href="https://www.xiancangzai.com/">--- Xian Cang Zai ---</a></div>
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnhlGidWdf1zBwUW7VQlSyKCZwzxP6k3nBSXpc3diZHakh1_hoh_3LK4p4ScRVfXZ9LDS3xndlUGLrykb_Xv8LdcOeiU_Na4DV4qi40C45fi5uUGkHeQbkWr8CgJQQyBngC5fi/s1600/3654414518_eb16be3333_b.jpg)
 
 <p style="text-align:center;color:#999ea2;font-size:0.6em;">The Beast Comes Out of the Sea from Apocalypse: Descent of the Holy Ghost | Giusto De’ Menabuoi</p>
 
-<pre>
-
-
-
-</pre>
-
 ## Molino<sup>[1]</sup>
-
-<pre>
-
-
-
-</pre>
 
 <pre>
 如果輪廓神解開苝<sup>[2]</sup>，被淪替<sup>受禾</sup>的
@@ -55,19 +30,7 @@
 
 <cite>2022.8.20</cite><br/><cite>2024.10.27</cite>
 
-<pre>
-
-
-
-</pre>
-
 ### 注
-
-<pre>
-
-
-
-</pre>
 
 <ins>[1] Molino</ins><small>：俾格米人的一種祭祀儀典，女人們要試圖撲滅珍貴的火種，而男人們要跳性挑逗意味的舞蹈將火扇旺。</small>
 
@@ -127,11 +90,7 @@
 
 <ins>[23] 聅</ins><small>：chè，古代軍法用箭穿耳朵的刑罰。《説文解字》：「司馬法曰：小罪聅，中罪刖，大罪剄。」</small>
 
-<pre>
-
-
-
-</pre>
+<div class="spacer"></div>
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Scuola_bolognese%2C_ciclo_dell%27abbazia_di_pomposa%2C_1350_ca.%2C_apocalisse%2C_12_bestia_dalle_7_teste_4.jpg/975px-Scuola_bolognese%2C_ciclo_dell%27abbazia_di_pomposa%2C_1350_ca.%2C_apocalisse%2C_12_bestia_dalle_7_teste_4.jpg?20180418183504)
 
@@ -139,22 +98,22 @@
 
 <div class="spacer"></div>
 
-<div class="header-container"><div class="triangle"></div>
+<p style="text-align:center;color:#B54434;font-size:0.8em;">▮ 相𨳹󾗖􁴆 ▮</p>
+
+<div class="header-container">
+    <div class="triangle"></div>
     <div class="collect-media" style="background-image: url('https://www.xiancangzai.com/img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/%E5%8D%8A%E6%AF%8F%E8%A7%A3.png');">
+        <a href="https://www.xiancangzai.com/Xiancangzai/%E5%8D%8A%E6%AF%8F%E8%A7%A3/" class="ncard-link"></a>
         <div class="collect-text">
-            <cite>Ban Mei Jie</cite>
-            <h1><a href="https://www.xiancangzai.com/Xiancangzai/%E5%8D%8A%E6%AF%8F%E8%A7%A3/">半每解</a></h1>
+            <a href="https://www.xiancangzai.com/Xiancangzai/%E5%8D%8A%E6%AF%8F%E8%A7%A3/">
+                <cite>Ban Mei Jie</cite>
+                <h1>半每解</h1>
+            </a>
         </div>
     </div>
 </div>
 
-<pre style="text-align:center;font-family:'Antro Vectra';"><a href="https://www.xiancangzai.com/" style="font-size:0.6em; color:#B54434;">--- Xian Cang Zai ---</a></pre>
-
-<pre>
-
-
-
-</pre>
+<div class="splitline"><a href="https://www.xiancangzai.com/">--- Xian Cang Zai ---</a></div>
 
 ![半每解.png](/img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/%E5%8D%8A%E6%AF%8F%E8%A7%A3.png)
 
@@ -164,19 +123,7 @@
 
 <p style="font-size:0.7em; color:#999ea2"><ins style="font-size:1em;background: black;color:white">鱻蒼載</ins> | 「鱻蒼載」的隱語/鴘轉為魯迅所發機，鱻與新，蒼與青，載與年，全是潘諾西亞人的幻覺，不是任務，而是悬亙的準備，向著彌賽亞的腳踵、阿美西亞人的語言僭主、共和囻。</p>
 
-<pre>
-
-
-
-</pre>
-
-<pre style="text-align:center;font-family:'Antro Vectra';"><a href="https://www.xiancangzai.com/" style="font-size:0.6em; color:#B54434;">--- Xian Cang Zai ---</a></pre>
-
-<pre>
-
-
-
-</pre>
+<div class="splitline"><a href="https://www.xiancangzai.com/">--- Xian Cang Zai ---</a></div>
 
 ![贊賞碼.png](/img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/%E8%B4%8A%E8%B3%9E%E7%A2%BC.png)
 

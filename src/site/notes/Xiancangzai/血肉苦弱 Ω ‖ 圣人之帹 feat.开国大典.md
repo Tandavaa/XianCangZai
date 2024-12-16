@@ -3,45 +3,15 @@
 ---
 
 
-<pre>
-
-
-
-</pre>
-
-<pre style="text-align:center;font-family:'Antro Vectra';"><a href="https://www.xiancangzai.com/" style="font-size:0.6em; color:#B54434;">--- Xian Cang Zai ---</a></pre>
-
-<pre>
-
-
-
-</pre>
+<div class="splitline"><a href="https://www.xiancangzai.com/">--- Xian Cang Zai ---</a></div>
 
 ![](https://artlogic-res.cloudinary.com/w_1600,h_1600,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/inkstudio/images/view/611278a6d4f6b02a5c1d9de897320f015eab5e98.jpg)
 
 <samp>这张作品是库克（Tim Cook）的书法老师 [^1] **王冬龄**（悟斋、大散草堂） 2016 年所书《**[逍遥游](https://www.inkstudio.com.cn/zh/artists/57-wang-dongling/works/1589-wang-dongling-wandering-beyond-2016/)**》，「书非书」[^2] 是冬龄师长久的实验性观念，从先秦典籍到唐诗宋词，汉字将被写遍。有人认为悟斋是「非语义」（asemic）的，[^3] 虽然宣纸上还停留着难以辨识的古典文本，但其考验的不再是我们的认字能力，而是我们的想象力了。</samp>
 
-<pre>
-
-
-
-</pre>
-
 ## 圣人之帹 feat.开国大典
 
-<pre>
-
-
-
-</pre>
-
 ### 案语
-
-<pre>
-
-
-
-</pre>
 
 <p style="font-size:0.85em; color:#495c69">这是一部影像诗，作者牛金牛，是 Ta 对<strong>中华第二共和国</strong> 73 周年国庆的「献礼」，2022 年 10 月 8 日推送于鱻蒼載公众号<ins>（现已被封号）</ins>，几小时后被删；同月 16 日自查后再推送，也未免于难。不知道何时代，这部纯文学的影像诗会不再是一种冒险，作为观众，至少我可以思考这样一个假设：「他」<ins>（毛泽东）</ins>是否必然作为一个男性出现在历史中？「他」有没有可能是女性？平行时空中我们是否有了真正幸福的历史，或者怎样的历史？尽管大多数观众会认为，这无关于当代中国的本质，而这一假设至少在牛金牛的影片中成为了事实。</p>
 
@@ -61,21 +31,11 @@
 
 <small style="font-family:'AntroVectra';">https://pan.quark.cn/s/83ab1b16967a</small>
 
-<pre>
-
-
-
-</pre>
+<div class="spacer"></div>
 
 ![《圣人之帹 feat.开国大典》剧照之一.png](/img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/%E3%80%8A%E5%9C%A3%E4%BA%BA%E4%B9%8B%E5%B8%B9%20feat.%E5%BC%80%E5%9B%BD%E5%A4%A7%E5%85%B8%E3%80%8B%E5%89%A7%E7%85%A7%E4%B9%8B%E4%B8%80.png)
 
 <p style="text-align:center;color:#999ea2;font-size:0.6em;">《圣人之帹 feat.开国大典》剧照之一</p>
-
-<pre>
-
-
-
-</pre>
 
 <h3 style="text-align:center">作品信息</h3>
 
@@ -97,31 +57,15 @@
 
 <p style="text-align:center"><cite>2022 年 10 月 7 日</cite></p>
 
-<pre>
-
-
-
-</pre>
+<div class="spacer"></div>
 
 ![《圣人之帹 feat.开国大典》剧照之二.png](/img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/%E3%80%8A%E5%9C%A3%E4%BA%BA%E4%B9%8B%E5%B8%B9%20feat.%E5%BC%80%E5%9B%BD%E5%A4%A7%E5%85%B8%E3%80%8B%E5%89%A7%E7%85%A7%E4%B9%8B%E4%BA%8C.png)
 
 <p style="text-align:center;color:#999ea2;font-size:0.6em;">《圣人之帹 feat.开国大典》剧照之二</p>
 
-<pre>
-
-
-
-</pre>
-
 ### 《圣人之帹 feat.开国大典》剧本
 
 <small>以下文本仅仅为作品台词，供观影者参考，完整的影像诗是这部影片本身。</small>
-
-<pre>
-
-
-
-</pre>
 
 #### 林伯渠：
 
@@ -169,39 +113,19 @@
 樾<sup>[53]</sup>，被馵<sup>[54]</sup>色沉思。
 </pre>
 
-<pre>
-
-
-
-</pre>
+<div class="spacer"></div>
 
 ![《圣人之帹 feat.开国大典》剧照之三.png](/img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/%E3%80%8A%E5%9C%A3%E4%BA%BA%E4%B9%8B%E5%B8%B9%20feat.%E5%BC%80%E5%9B%BD%E5%A4%A7%E5%85%B8%E3%80%8B%E5%89%A7%E7%85%A7%E4%B9%8B%E4%B8%89.png)
 
 <p style="text-align:center;color:#999ea2;font-size:0.6em;">《圣人之帹 feat.开国大典》剧照之三</p>
 
-<pre>
-
-
-
-</pre>
+<div class="spacer"></div>
 
 ![](https://artlogic-res.cloudinary.com/w_2400,h_2400,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/inkstudio/images/view/96b95272dbd4fe8997c570b3f5de6c2b47d78961.jpg)
 
 <samp>大散草堂尚有「银盐书法」[^4]，即以显影液写于相纸之上，之后冲洗而成。此为其 2013 年所成《**[无礙](https://www.inkstudio.com.cn/zh/artists/57-wang-dongling/works/516/)**》。流涎，他获得了涂抹影像的权力，只是他必须暂时变成盲人（深红色的暗房里几乎无法视物 [^5]），在 2021 年，他已经戴上 VR 眼镜，[^6] 而我呢，还在为开国大典的银盐性发愁。</samp>
 
-<pre>
-
-
-
-</pre>
-
 ### 注
-
-<pre>
-
-
-
-</pre>
 
 <pre>
 <ins>[1]帹</ins><small>：shà，覆盖面目的巾帕。</small>
@@ -260,11 +184,7 @@
 <ins>[54]馵</ins><small>：zhù，后左脚白色的马。</small>
 </pre>
 
-<pre>
-
-
-
-</pre>
+<div class="spacer"></div>
 
 ![](https://artlogic-res.cloudinary.com/w_1600,h_1600,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/inkstudio/images/view/b58671bf09cbb828cddff06ed2ee8e84470c4f58.jpg)
 
@@ -272,19 +192,7 @@
 
 > <cite>觀自在菩薩，行深般若波羅蜜多時，照見五蘊皆空，度一切苦厄。舍利子，色不異空，空不異色；色即是空，空即是色。受、想、行、識，亦復如是。 舍利子，是諸法空相，不生不滅，不垢不淨，不增不減，是故空中無色，無受、想、行、識；無眼、耳、鼻、舌、身、意；無色、聲、香、味、觸、法；無眼界，乃至無意識界；無無明，亦無無明盡；乃至無老死，亦無老死盡。無苦、集、滅、道，無智亦無得，以無所得故。菩提薩埵， 依般若波羅蜜多故，心無罣礙，無罣礙故，無有恐怖，遠離顛倒夢想，究竟涅槃。三世諸佛，依般若波羅蜜多故，得阿耨多羅三藐三菩提。故知般若波羅蜜多，是大神咒，是大明咒，是無上咒，是無等等咒，能除一切苦，真實不虛。故說般若波羅蜜多咒，即說咒曰：揭諦、揭諦，波羅揭諦，波羅僧揭諦，菩提薩婆訶。</cite>
 
-<pre>
-
-
-
-</pre>
-
-<pre style="text-align:center;font-family:'Antro Vectra';"><a href="https://www.xiancangzai.com/" style="font-size:0.6em; color:#B54434;">--- Xian Cang Zai ---</a></pre>
-
-<pre>
-
-
-
-</pre>
+<div class="splitline"><a href="https://www.xiancangzai.com/">--- Xian Cang Zai ---</a></div>
 
 ![血肉苦弱Ω.png](/img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/%E8%A1%80%E8%82%89%E8%8B%A6%E5%BC%B1%CE%A9.png)
 
@@ -294,19 +202,7 @@
 
 <p style="font-size:0.7em; color:#999ea2"><ins style="font-size:1em;background: black;color:white">鱻蒼載</ins> | 「鱻蒼載」的隱語/鴘轉為魯迅所發機，鱻與新，蒼與青，載與年，全是潘諾西亞人的幻覺，不是任務，而是悬亙的準備，向著彌賽亞的腳踵、阿美西亞人的語言僭主、共和囻。</p>
 
-<pre>
-
-
-
-</pre>
-
-<pre style="text-align:center;font-family:'Antro Vectra';"><a href="https://www.xiancangzai.com/" style="font-size:0.6em; color:#B54434;">--- Xian Cang Zai ---</a></pre>
-
-<pre>
-
-
-
-</pre>
+<div class="splitline"><a href="https://www.xiancangzai.com/">--- Xian Cang Zai ---</a></div>
 
 ![贊賞碼.png](/img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/%E8%B4%8A%E8%B3%9E%E7%A2%BC.png)
 

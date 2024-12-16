@@ -3,37 +3,13 @@
 ---
 
 
-<pre>
-
-
-
-</pre>
-
-<pre style="text-align:center;font-family:'Antro Vectra';"><a href="https://www.xiancangzai.com/" style="font-size:0.6em; color:#B54434;">--- Xian Cang Zai ---</a></pre>
-
-<pre>
-
-
-
-</pre>
+<div class="splitline"><a href="https://www.xiancangzai.com/">--- Xian Cang Zai ---</a></div>
 
 ![Ananda-Tandava of Siva-Sadanrttamurti.png](/img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/Ananda-Tandava%20of%20Siva-Sadanrttamurti.png)
 
 <samp>此图为 Kamil V. Zvelebil 所著 *[Ananda-Tandava of Siva-Sadanrttamurti](https://archive.org/details/acc.no.25327anandatandavaofsivasadanrttamurti1985/mode/2up)* 一书的封面，绘着 **Ananda Tandava** 的典型图像，在十世纪晚期成型。[^1]Ananda Tandava 为所有七种 Tandava 的总完成，[^2] 乃极乐之戏舞，[^3] 愉悦地舞蹈着的是四手湿婆（**Siva**，其舞王形态也唤作 **Nataraja**），右后臂擎小鼓，代表宇宙原初的创造力、时间之节拍，也代表男女法则的统一；[^4] 左后臂举火舌，手作 ardhacandrahasta 式，代表三昧（samhāra）即宇宙的毁灭，[^5] 两只手共示毁灭与创造的平衡。[^6] 右前臂结无畏印（abhaya），[^7] 象征着保护/维持与恩典；[^8] 左前臂作 gajahasta 式。[^9] 右脚踏着玩眼镜蛇的侏儒恶魔 **Apasmara**[^10]（象征着精神愚昧和言语混乱 [^11]），代表着 Siva 对愚昧的降伏；左脚抬起，象征着虔诚灵魂的解放，两只脚表示着知识与无知的循环。[^12] 四周是从莲座中长出的火拱门（**Prabha**）。[^13]</samp>
 
-<pre>
-
-
-
-</pre>
-
 ## Tandava <sup>[1]</sup><sub>（坦達瓦）<sup>[滅世之舞]</sup></sub>
-
-<pre>
-
-
-
-</pre>
 
 <pre>
 匿名票<sup>在 Reddit 的淚腺<sup>：謝安的戶限<sup>[2]</sup></sup> 中</sup>為再路過
@@ -48,19 +24,7 @@
 
 <cite>2022.7.28</cite><br/><cite>2024.5.22</cite><br/><cite>2024.10.28</cite>
 
-<pre>
-
-
-
-</pre>
-
 ### 注
-
-<pre>
-
-
-
-</pre>
 
 <ins>[1] Tandava</ins><small>：音译为「坦达瓦」，印度教毁灭之神湿婆（Shiva 或 Siva）所跳的灭世之舞。当旧时代结束，湿婆会跳起 Tandava 来完成世界的毁灭，并使世界回归到宇宙精神中。Tandava 在创造、保护、毁灭与解脱的循环中成为世界的永恒的、原初的动力，而 Ananda-Tāṇḍava（Tandava 的第七支） 表现着 Siva 的五重行动（Pañcakṛitya）：涌现（sṛṣṭi）、持存（sthiti）、毁灭（samhāra）、遮蔽（tirobhava）、恩典（anugrahā）。[^14] 这五重行动又分别是梵天 （Brahmā）、毗湿奴（Vishnu）、楼陀罗（Rudra）、大自在天（Maheśvara）和永恒湿婆（Sadāśiva）等五位神的行动。[^15]</small>
 
@@ -120,19 +84,7 @@
 
 > 王曰：「子何為者？」要離曰：「臣國東千里之人，臣細小無力，迎風則僵，負風則伏。大王有命，臣敢不盡力？」 吳王心非子胥進此人，良久默然不言。要離即進曰：「大王患慶忌乎？臣能殺之。」王曰：「慶忌之勇，世所聞也。筋骨果勁，萬人莫當。走追奔獸，手接飛鳥，骨騰肉飛，拊膝數百里。吾嘗追之於江，駟馬馳不及，射之闇接，矢不可中。今子之力不如也。」要離曰：「王有意焉，臣能殺之。」王曰：「慶忌明智之人，歸窮於諸侯，不下諸侯之士。」要離曰：「臣聞安其妻子之樂，不盡事君之義，非忠也；懷家室之愛，而不除君之患者，非義也。臣詐以負罪出奔，願王戮臣妻子，斷臣右手，慶忌必信臣矣。」王曰：「諾。」要離乃詐得罪出奔，吳王乃取其妻子，焚棄於市 。要離乃奔諸侯而行怨言，以無罪聞於天下 。遂如衛，求見慶忌。見曰：「闔閭無道，王子所知。今戮吾妻子，焚之於市，無罪見誅。吳國之事，吾知其情，願因王子之勇，闔閭可得也。何不與我東之於吳？」慶忌信其謀。 後三月，揀練士卒，遂之吳 。將渡江於中流，要離力微，坐與上風，因風勢以矛鉤其冠，順風而刺慶忌，慶忌顧而揮之，三捽其頭於水中，乃加於膝上，「嘻嘻哉！天下之勇士也！乃敢加兵刃於我。」左右欲殺之，慶忌止之，曰：「此是天下勇士。豈可一日而殺天下勇士二人哉？」乃誡左右曰：「可令還吳，以旌其忠。」於是慶忌死 。要離渡至江陵，愍然不行。從者曰：「君何不行？」要離曰：「殺吾妻子，以事吾君，非仁也；為新君而殺故君之子，非義也。重其死， 不貴無義。今吾貪生棄行，非義也。夫人有三惡以立於世，吾何面目以視天下之士？」言訖遂投身於江，未絕，從者出之。要離曰：「吾寧能不死乎？」從者曰：「君且勿死，以俟爵祿。」要離乃自斷手足，伏劍而死 。[^27]
 
-<pre>
-
-
-
-</pre>
-
 #### 后记
-
-<pre>
-
-
-
-</pre>
 
 <small>某种意义上，这是我十年最重要的作品，我固然徒劳地兴奋，但这首诗并不带有正法的喜悦，它呼唤着递归者的出场。递归，并非是一次性的形式快感，而是被升维的断行，展开着抽象的纸面空间中被折叠的部分。<sup>[这是一种]</sup>拓扑，预告着诗的黑暗时代的来临。</small>
 
@@ -140,24 +92,22 @@
 
 <div class="spacer"></div>
 
+<p style="text-align:center;color:#B54434;font-size:0.8em;">▮ 相𨳹󾗖􁴆 ▮</p>
 
-<div class="header-container"><div class="triangle"></div>
+<div class="header-container">
+    <div class="triangle"></div>
     <div class="collect-media" style="background-image: url('https://www.xiancangzai.com/img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/%E5%8D%8A%E6%AF%8F%E8%A7%A3.png');">
+        <a href="https://www.xiancangzai.com/Xiancangzai/%E5%8D%8A%E6%AF%8F%E8%A7%A3/" class="ncard-link"></a>
         <div class="collect-text">
-            <cite>Ban Mei Jie</cite>
-            <h1><a href="https://www.xiancangzai.com/Xiancangzai/%E5%8D%8A%E6%AF%8F%E8%A7%A3/">半每解</a></h1>
+            <a href="https://www.xiancangzai.com/Xiancangzai/%E5%8D%8A%E6%AF%8F%E8%A7%A3/">
+                <cite>Ban Mei Jie</cite>
+                <h1>半每解</h1>
+            </a>
         </div>
     </div>
 </div>
 
-
-<pre style="text-align:center;font-family:'Antro Vectra';"><a href="https://www.xiancangzai.com/" style="font-size:0.6em; color:#B54434;">--- Xian Cang Zai ---</a></pre>
-
-<pre>
-
-
-
-</pre>
+<div class="splitline"><a href="https://www.xiancangzai.com/">--- Xian Cang Zai ---</a></div>
 
 ![半每解.png](/img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/%E5%8D%8A%E6%AF%8F%E8%A7%A3.png)
 
@@ -167,19 +117,7 @@
 
 <p style="font-size:0.7em; color:#999ea2"><ins style="font-size:1em;background: black;color:white">鱻蒼載</ins> | 「鱻蒼載」的隱語/鴘轉為魯迅所發機，鱻與新，蒼與青，載與年，全是潘諾西亞人的幻覺，不是任務，而是悬亙的準備，向著彌賽亞的腳踵、阿美西亞人的語言僭主、共和囻。</p>
 
-<pre>
-
-
-
-</pre>
-
-<pre style="text-align:center;font-family:'Antro Vectra';"><a href="https://www.xiancangzai.com/" style="font-size:0.6em; color:#B54434;">--- Xian Cang Zai ---</a></pre>
-
-<pre>
-
-
-
-</pre>
+<div class="splitline"><a href="https://www.xiancangzai.com/">--- Xian Cang Zai ---</a></div>
 
 ![贊賞碼.png](/img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/%E8%B4%8A%E8%B3%9E%E7%A2%BC.png)
 
