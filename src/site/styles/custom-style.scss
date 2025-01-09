@@ -45,7 +45,7 @@ h1 {font-weight: normal;}
 h2 {text-indent: 18px; font-weight: normal; margin-bottom: 100px !important;margin-top: 100px !important;}
 h3 {text-indent: 18px; font-weight: normal; margin-bottom: 100px !important;margin-top: 100px !important;}
 h4 {text-indent: 18px; font-weight: normal; margin-bottom: 100px !important;margin-top: 100px !important;}
-h5 {text-indent: 18px; font-weight: normal; margin-bottom: 100px !important;margin-top: 100px !important;}
+h5 {text-indent: 18px; font-weight: normal;}
 h6 {text-indent:18px;}
 
 /* 各类字体标签 */
@@ -55,7 +55,7 @@ ins {color: rgb(214,168,65);  font-style: normal;  text-decoration: none !import
 samp {color: #999ea2;font-weight: 200;font-size: 0.8rem;font-family: var(--default-font);}/*极小号浅灰字*/
 samp strong {font-weight: bolder;font-size: 0.8rem;}/*极小号浅灰字加粗*/
 small {color: #495c69; font-style: normal; font-size: 0.9rem;}/*小号浅黑字*/
-kbd {color: #126e82; font-style: normal;  font-size: 0.9rem;  font-family: var(--default-font);}/*小号蓝字*/
+kbd {color: #126e82; font-style: normal; text-decoration: none !important;   font-size: 0.9rem;  font-family: var(--default-font);}/*小号蓝字*/
 cite {color: #999ea2;  font-family: "Courier New","PMingLiU-TW";  font-style: normal; font-size: 0.8rem;}/*参考文献、日期落款*/
 sup {color: rgb(214,168,65); vertical-align: super; font-style: normal; font-size: 0.8rem;}/*上标黄字*/
 sub {color: #126e82;font-style: normal; font-size: 0.8rem;}/*下标蓝字*/
