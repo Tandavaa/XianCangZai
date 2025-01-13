@@ -116,7 +116,7 @@ blockquote p {color: #126e82; font-style: normal; font-size: 0.85rem; line-heigh
 }
 
 /* 横滑阅读 */
-.slide-indicator { position: relative; margin-top: 20px; display: flex; justify-content: flex-end; align-items: center; padding-right: 0px; width: auto; }
+.slide-indicator { position: relative; margin-top: 10px; margin-bottom: 30px; display: flex; justify-content: flex-end; align-items: center; padding-right: 0px; width: auto; }
 .slide-indicator .btriangle { width: 0; height: 0; border-top: 6px solid transparent; border-bottom: 6px solid transparent; border-right: 10px solid #999ea2; animation: bounce 1s infinite alternate; }
 @keyframes bounce { 0% { transform: translateX(0); } 100% { transform: translateX(-10px); } }
 .slide-indicator .text { margin-left: 10px; font-size: 12px; color: #999ea2; text-align: right; }
