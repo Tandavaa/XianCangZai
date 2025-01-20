@@ -28,7 +28,7 @@ svg.lucide.lucide-calendar-plus {width:0px; height:0px;} /*发表日期图标*/
   font-family: var(--default-font);
   --h1-color: #a61b29; /*苋菜红*/
   --h2-color: #e16723; /*陶瓷红*/
-  --h3-color: #d2b42c; /*草黄*/
+  --h3-color: #A35E47; /*草黄*/
   --h4-color: #207f4c; /*薄荷绿*/
   --h5-color: #126e82; /*玉鈫蓝*/
   --h6-color: #9b1e64; /*苋菜紫*/
@@ -38,8 +38,7 @@ svg.lucide.lucide-calendar-plus {width:0px; height:0px;} /*发表日期图标*/
   --h2-weight: 500;
   --code-background: #fff; /*<pre>与<code>元素背景*/
   --link-external-color: #126e82; /*超链接颜色：玉鈫蓝*/
-  text-align: justify;
-  hyphens: auto;/*两端对齐*/
+  text-align: justify; hyphens: auto;/*两端对齐*/
 
 /* 各级标题 */
 h1 {font-weight: normal;}
@@ -52,16 +51,16 @@ h6 {text-indent:18px;}
 /* 各类字体标签 */
 p {font-size: 1rem;}/*正文*/
 pre {font-size: 1rem; font-family: var(--default-font); text-indent: 0px !important;margin: 0 !important; padding: 0 !important;}/*诗歌文本*/
-ins {color: rgb(214,168,65);  font-style: normal;  text-decoration: none !important;  font-size: 0.9rem;  font-family: var(--default-font);}/*小号黄字*/
+ins {color: #A35E47;  font-style: normal;  text-decoration: none !important;  font-size: 0.9rem;  font-family: var(--default-font);}/*小号黄字*/
 samp {color: #999ea2;font-weight: 200;font-size: 0.8rem;font-family: var(--default-font);}/*极小号浅灰字*/
 samp strong {font-weight: bolder;font-size: 0.8rem;}/*极小号浅灰字加粗*/
 small {color: #495c69; font-style: normal; font-size: 0.9rem;}/*小号浅黑字*/
-kbd {color: #126e82; font-style: normal; text-decoration: none !important;   font-size: 0.9rem;  font-family: var(--default-font);}/*小号蓝字*/
-cite {color: #999ea2;  font-family: "Courier New","PMingLiU-TW";  font-style: normal; font-size: 0.8rem;}/*参考文献、日期落款*/
-sup {color: rgb(214,168,65); vertical-align: super; font-style: normal; font-size: 0.8rem;}/*上标黄字*/
+kbd {color: #126e82; font-style: normal; text-decoration: none !important;  font-size: 0.9rem; font-family: var(--default-font);}/*小号蓝字*/
+cite {color: #999ea2;  font-family: "Courier New",臺灣新細明體;  font-style: normal; font-size: 0.8rem;}/*参考文献、日期落款*/
+sup {color: #A35E47; vertical-align: super; font-style: normal; font-size: 0.8rem;}/*上标黄字*/
 sub {color: #126e82;font-style: normal; font-size: 0.8rem;}/*下标蓝字*/
 blockquote {margin: 0;}/*引用段落缩进*/
-blockquote p {color: #126e82; font-style: normal; font-size: 0.85rem; line-height: 1.8; font-family: var(--default-font);}/*引用段落蓝字*/
+blockquote p {color: #485b4d; font-style: normal; font-size: 0.85rem; line-height: 1.8; font-family: var(--default-font);}/*引用段落蓝字#6e8b74#B4A582*/
 
 /* 主页文章宽卡片 */
 .card-link {display: block;  text-decoration: none;   width: 100%;   height: 100%; position: absolute;  top: 0;  left: 0;  z-index: 1;}/* 外部链接覆盖卡片 */
