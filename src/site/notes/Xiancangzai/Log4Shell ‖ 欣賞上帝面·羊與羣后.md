@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Xiancangzai/Log4Shell ‖ 欣賞上帝面·羊與羣后/","created":"2025-01-20T14:50:16.857+08:00"}
+{"dg-publish":true,"permalink":"/Xiancangzai/Log4Shell ‖ 欣賞上帝面·羊與羣后/","tags":["李去兹","Log4Shell"],"created":"2025-01-20T14:50:16.857+08:00"}
 ---
 
 
