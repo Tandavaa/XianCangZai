@@ -41,12 +41,12 @@ svg.lucide.lucide-calendar-plus {width:0px; height:0px;} /*发表日期图标*/
   text-align: justify; hyphens: auto;/*两端对齐*/
 
 /* 各级标题 */
-h1 {font-weight: normal;}
-h2 {font-weight: normal; margin-bottom: 100px !important;margin-top: 100px !important; padding-left: 18px;}
-h3 {text-indent: 18px; font-weight: normal; margin-bottom: 100px !important;margin-top: 100px !important;}
-h4 {text-indent: 18px; font-weight: normal; margin-bottom: 100px !important;margin-top: 100px !important;}
-h5 {font-weight: normal;margin-top: 50px !important;}
-h6 {text-indent:18px;}
+h1 {color: #a61b29;font-family:var(--default-font);font-weight: normal;}
+h2 {color: #e16723;font-family:var(--default-font);font-weight: normal; margin-bottom: 100px !important;margin-top: 100px !important; padding-left: 18px;}
+h3 {color: #A35E47;font-family:var(--default-font);text-indent: 18px; font-weight: normal; margin-bottom: 100px !important;margin-top: 100px !important;}
+h4 {color: #207f4c;font-family:var(--default-font);text-indent: 18px; font-weight: normal; margin-bottom: 100px !important;margin-top: 100px !important;}
+h5 {color: #126e82;font-family:var(--default-font);font-weight: normal;margin-top: 50px !important;}
+h6 {color: #9b1e64;font-family:var(--default-font);text-indent:18px;}
 
 /* 各类字体标签 */
 p {font-size: 1rem;}/*正文*/
