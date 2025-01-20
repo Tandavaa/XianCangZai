@@ -96,8 +96,8 @@ blockquote p {color: #485b4d; font-style: normal; font-size: 0.85rem; line-heigh
 .spacer {margin-bottom: 100px;}/* 空行间距 */
 
 /* 黑白反色小注 */
-.note {font-size:0.7em; color:#999ea2;}
-.note ins {font-size:1em;background: black;color:white;}
+.note {font-family:var(--default-font);font-size:0.7em; color:#999ea2;}
+.note ins {font-family:var(--default-font);font-size:0.7em;background: black;color:white;}
 
 /* 图片左右滑动 */
 .carousel-container { width: 100%; max-width: 1200px; margin: auto; overflow-x: auto; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch; position: relative; display: flex; justify-content: center; align-items: center; }/* 外层容器 */
