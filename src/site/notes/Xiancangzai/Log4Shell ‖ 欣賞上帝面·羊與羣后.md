@@ -5,6 +5,10 @@
 
 <div class="splitline"><a href="https://www.xiancangzai.com/">--- Xian Cang Zai ---</a></div>
 
+![Log4Shell ‖ 欣賞上帝面·羊與羣后.png](/img/user/%E9%99%84%E4%BB%B6/attachment/Log4Shell%20%E2%80%96%20%E6%AC%A3%E8%B3%9E%E4%B8%8A%E5%B8%9D%E9%9D%A2%C2%B7%E7%BE%8A%E8%88%87%E7%BE%A3%E5%90%8E.png)
+
+<p style="text-align:center;color:#999ea2;font-size:0.6em;">Baatarzorig Batjargal | 宣讲中亚 | 2024</p>
+
 ##### 和良弼在俊良的跨年派对，許多人互寫寄語，俊良抽中良弼的，亞文抽中我的。黎源零點當時在湖中小船中，放小煙火。無數人當時不能小放煙火，有些人強行這麼做。
 
 <pre>
@@ -25,6 +29,31 @@
 </pre>
 
 <cite>2025.1.9</cite>
+
+<div class="spacer"></div>
+
+![](https://artlogic-res.cloudinary.com/w_1200,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/jackbell/images/view/77fbe87c05ae6cab2332e0c2cc42e1fcj/larkindurey-baatarzorig-batjargal-spirit-2021.jpg)
+
+<p style="text-align:center;color:#999ea2;font-size:0.6em;">Baatarzorig Batjargal | Spirit | 2021</p>
+
+<div class="spacer"></div>
+
+<p style="text-align:center;color:#B54434;font-size:0.8em;">▮ 相𨳹󾗖􁴆 ▮</p>
+
+<div class="header-container">
+    <div class="triangle"></div>
+    <div class="collect-media" style="background-image: url('https://www.xiancangzai.com/img/user/%E9%99%84%E4%BB%B6/attachment/Log4Shell.png');">
+        <a href="https://www.xiancangzai.com/Xiancangzai/Log4Shell/" class="ncard-link"></a>
+        <div class="collect-text">
+            <a href="https://www.xiancangzai.com/Xiancangzai/Log4Shell/">
+                <cite>Log4Shell</cite>
+                <h1>Log4Shell</h1>
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="splitline"><a href="https://www.xiancangzai.com/">--- Xian Cang Zai ---</a></div>
 
 ![Log4Shell.png](/img/user/%E9%99%84%E4%BB%B6/attachment/Log4Shell.png)
 
