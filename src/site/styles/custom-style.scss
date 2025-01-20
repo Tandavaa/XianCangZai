@@ -122,4 +122,4 @@ blockquote p {color: #126e82; font-style: normal; font-size: 0.85rem; line-heigh
 @keyframes bounce { 0% { transform: translateX(0); } 100% { transform: translateX(-10px); } }
 .slide-indicator .text { margin-left: 10px; font-size: 12px; color: #999ea2; text-align: right; }
 
-.footnote-item p {color: #999ea2;font-weight: 200;font-size: 0.8rem;font-family: var(--default-font);}/*脚注浅灰字*/
+.footnote-item p {color: #999ea2;font-weight: 200;font-size: 0.8rem;font-family: var(--default-font);padding: 0 !important;}/*脚注浅灰字*/
