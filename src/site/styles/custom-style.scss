@@ -124,3 +124,4 @@ blockquote p {color: #126e82; font-style: normal; font-size: 0.85rem; line-heigh
 
 .footnote-item {padding: 0 !important;}/*脚注*/
 .footnote-item p {color: #999ea2;font-weight: 200;font-size: 0.8rem;font-family: var(--default-font);margin: 0 !important;}/*脚注浅灰字*/
+li::marker {color: #999ea2;font-weight: 200;font-size: 0.8rem;font-family: var(--default-font);}/*脚注数字*/
