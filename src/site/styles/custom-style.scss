@@ -121,3 +121,5 @@ blockquote p {color: #126e82; font-style: normal; font-size: 0.85rem; line-heigh
 .slide-indicator .btriangle { width: 0; height: 0; border-top: 6px solid transparent; border-bottom: 6px solid transparent; border-right: 10px solid #999ea2; animation: bounce 1s infinite alternate; }
 @keyframes bounce { 0% { transform: translateX(0); } 100% { transform: translateX(-10px); } }
 .slide-indicator .text { margin-left: 10px; font-size: 12px; color: #999ea2; text-align: right; }
+
+.footnotes-item p {color: #999ea2;font-weight: 200;font-size: 0.8rem;font-family: var(--default-font);}/*脚注浅灰字*/
