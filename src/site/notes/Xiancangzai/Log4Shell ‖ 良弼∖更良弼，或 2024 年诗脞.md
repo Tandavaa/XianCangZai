@@ -10,7 +10,8 @@
 <p style="text-align:center;color:#999ea2;font-size:0.6em;">Baatarzorig Batjargal | 宣讲中亚 | 2024</p>
 
 <div class="spacer"></div>
-詩體，好像烏托邦。
+
+<small>詩體，好像烏托邦。</small>
 
 ##### 1
 
@@ -166,7 +167,7 @@ N 天正义衔尾
 
 ##### 16
 
-<cite>——拟《山鬼》</cite>
+<samp>——拟《山鬼》</samp>
 
 <pre>
 若后来够的又善，
@@ -265,7 +266,7 @@ AA 听众<sup>[13]</sup>，肯定地
 着同类之值晚。
 </pre>
 
-<cite>2024.12.07<br>于喜悦中心</cite>
+<cite>2024.12.07</cite><br><samp>于喜悦中心</samp>
 
 ##### 26
 
