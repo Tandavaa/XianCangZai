@@ -11,7 +11,13 @@
 
 <div class="spacer"></div>
 
-<small>詩體，好像烏托邦。</small>
+<small>這些也值得。本以爲是過渡，我總擔心這些被誤認，從只是聲音被誤認爲或是詩體，當然有龐大的詩體衝動，區區不例外，有人例外于烏托邦吧。壓縮是恐怖的、無限的延長/延宕，它變成所有詩的一部分，所有意義的蛇足。當它不去滿足時，不得不開始自我爭辯，悲劇性的爭辯與悲劇性的不爭辯。我想要完成全部是喜劇性的，但只有寥寥來出現，那些也值得。</small>
+
+<small>這些是自由的、沒有格律的，加之以序號是最初的輕忽和惰性，最後兩首具備題目的靠近我的理想聲音，彷彿理應如此：題目的後勤。然而題目與詩幾乎無關，只有時間的相似性。時間在動，爲這種聲音提供着立法。</small>
+
+<cite>2025.01.23</cite>
+
+<div class="spacer"></div>
 
 ##### 1
 
@@ -392,6 +398,8 @@ AA 听众<sup>[13]</sup>，肯定地
         </div>
     </div>
 </div>
+
+<div class="spacer"></div>
 
 <div class="header-media"
      style="background-image: url(' https://upload.wikimedia.org/wikipedia/commons/8/89/Lion_and_bull%2C_Mohammed_Siyah_Qalem.jpg ');">
