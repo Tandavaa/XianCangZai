@@ -186,6 +186,14 @@
 
 <div class="spacer"></div>
 
+#### 追记
+
+<small>献给所有中国人。在今日，我们更加看见天穹上转动的命运之轮。</small>
+
+<cite>2022.10.16</cite>
+
+<div class="spacer"></div>
+
 ![](https://artlogic-res.cloudinary.com/w_1600,h_1600,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/inkstudio/images/view/b58671bf09cbb828cddff06ed2ee8e84470c4f58.jpg)
 
 <samp>《**[心经](https://www.inkstudio.com.cn/zh/exhibitions/22/works/artworks-1587-wang-dongling-the-heart-sutra-2015/)**》为王冬龄 2015 年在大英博物馆现场所写，既是「乱书」与「巨书」，也是某种「行为书写」。三联宣纸宽达 4 米，一张小广场，一套小典，一个人在其中运动，我感受到了极强的身心健康。玄奘譯《般若波羅蜜多心經》全文：</samp>

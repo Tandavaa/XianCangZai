@@ -487,7 +487,7 @@ AA 听众<sup>[13]</sup>，肯定地
 </div></div>
 
 
-<ins style="font-size:0.8em;background: black;color:white">脚注</ins>
+<ins style="font-size:0.8em;background: black;color:white">尾注</ins>
 
 [^1]: 見 [《山海經》](https://www.gujiguan.com/#/reading?bookcode=t%2Bx%2BooAVyYoE3j9TQixrqg%3D%3D&page=78&gjz=%E4%90%86)，民國八年《四部叢刊初編》影印江安傅氏雙鑑樓藏明成化庚寅刊本。
 [^2]: 見 [《淮南鴻烈解》人間訓十八卷](https://www.digital.archives.go.jp/DAS/meta/listPhoto?LANG=default&BID=F1000000000000101911&ID=&NO=6&TYPE=JPEG&DL_TYPE=pdf)，紅葉山文庫藏明万暦刊本，頁二十八。

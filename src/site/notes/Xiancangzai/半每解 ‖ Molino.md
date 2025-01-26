@@ -92,6 +92,14 @@
 
 <div class="spacer"></div>
 
+#### 后记
+
+<small>曾经《小调喜剧》的方式只是一种快感，现在我想用更内省的方式去接近汉语，是以有作为开始的 molino。</small>
+
+<cite>2022.8.20</cite>
+
+<div class="spacer"></div>
+
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Scuola_bolognese%2C_ciclo_dell%27abbazia_di_pomposa%2C_1350_ca.%2C_apocalisse%2C_12_bestia_dalle_7_teste_4.jpg/975px-Scuola_bolognese%2C_ciclo_dell%27abbazia_di_pomposa%2C_1350_ca.%2C_apocalisse%2C_12_bestia_dalle_7_teste_4.jpg?20180418183504)
 
 <p style="text-align:center;color:#999ea2;font-size:0.6em;">apocalisse, 12 bestia dalle 7 teste 4 | Scuola bolognese, ciclo dell'abbazia di pomposa | 1350</p>

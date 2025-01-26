@@ -31,6 +31,14 @@
 
 <div class="spacer"></div>
 
+#### 后记
+
+<small>今年只写了三首诗，这是第三首。我的启示录便在这沸硅之年来临，这不可译性，如土地测量员/耶稣之必死的，将献给桁杨，彼梦见如 Baldr 者的复活。</small>
+
+<cite>2021.12.31</cite>
+
+<div class="spacer"></div>
+
 ![半每解 ‖ Frigg-1.png](/img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/%E5%8D%8A%E6%AF%8F%E8%A7%A3%20%E2%80%96%20Frigg-1.png)
 
 <p style="text-align:center;color:#999ea2;font-size:0.6em;">The constellation of Cygnus the swan | ca. 820</p>
