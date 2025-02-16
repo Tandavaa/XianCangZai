@@ -12,6 +12,22 @@
 <p style="text-align:center;color:#B54434;font-size:0.8em;">⫷ 𠈨𠯮󱠚󱉯 ⫸</p>
 
 <div class="header-media"
+     style="background-image: url(' https://www.xiancangzai.com/img/user/%E9%99%84%E4%BB%B6/attachment/Log4Shell%20%E2%80%96%20%E5%85%A8%E7%9F%AD%EF%BC%8C%E5%85%88%E5%BE%8C%20%C2%B7%20%E8%81%BD%E8%AA%AC%E5%86%A0%E8%BB%8D%E4%B9%8B%E6%AD%BB.png ');">
+    <a href=" h https://www.xiancangzai.com/Xiancangzai/Log4Shell%20%E2%80%96%20%E5%85%A8%E7%9F%AD%EF%BC%8C%E5%85%88%E5%BE%8C%20%C2%B7%20%E8%81%BD%E8%AA%AC%E5%86%A0%E8%BB%8D%E4%B9%8B%E6%AD%BB/"
+       class="card-link"></a>
+    <div class="text-content">
+        <p>
+            <a href="https://www.xiancangzai.com/Xiancangzai/Log4Shell/">Log4Shell</a>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <cite>2025-02-15</cite>
+        </p>
+        <h1>
+            <a href="https://www.xiancangzai.com/Xiancangzai/Log4Shell%20%E2%80%96%20%E5%85%A8%E7%9F%AD%EF%BC%8C%E5%85%88%E5%BE%8C%20%C2%B7%20%E8%81%BD%E8%AA%AC%E5%86%A0%E8%BB%8D%E4%B9%8B%E6%AD%BB/">全短，先後 · 聽説冠軍之死</a>
+        </h1>
+    </div>
+</div>
+
+<div class="header-media"
      style="background-image: url(' https://www.xiancangzai.com/img/user/%E9%99%84%E4%BB%B6/attachment/Log4Shell%20%E2%80%96%20%E6%AC%A3%E8%B3%9E%E4%B8%8A%E5%B8%9D%E9%9D%A2%C2%B7%E7%BE%8A%E8%88%87%E7%BE%A3%E5%90%8E.png ');">
     <a href=" https://www.xiancangzai.com/Xiancangzai/Log4Shell%20%E2%80%96%20%E8%89%AF%E5%BC%BC%E2%88%96%E6%9B%B4%E8%89%AF%E5%BC%BC%EF%BC%8C%E6%88%96%202024%20%E5%B9%B4%E8%AF%97%E8%84%9E/"
        class="card-link"></a>
