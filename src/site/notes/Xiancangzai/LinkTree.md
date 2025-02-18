@@ -11,4 +11,4 @@
 
 <cite>₸ YouTube 频道：[Linomo Danvatan](http://www.youtube.com/@LinomoDanvatan) </cite>
 
-<cite>⁜ 微信交流群：lido1122</cite>
+<cite>⁜ 微信公衆號：[鱻蒼載 XianCangZai](https://mp.weixin.qq.com/s/yneTMt9zIapGXF9yfuvOkg)</cite>
