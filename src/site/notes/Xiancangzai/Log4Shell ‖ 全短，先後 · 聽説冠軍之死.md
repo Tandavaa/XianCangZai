@@ -7,7 +7,7 @@
 
 ![Log4Shell ‖ 全短，先後 · 聽説冠軍之死.png](/img/user/%E9%99%84%E4%BB%B6/attachment/Log4Shell%20%E2%80%96%20%E5%85%A8%E7%9F%AD%EF%BC%8C%E5%85%88%E5%BE%8C%20%C2%B7%20%E8%81%BD%E8%AA%AC%E5%86%A0%E8%BB%8D%E4%B9%8B%E6%AD%BB.png)
 
-<samp>中世紀的聖誕節，常有一種戲劇表演，業餘演員戴巨大動物面具，做樂舞或啞劇。14 世紀的插圖中即是五位這樣的 Mummers，這種戲劇有宣傳教義的，但他們大概僅僅是爲了娛樂吧。</samp>
+<samp>中世紀的聖誕節，常有一種戲劇表演，業餘演員戴巨大動物面具，做樂舞或啞劇。14 世紀的插圖中即是五位這樣的 Mummers，這種戲劇有宣傳教義的，但這幾人大概僅僅是爲娛樂吧。</samp>
 
 #### 全短，先後
 
@@ -42,7 +42,7 @@
 
 ![Log4Shell ‖ 全短，先後 · 聽説冠軍之死-1.png](/img/user/%E9%99%84%E4%BB%B6/attachment/Log4Shell%20%E2%80%96%20%E5%85%A8%E7%9F%AD%EF%BC%8C%E5%85%88%E5%BE%8C%20%C2%B7%20%E8%81%BD%E8%AA%AC%E5%86%A0%E8%BB%8D%E4%B9%8B%E6%AD%BB-1.png)
 
-<samp>13 世紀意大利作家圭多（Guido delle Colonne）寫了一部拉丁語敘事散文《特洛伊的毀滅》（*Historia destructionis Troiae*），上圖即為其 14 世紀手抄本的扉頁插圖，融合多種紋章元素，該圖風格與手抄本正文插圖大相徑庭，可能是後來所繪。</samp>
+<samp>13 世紀意大利作家圭多（Guido delle Colonne）寫了一部拉丁語敘事散文《特洛伊的毀滅》（*Historia destructionis Troiae*），上圖即為其 14 世紀手抄本的扉頁插圖，駁雜多種紋章元素。該圖與手抄本正文插圖的風格大相徑庭，可能是後人增繪。</samp>
 
 <div class="spacer"></div>
 
