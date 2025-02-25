@@ -20,7 +20,7 @@
 
 <cite>2025.2.17</cite><br><samp>大興的平靜的醫生說不能再有茶的刺激，良弼要嚴格執行和告別，我去猜她龍井、鐵觀音的品質。</samp>
 
-<h2 style="font-family:FSung-p">鿫<sup>[2]</sup>的养子</h2>
+## 鿫<sup>[2]</sup>的养子
 
 <pre>
 外<sup>𠈣<sup>[3]</sup></sup>頭<sup>公</sup>末端被引

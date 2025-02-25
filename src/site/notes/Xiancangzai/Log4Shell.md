@@ -14,8 +14,24 @@
 [[Xiancangzai/Log4Shell ‖ 論：垃圾代替異教徒·鿫的养子\|Log4Shell ‖ 論：垃圾代替異教徒·鿫的养子]]
 
 <div class="header-media"
+     style="background-image: url(' https://i.pinimg.com/736x/5c/eb/ed/5cebedb035edce56b9cafb54836034e8.jpg ');">
+    <a href=" https://www.xiancangzai.com/Xiancangzai/Log4Shell%20%E2%80%96%20%E8%AB%96%EF%BC%9A%E5%9E%83%E5%9C%BE%E4%BB%A3%E6%9B%BF%E7%95%B0%E6%95%99%E5%BE%92%C2%B7%E9%BF%AB%E7%9A%84%E5%85%BB%E5%AD%90/"
+       class="card-link"></a>
+    <div class="text-content">
+        <p>
+            <a href="https://www.xiancangzai.com/Xiancangzai/Log4Shell/">Log4Shell</a>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <cite>2025-02-19</cite>
+        </p>
+        <h1>
+            <a href="https://www.xiancangzai.com/Xiancangzai/Log4Shell%20%E2%80%96%20%E8%AB%96%EF%BC%9A%E5%9E%83%E5%9C%BE%E4%BB%A3%E6%9B%BF%E7%95%B0%E6%95%99%E5%BE%92%C2%B7%E9%BF%AB%E7%9A%84%E5%85%BB%E5%AD%90/">論：垃圾代替異教徒·鿫的养子</a>
+        </h1>
+    </div>
+</div>
+
+<div class="header-media"
      style="background-image: url(' https://www.xiancangzai.com/img/user/%E9%99%84%E4%BB%B6/attachment/Log4Shell%20%E2%80%96%20%E5%85%A8%E7%9F%AD%EF%BC%8C%E5%85%88%E5%BE%8C%20%C2%B7%20%E8%81%BD%E8%AA%AC%E5%86%A0%E8%BB%8D%E4%B9%8B%E6%AD%BB.png ');">
-    <a href=" h https://www.xiancangzai.com/Xiancangzai/Log4Shell%20%E2%80%96%20%E5%85%A8%E7%9F%AD%EF%BC%8C%E5%85%88%E5%BE%8C%20%C2%B7%20%E8%81%BD%E8%AA%AC%E5%86%A0%E8%BB%8D%E4%B9%8B%E6%AD%BB/"
+    <a href=" https://www.xiancangzai.com/Xiancangzai/Log4Shell%20%E2%80%96%20%E5%85%A8%E7%9F%AD%EF%BC%8C%E5%85%88%E5%BE%8C%20%C2%B7%20%E8%81%BD%E8%AA%AC%E5%86%A0%E8%BB%8D%E4%B9%8B%E6%AD%BB/"
        class="card-link"></a>
     <div class="text-content">
         <p>
