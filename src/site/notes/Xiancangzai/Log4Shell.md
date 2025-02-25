@@ -11,8 +11,6 @@
 
 <p style="text-align:center;color:#B54434;font-size:0.8em;">⫷ 𠈨𠯮󱠚󱉯 ⫸</p>
 
-[[Xiancangzai/Log4Shell ‖ 論：垃圾代替異教徒·鿫的养子\|Log4Shell ‖ 論：垃圾代替異教徒·鿫的养子]]
-
 <div class="header-media"
      style="background-image: url(' https://i.pinimg.com/736x/5c/eb/ed/5cebedb035edce56b9cafb54836034e8.jpg ');">
     <a href=" https://www.xiancangzai.com/Xiancangzai/Log4Shell%20%E2%80%96%20%E8%AB%96%EF%BC%9A%E5%9E%83%E5%9C%BE%E4%BB%A3%E6%9B%BF%E7%95%B0%E6%95%99%E5%BE%92%C2%B7%E9%BF%AB%E7%9A%84%E5%85%BB%E5%AD%90/"
