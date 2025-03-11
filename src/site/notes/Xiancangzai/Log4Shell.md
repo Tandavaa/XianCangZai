@@ -11,6 +11,8 @@
 
 <p style="text-align:center;color:#B54434;font-size:0.8em;">⫷ 𠈨𠯮󱠚󱉯 ⫸</p>
 
+[[Xiancangzai/Log4Shell ‖ 許普諾斯的得失\|Log4Shell ‖ 許普諾斯的得失]]
+
 <div class="header-media"
      style="background-image: url(' https://i.pinimg.com/736x/24/83/da/2483da08687a19b4dd0a7c0cbfe3e352.jpg ');">
     <a href=" https://www.xiancangzai.com/Xiancangzai/Log4Shell%20%E2%80%96%20%E7%A8%B1%E4%BD%9C%E4%B8%89%E7%9B%B8/"
