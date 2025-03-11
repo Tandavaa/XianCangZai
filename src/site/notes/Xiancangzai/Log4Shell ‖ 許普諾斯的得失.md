@@ -11,7 +11,7 @@
 
 #### 說例：對偶與對奇
 
-<small>本詩全文採用「對偶」，關於對偶的介紹，可參看下面這篇文章：</small>
+<small>本詩採用「對偶」，關於對偶的介紹，可參看下面這篇文章：</small>
 
 <div class="header-media"
      style="background-image: url(' https://www.xiancangzai.com/img/user/%E9%99%84%E4%BB%B6/attachment/%E5%AF%B9%E8%AF%9D%E6%9D%8E%E5%8E%BB%E5%85%B9%20%E2%80%96%20%E6%A0%BC%E5%BE%8B%EF%BC%9A%E4%B8%80%E7%A7%8D%E6%B1%89%E8%AF%AD%E8%AF%97%E5%AD%A6%E5%8F%8A%E5%85%B6%E8%8D%89%E5%9B%BE%EF%BC%88%E4%B8%80%EF%BC%89-3.png ');">
@@ -29,7 +29,7 @@
     </div>
 </div>
 
-<small>本詩以節的爲對偶單元，每一節行數不定。每一個字（標點除外），都與其節內其他行的同位置的對偶，以第 8 節圖示如下：</small>
+<small>詩以節爲對偶單元，每一節行數不定。每一個字（標點除外），都與其節內其他行的同位置的字對偶，以第 8 節圖示如下：</small>
 
 ![对话李去兹 ‖ 格律：一种汉语诗学及其草图（一）-1.png](/img/user/%E9%99%84%E4%BB%B6/attachment/%E5%AF%B9%E8%AF%9D%E6%9D%8E%E5%8E%BB%E5%85%B9%20%E2%80%96%20%E6%A0%BC%E5%BE%8B%EF%BC%9A%E4%B8%80%E7%A7%8D%E6%B1%89%E8%AF%AD%E8%AF%97%E5%AD%A6%E5%8F%8A%E5%85%B6%E8%8D%89%E5%9B%BE%EF%BC%88%E4%B8%80%EF%BC%89-1.png)
 
