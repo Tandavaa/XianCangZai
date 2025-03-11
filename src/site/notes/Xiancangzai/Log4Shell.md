@@ -11,7 +11,21 @@
 
 <p style="text-align:center;color:#B54434;font-size:0.8em;">⫷ 𠈨𠯮󱠚󱉯 ⫸</p>
 
-[[Xiancangzai/Log4Shell ‖ 許普諾斯的得失\|Log4Shell ‖ 許普諾斯的得失]]
+<div class="header-media"
+     style="background-image: url(' https://upload.wikimedia.org/wikipedia/commons/c/cf/Hypnos%2C_British_Museum_No._267.JPG ');">
+    <a href=" https://www.xiancangzai.com/Xiancangzai/Log4Shell%20%E2%80%96%20%E8%A8%B1%E6%99%AE%E8%AB%BE%E6%96%AF%E7%9A%84%E5%BE%97%E5%A4%B1/"
+       class="card-link"></a>
+    <div class="text-content">
+        <p>
+            <a href="https://www.xiancangzai.com/Xiancangzai/Log4Shell/">Log4Shell</a>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <cite>2025-03-11</cite>
+        </p>
+        <h1>
+            <a href="https://www.xiancangzai.com/Xiancangzai/Log4Shell%20%E2%80%96%20%E8%A8%B1%E6%99%AE%E8%AB%BE%E6%96%AF%E7%9A%84%E5%BE%97%E5%A4%B1/">許普諾斯的得失</a>
+        </h1>
+    </div>
+</div>
 
 <div class="header-media"
      style="background-image: url(' https://i.pinimg.com/736x/24/83/da/2483da08687a19b4dd0a7c0cbfe3e352.jpg ');">
