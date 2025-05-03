@@ -127,3 +127,64 @@ blockquote p {color: #485b4d; font-style: normal; font-size: 0.85rem; line-heigh
 .footnote-item blockquote p {color: #485b4d; font-style: normal; font-size: 0.85rem; line-height: 1.8; font-family: var(--default-font);}/*腳註引用段落蓝字#6e8b74#B4A582*/
 li::marker {color: #999ea2;font-weight: 200;font-size: 0.8rem;font-family: var(--default-font);}/*脚注数字*/
 .footnote-ref a {color: #A35E47; font-style: normal; font-size: 0.8rem;}/*脚注注释颜色*/
+
+
+/*新標點詩*/
+
+.callout[data-callout="poem"] {
+  white-space: pre-line;
+  font-style: normal;
+  letter-spacing: 0.05em; 
+  font-size: 1em;
+  line-height: 2.0;
+  color: var(--text-normal);
+  background-color: transparent; /* 无背景，像普通段落 */
+  border-left: none; /* 去掉左边线 */
+  padding: 0;
+  margin: 1em 0;
+}
+
+.callout[data-callout="poem"] .callout-title {
+  display: none; /* 不显示标题栏 */
+}
+
+.callout[data-callout="poem"] .highlight {
+  color: red;
+  letter-spacing: -0.2em;/* 不需要用 letter-spacing */
+  margin-left: -0.45em;
+  margin-right: -0.2em;
+}
+
+
+/* 加下划线 */
+.underline {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
+  text-decoration-color: #B9887D; /* 更淡的下划线颜色，可调 */
+}
+
+/* 自定义符号下加 */
+.symbol::after {
+  content: attr(data-symbol);
+  display: block;
+    top:65%; /* ↓ 原来是 100%，改为更接近文字 */
+  font-size: 0.7em; /* 可进一步减小符号体积 */
+  line-height: 1;
+  text-align: center;
+  margin-top: 0.1em;
+  color: #B9887D;
+}
+
+/* 如果你要控制叠加顺序和间距更细致 */
+.symbol {
+  position: relative;
+  display: inline-block;
+}
+
+.symbol::after {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 80%;
+}
