@@ -133,6 +133,7 @@ li::marker {color: #999ea2;font-weight: 200;font-size: 0.8rem;font-family: var(-
 
 .callout[data-callout="poem"] {
   white-space: pre-line;
+  font-family: var(--default-font);
   font-style: normal;
   letter-spacing: 0.05em; 
   font-size: 1em;
