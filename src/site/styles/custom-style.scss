@@ -132,6 +132,9 @@ li::marker {color: #999ea2;font-weight: 200;font-size: 0.8rem;font-family: var(-
 /*新標點詩*/
 
 .callout[data-callout="poem"] {
+  white-space: pre-wrap; /* 保留軟換行 */
+  margin: 0;              /* 移除段落自帶上下距離 */
+  line-height: 1;       /* 適中行距 */
   font-family: var(--default-font);
   font-style: normal;
   letter-spacing: 0.05em; 
@@ -146,12 +149,6 @@ li::marker {color: #999ea2;font-weight: 200;font-size: 0.8rem;font-family: var(-
 
 .callout[data-callout="poem"] .callout-title {
   display: none; /* 不显示标题栏 */
-}
-
-.callout[data-callout="poem"] .callout-content p {
-  white-space: pre-wrap; /* 保留軟換行 */
-  margin: 0;              /* 移除段落自帶上下距離 */
-  line-height: 1.8;       /* 適中行距 */
 }
 
 .callout[data-callout="poem"] .highlight {
