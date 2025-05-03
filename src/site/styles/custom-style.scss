@@ -132,7 +132,8 @@ li::marker {color: #999ea2;font-weight: 200;font-size: 0.8rem;font-family: var(-
 /*新標點詩*/
 
 .callout[data-callout="poem"] {
-  white-space: pre-line;
+  white-space: pre-wrap;
+  display: inline-block;
   font-family: var(--default-font);
   font-style: normal;
   letter-spacing: 0.05em; 
