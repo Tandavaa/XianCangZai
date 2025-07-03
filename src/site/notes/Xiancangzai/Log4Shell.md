@@ -12,6 +12,20 @@
 <p style="text-align:center;color:#B54434;font-size:0.8em;">⫷ 𠈨𠯮󱠚󱉯 ⫸</p>
 
 <div class="header-media"
+     style="background-image: url(' https://samim.io/static/upload/tumblr_nv3yp4qbyK1qzorg8o5_1280.jpeg ');">
+    <a href=" https://www.xiancangzai.com/Xiancangzai/%E5%BE%A9%E7%94%A8%E5%B7%A5%E4%BA%BA/"
+       class="card-link"></a>
+    <div class="text-content">
+        <p>
+            <a href="https://www.xiancangzai.com/Xiancangzai/Log4Shell/">Log4Shell</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>2025.05.08</cite>
+        </p>
+        <h1>
+            <a href="https://www.xiancangzai.com/Xiancangzai/%E5%BE%A9%E7%94%A8%E5%B7%A5%E4%BA%BA/">復用󿯮󶠋</a>
+        </h1>
+    </div>
+</div>
+
+<div class="header-media"
      style="background-image: url(' https://upload.wikimedia.org/wikipedia/commons/c/cf/Hypnos%2C_British_Museum_No._267.JPG ');">
     <a href=" https://www.xiancangzai.com/Xiancangzai/Log4Shell%20%E2%80%96%20%E8%A8%B1%E6%99%AE%E8%AB%BE%E6%96%AF%E7%9A%84%E5%BE%97%E5%A4%B1/"
        class="card-link"></a>
@@ -105,7 +119,7 @@
 <p style="font-size:0.7em; color:#999ea2"><ins style="font-size:1em;background: black;color:white">眷注與贊賞</ins> | 眷注與贊賞（¥）也關乎「鱻蒼載」的持存，「鱻蒼載」是一處游離的個人網站，幾乎只關心文學，而在此時代，卻并不例外地成爲了「數字難民」，姑且忍受這樣驕稚的形容。那些自便的、但封閉、敞視于威柄的内容平臺於是必須被放棄，於是來建立此迂折，未來正不知去向何處。</p>
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/xiancangzai/link-tree/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Xiancangzai/LinkTree/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
