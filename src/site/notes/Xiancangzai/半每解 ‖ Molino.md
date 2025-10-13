@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Xiancangzai/半每解 ‖ Molino/","tags":["半每解","李去兹","甲骨学"],"created":"2024-10-27T23:29:07.571+08:00"}
+{"dg-publish":true,"permalink":"/Xiancangzai/半每解 ‖ Molino/","tags":["半每解","李去兹"],"created":"2024-10-27T23:29:07.571+08:00"}
 ---
 
 
@@ -28,7 +28,7 @@
 用更寧靜的聅<sup>[23]</sup>裝下他們的臉。
 </pre>
 
-<cite>2022.8.20</cite><br/><cite>2024.10.27</cite>
+<cite>2022.8.20<br>2024.10.27</cite>
 
 ### 注
 
