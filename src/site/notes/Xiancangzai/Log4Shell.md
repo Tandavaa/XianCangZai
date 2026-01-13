@@ -12,95 +12,37 @@
 <p style="text-align:center;color:#B54434;font-size:0.8em;">⫷ 𠈨𠯮󱠚󱉯 ⫸</p>
 
 <div class="header-media"
-     style="background-image: url(' https://samim.io/static/upload/tumblr_nv3yp4qbyK1qzorg8o5_1280.jpeg ');">
-    <a href=" https://www.xiancangzai.com/Xiancangzai/%E5%BE%A9%E7%94%A8%E5%B7%A5%E4%BA%BA/"
-       class="card-link"></a>
-    <div class="text-content">
-        <p>
-            <a href="https://www.xiancangzai.com/Xiancangzai/Log4Shell/">Log4Shell</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<cite>2025.05.08</cite>
-        </p>
-        <h1>
-            <a href="https://www.xiancangzai.com/Xiancangzai/%E5%BE%A9%E7%94%A8%E5%B7%A5%E4%BA%BA/">復用󿯮󶠋</a>
-        </h1>
-    </div>
-</div>
-
-<div class="header-media"
-     style="background-image: url(' https://upload.wikimedia.org/wikipedia/commons/c/cf/Hypnos%2C_British_Museum_No._267.JPG ');">
-    <a href=" https://www.xiancangzai.com/Xiancangzai/Log4Shell%20%E2%80%96%20%E8%A8%B1%E6%99%AE%E8%AB%BE%E6%96%AF%E7%9A%84%E5%BE%97%E5%A4%B1/"
-       class="card-link"></a>
-    <div class="text-content">
-        <p>
-            <a href="https://www.xiancangzai.com/Xiancangzai/Log4Shell/">Log4Shell</a>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <cite>2025-03-11</cite>
-        </p>
-        <h1>
-            <a href="https://www.xiancangzai.com/Xiancangzai/Log4Shell%20%E2%80%96%20%E8%A8%B1%E6%99%AE%E8%AB%BE%E6%96%AF%E7%9A%84%E5%BE%97%E5%A4%B1/">許普諾斯的得失</a>
-        </h1>
-    </div>
-</div>
-
-<div class="header-media"
-     style="background-image: url(' https://i.pinimg.com/736x/24/83/da/2483da08687a19b4dd0a7c0cbfe3e352.jpg ');">
-    <a href=" https://www.xiancangzai.com/Xiancangzai/Log4Shell%20%E2%80%96%20%E7%A8%B1%E4%BD%9C%E4%B8%89%E7%9B%B8/"
-       class="card-link"></a>
-    <div class="text-content">
-        <p>
-            <a href="https://www.xiancangzai.com/Xiancangzai/Log4Shell/">Log4Shell</a>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <cite>2025-02-26</cite>
-        </p>
-        <h1>
-            <a href="https://www.xiancangzai.com/Xiancangzai/Log4Shell%20%E2%80%96%20%E7%A8%B1%E4%BD%9C%E4%B8%89%E7%9B%B8/">稱作三相</a>
-        </h1>
-    </div>
-</div>
-
-<div class="header-media"
      style="background-image: url(' https://i.pinimg.com/736x/5c/eb/ed/5cebedb035edce56b9cafb54836034e8.jpg ');">
-    <a href=" https://www.xiancangzai.com/Xiancangzai/Log4Shell%20%E2%80%96%20%E8%AB%96%EF%BC%9A%E5%9E%83%E5%9C%BE%E4%BB%A3%E6%9B%BF%E7%95%B0%E6%95%99%E5%BE%92%C2%B7%E9%BF%AB%E7%9A%84%E5%85%BB%E5%AD%90/"
+    <a href=" https://www.xiancangzai.com/Xiancangzai/%E8%AB%96%EF%BC%9A%E5%9E%83%E5%9C%BE%E4%BB%A3%E6%9B%BF%E7%95%B0%E6%95%99%E5%BE%92%C2%B7%E9%BF%AB%E7%9A%84%E5%85%BB%E5%AD%90/"
        class="card-link"></a>
     <div class="text-content">
-        <p>
-            <a href="https://www.xiancangzai.com/Xiancangzai/Log4Shell/">Log4Shell</a>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <cite>2025-02-19</cite>
-        </p>
+        <p><cite>2025-02-19</cite></p>
         <h1>
-            <a href="https://www.xiancangzai.com/Xiancangzai/Log4Shell%20%E2%80%96%20%E8%AB%96%EF%BC%9A%E5%9E%83%E5%9C%BE%E4%BB%A3%E6%9B%BF%E7%95%B0%E6%95%99%E5%BE%92%C2%B7%E9%BF%AB%E7%9A%84%E5%85%BB%E5%AD%90/">論：垃圾代替異教徒·鿫的养子</a>
+            <a href="https://www.xiancangzai.com/Xiancangzai/%E8%AB%96%EF%BC%9A%E5%9E%83%E5%9C%BE%E4%BB%A3%E6%9B%BF%E7%95%B0%E6%95%99%E5%BE%92%C2%B7%E9%BF%AB%E7%9A%84%E5%85%BB%E5%AD%90/">論：垃圾代替異教徒·鿫的养子</a>
         </h1>
     </div>
 </div>
 
 <div class="header-media"
      style="background-image: url(' https://www.xiancangzai.com/img/user/%E9%99%84%E4%BB%B6/attachment/Log4Shell%20%E2%80%96%20%E5%85%A8%E7%9F%AD%EF%BC%8C%E5%85%88%E5%BE%8C%20%C2%B7%20%E8%81%BD%E8%AA%AC%E5%86%A0%E8%BB%8D%E4%B9%8B%E6%AD%BB.png ');">
-    <a href=" https://www.xiancangzai.com/Xiancangzai/Log4Shell%20%E2%80%96%20%E5%85%A8%E7%9F%AD%EF%BC%8C%E5%85%88%E5%BE%8C%20%C2%B7%20%E8%81%BD%E8%AA%AC%E5%86%A0%E8%BB%8D%E4%B9%8B%E6%AD%BB/"
+    <a href=" https://www.xiancangzai.com/Xiancangzai/%E5%85%A8%E7%9F%AD%EF%BC%8C%E5%85%88%E5%BE%8C%20%C2%B7%20%E8%81%BD%E8%AA%AC%E5%86%A0%E8%BB%8D%E4%B9%8B%E6%AD%BB/"
        class="card-link"></a>
     <div class="text-content">
-        <p>
-            <a href="https://www.xiancangzai.com/Xiancangzai/Log4Shell/">Log4Shell</a>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <cite>2025-02-15</cite>
-        </p>
+        <p><cite>2025-02-15</cite></p>
         <h1>
-            <a href="https://www.xiancangzai.com/Xiancangzai/Log4Shell%20%E2%80%96%20%E5%85%A8%E7%9F%AD%EF%BC%8C%E5%85%88%E5%BE%8C%20%C2%B7%20%E8%81%BD%E8%AA%AC%E5%86%A0%E8%BB%8D%E4%B9%8B%E6%AD%BB/">全短，先後 · 聽説冠軍之死</a>
+            <a href="https://www.xiancangzai.com/Xiancangzai/%E5%85%A8%E7%9F%AD%EF%BC%8C%E5%85%88%E5%BE%8C%20%C2%B7%20%E8%81%BD%E8%AA%AC%E5%86%A0%E8%BB%8D%E4%B9%8B%E6%AD%BB/">全短，先後 · 聽説冠軍之死</a>
         </h1>
     </div>
 </div>
 
 <div class="header-media"
      style="background-image: url(' https://www.xiancangzai.com/img/user/%E9%99%84%E4%BB%B6/attachment/Log4Shell%20%E2%80%96%20%E6%AC%A3%E8%B3%9E%E4%B8%8A%E5%B8%9D%E9%9D%A2%C2%B7%E7%BE%8A%E8%88%87%E7%BE%A3%E5%90%8E.png ');">
-    <a href=" https://www.xiancangzai.com/Xiancangzai/Log4Shell%20%E2%80%96%20%E8%89%AF%E5%BC%BC%E2%88%96%E6%9B%B4%E8%89%AF%E5%BC%BC%EF%BC%8C%E6%88%96%202024%20%E5%B9%B4%E8%AF%97%E8%84%9E/"
+    <a href=" https://www.xiancangzai.com/Xiancangzai/%E8%89%AF%E5%BC%BC%E2%88%96%E6%9B%B4%E8%89%AF%E5%BC%BC%EF%BC%8C%E6%88%96%202024%20%E5%B9%B4%E8%AF%97%E8%84%9E/"
        class="card-link"></a>
     <div class="text-content">
-        <p>
-            <a href="https://www.xiancangzai.com/Xiancangzai/Log4Shell/">Log4Shell</a>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <cite>2025-01-20</cite>
-        </p>
+        <p><cite>2025-01-20</cite></p>
         <h1>
-            <a href="https://www.xiancangzai.com/Xiancangzai/Log4Shell%20%E2%80%96%20%E8%89%AF%E5%BC%BC%E2%88%96%E6%9B%B4%E8%89%AF%E5%BC%BC%EF%BC%8C%E6%88%96%202024%20%E5%B9%B4%E8%AF%97%E8%84%9E/">良弼∖更良弼，或 2024 年诗脞</a>
+            <a href="https://www.xiancangzai.com/Xiancangzai/%E8%89%AF%E5%BC%BC%E2%88%96%E6%9B%B4%E8%89%AF%E5%BC%BC%EF%BC%8C%E6%88%96%202024%20%E5%B9%B4%E8%AF%97%E8%84%9E/">良弼∖更良弼，或 2024 年诗脞</a>
         </h1>
     </div>
 </div>
