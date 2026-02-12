@@ -29,6 +29,8 @@ image: https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gpxv3sRGZQ0?si=3Uo8M2_P2oFT3Vl0&amp;start=84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe style="border: 0; width: 400px; height: 406px;" src="https://bandcamp.com/EmbeddedPlayer/album=2806378015/size=large/bgcol=ffffff/linkcol=63b2cc/artwork=small/transparent=true/" seamless><a href="https://rogueart1.bandcamp.com/album/long-bright-summer">LONG BRIGHT SUMMER by EVAN PARKER - JOELLE LÉANDRE</a></iframe>
+
 这种画：以意象为起点，以接近其意象为终点。
 
 诗的砂光机何在？
