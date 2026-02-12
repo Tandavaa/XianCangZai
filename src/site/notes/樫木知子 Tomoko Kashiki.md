@@ -27,6 +27,8 @@ favicon: https://www.otafinearts.com/usr/images/preferences/1625760626.ico
 image: https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-otafinearts/usr/images/artists/group_images_override/items/f5/f5e2419b045b4e769f6863a7933a1a17/2015-212x182cm_l.jpg
 ```
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gpxv3sRGZQ0?si=3Uo8M2_P2oFT3Vl0&amp;start=84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 这种画：以意象为起点，以接近其意象为终点。
 
 诗的砂光机何在？

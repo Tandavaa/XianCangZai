@@ -160,4 +160,4 @@
 
 <ins style="font-size:0.8em;background: black;color:white">注释</ins>
 
-[^1]: <samp>见 [[甲骨文合集（第7册）.pdf#page=335&rect=413,1586,1013,2153&color=yellow|甲骨文合集（第7册），p.335]]。</samp>
+[^1]: <samp>见 [甲骨文合集（第7册），p.335](/img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/%E7%94%B2%E9%AA%A8%E6%96%87%E5%90%88%E9%9B%86%EF%BC%88%E7%AC%AC7%E5%86%8C%EF%BC%89.pdf)。</samp>
