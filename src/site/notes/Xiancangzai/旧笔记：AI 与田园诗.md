@@ -5,13 +5,15 @@
 
 <div class="splitline"><a href="https://www.xiancangzai.com/">--- Xian Cang Zai ---</a></div>
 
+![Pasted image 20260214013719.png](/img/user/%E9%99%84%E4%BB%B6/attachment/Pasted%20image%2020260214013719.png)
+
+<p style="text-align:center;color:#999ea2;font-size:0.6em;">香烟盒卡 | 1926</p>
+
 ### 目录
 
 [[Xiancangzai/AI 与田园诗\|AI 与田园诗]]
 
-[[读书札记（2019）\|读书札记（2019）]]
-
-[[吹万不同（2018、2019）\|吹万不同（2018、2019）]]
+[[Xiancangzai/小说草稿 α\|小说草稿 α]]
 
 <div class="spacer"></div>
 

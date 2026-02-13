@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Xiancangzai/阅读札记/","created":"2026-02-11T21:57:12.446+08:00"}
+{"dg-publish":true,"permalink":"/Xiancangzai/Bilibili 札记/","created":"2026-02-14T01:26:58.421+08:00"}
 ---
 
 
@@ -7,9 +7,8 @@
 
 ### 目录
 
-[[Xiancangzai/阅读札记：废名\|阅读札记：废名]]
+[[Xiancangzai/Bilibili 札记（2026）\|Bilibili 札记（2026）]]
 
-[[Xiancangzai/阅读札记：何其芳与纪弦\|阅读札记：何其芳与纪弦]]
 
 <div class="spacer"></div>
 
