@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Xiancangzai/Kanye West/","tags":["李去兹"],"created":"2026-02-14T00:12:15.342+08:00"}
+{"dg-publish":true,"permalink":"/Xiancangzai/Kanye West/","tags":["音乐札记"],"created":"2026-02-14T00:12:15.342+08:00"}
 ---
 
 

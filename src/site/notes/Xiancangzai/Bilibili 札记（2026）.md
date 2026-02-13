@@ -5,9 +5,17 @@
 
 ##### *
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115970492338598&bvid=BV18q65BREhH&cid=35656500904&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+【[路飞别装了，海贼王其实是你自导自演的一场游戏吧](https://www.bilibili.com/video/BV18q65BREhH/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82)】
 
 海贼王充满单机游戏的时停。
+
+#### *
+
+【[老三国有东西之桃园三结义：乌龟拍法的胜利](https://www.bilibili.com/video/BV1jmqJBkE6r/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82)】
+
+好拉片，「乌龟拍法」：宁拙勿巧。
+
+
 
 
 
