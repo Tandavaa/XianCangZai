@@ -128,6 +128,8 @@ blockquote p {color: #485b4d; font-style: normal; font-size: 0.85rem; line-heigh
 li::marker {color: #999ea2;font-weight: 200;font-size: 0.8rem;font-family: var(--default-font);}/*脚注数字*/
 .footnote-ref a {color: #A35E47; font-style: normal; font-size: 0.8rem;}/*脚注注释颜色*/
 
+/*视频比例*/
+iframe {max-width: 100%;}
 
 /*新標點詩*/
 
