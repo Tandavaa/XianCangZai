@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/Yggdrasill/Jazz Fusion/","created":"2026-02-23T02:36:29.247+08:00"}
+---
+
+
+### Ten One Two
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=116096858327121&bvid=BV1BvZeBzEub&cid=36158832827&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+> 奥地利爵士乐团 Shake Stew 以里程碑式双专辑《TEN ONE TWO》庆祝成立十周年；这是一场面向未来的奥德赛，深入他们的即兴世界、全球影响与集体探索。专辑第三部分《TEN THREE》将于2026年稍后发行。 《TEN ONE》完美呈现了他们此前的一切：乐队领袖 Lukas Kranzelbinder 的作曲、标志性的双贝斯线条、恍惚般的铜管质感、强劲的律动，以及在幽深旋律主题与延展独奏段落之间交替展开的结构。《TEN TWO》则深入他们现场演出中所能迸发的能量——无限制的即兴与共生式协作创作，这种状态只有在多年共同演出后才成为可能。 多年来，国际媒体反复将 Shake Stew 与「Krautjazz」一词联系在一起，他们催眠般的声景与驱动性的节奏为他们赢得了广泛赞誉。从维也纳音乐厅（Konzerthaus Wien）和汉堡易北爱乐音乐厅（Elbphilharmonie Hamburg）等售罄场馆，到国际音乐节舞台，再到包括 2023 年奥地利 Amadeus Music Award 以及 2021 年德国爵士奖「年度国际乐队」等荣誉。对于一支在九年间已发行五张录音室专辑与两张现场专辑、并在欧洲乃至更广范围吸引大量观众的乐队而言，十周年并非「精选集」，而是一份完全由新作构成的前瞻性宣言，体现了他们的演变、好奇心与宏阔的音乐愿景。 《TEN ONE TWO》以双篇幅捕捉了乐队声音的完整光谱，既是一次总结，也是新的开始，将现场即兴的即时性与录音室工作的精细层叠融合在一起。「我感觉我们才刚刚开始，」乐队领袖 Lukas Kranzelbinder 说，「今年以及《TEN》的创作过程为我们带来了创造力的爆发，仿佛开启了一个全新的篇章。」 自 2016 年成立以来，Shake Stew 从圈内秘闻成长为欧洲最具辨识度的爵士乐团之一。他们不寻常的编制——两位鼓手、两位贝斯手和三位管乐手——使他们能够在催眠式律动、恍惚质感与爆发式即兴之间自由穿梭。多年来，他们的声音受到广泛音乐影响的塑造：从 Krautrock 传奇乐队 CAN 及鼓手 Jaki Liebezeit 那种机械般精准与催眠驱动，到 Joe Zawinul 的 Syndicate 与 Weather Report 的流动性爵士探索，再到 Getatchew Merkurya 与 Pharoah Sanders 的灵性强度。 双专辑的第一部分《TEN ONE》约 45 分钟，由 Kranzelbinder 精心构建的复杂作品组成。《Wood》和《Garage》等曲目凸显了乐队的原声侧面，而《Bakunawa》和《Searching》中双鼓编制在柔和层叠的声景中优美展开。首支单曲《Ascendance》体现了 Shake Stew 向上驱动的声音特质。Kranzelbinder 解释说：「几乎所有能在我体内引发身体反应的音乐，都是向上发展的音乐……」在催眠式贝斯与分层打击乐的支撑下，这首作品兼具提升与推进之力，并可听见来自曾与乐队在 2018 年专辑《Rise and Rise Again》中合作过的 Shabaka Hutchings 的影响痕迹。 乐队当前阵容形成了鲜明而富有动感的互动关系。Yvonne Moriel 在中音萨克斯与长笛上带来新的可能性；Mario Rom 的小号线条融合表现细腻与叙事深度；Johannes Schleiermacher 在次中音萨克斯与长笛上增添丰富的即兴层次；Oliver Potratz 在 Fender Bass VI 与低音提琴之间游走，提供多变的基础。鼓手 Nikolaus Dolp 与 Herbert Pirker 的节奏在严谨精准与本能能量之间取得平衡，使声音在结构化合奏互动与自发探索时刻之间融合。 《TEN TWO》为 Shake Stew 开启新篇章。在多次延展录制过程中，乐队赋予自己通常只在现场表演中保留的自由：即兴与完整作曲材料并行，由十年磨合出的集体直觉塑形。「当你演出这么多场、录制这么多张专辑后，你会发展出一种对乐队声音定义的直觉——很多时候我已经不再需要给出作曲指示，」Kranzelbinder 说。最终呈现的曲目，如《Ibdiss》《Free Your Eyes》和《Tiger》，展现出乐队能够飞升至狂喜、恍惚般领域的能力，将原声共鸣与电声实验、模块合成器，甚至蝉鸣与本地工业声等田野录音融合在一起。（[link](https://www.bilibili.com/video/BV1BvZeBzEub?spm_id_from=333.788.player.switch&vd_source=320867b9d01b1c4e15d8a541d4be3a44&trackid=web_related_0.router-related-2481894-68r22.1771782486586.971)）
+
+Ten One - Wood：多萨克斯的飞升
+Ten One - Searching：极佳的精神性

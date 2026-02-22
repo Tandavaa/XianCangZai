@@ -3,8 +3,6 @@
 ---
 
 
-
-
 ### The Liquified Throne of Simplicity 液化的简约王座
 
 <iframe style="border: 0; width: 400px; height: 307px;" src="https://bandcamp.com/EmbeddedPlayer/album=798380862/size=large/bgcol=ffffff/linkcol=63b2cc/artwork=small/transparent=true/" seamless><a href="https://sirom.bandcamp.com/album/the-liquified-throne-of-simplicity">The Liquified Throne of Simplicity by Širom</a></iframe>

@@ -7,7 +7,7 @@
 
 ### 目录
 
-[[Xiancangzai/Bilibili 札记（2026）\|Bilibili 札记（2026）]]
+[[Yggdrasill/Bilibili 札记（2026）\|Bilibili 札记（2026）]]
 
 
 <div class="spacer"></div>
