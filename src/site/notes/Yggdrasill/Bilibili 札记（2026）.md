@@ -5,13 +5,19 @@
 
 ##### *
 
-【[今年，我第一次很难选出“年度十佳电影”【2025 年度影视观察】](https://www.bilibili.com/video/BV1yrFszhEdB/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82&t=373)】 【精准空降到 06:13】 
+【[娱乐圈的BE天花板，爆肝万字全网最细 33分钟解析周杰伦与田馥甄横跨20年不能说的秘密！](https://www.bilibili.com/video/BV1A3BfBeEa7/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82)】
+
+在此之前全然不知此瓜，大为惊奇，甚至不敢置信，恍若隔世，是故狂吃。
+
+##### *
+
+【[今年，我第一次很难选出“年度十佳电影”【2025 年度影视观察】](https://www.bilibili.com/video/BV1yrFszhEdB/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82&t=373)】 【精准空降到 06:13】
 
 动画中的「安全冒险」收割了电影市场。
 
 ##### *
 
-【[【盘盘新三国】关羽的六大替身 于老师您演了个啥](https://www.bilibili.com/video/BV1czB5BqENq/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82)】 
+【[【盘盘新三国】关羽的六大替身 于老师您演了个啥](https://www.bilibili.com/video/BV1czB5BqENq/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82)】
 
 替身学。
 
@@ -26,9 +32,3 @@
 【[老三国有东西之桃园三结义：乌龟拍法的胜利](https://www.bilibili.com/video/BV1jmqJBkE6r/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82)】
 
 好拉片，「乌龟拍法」：宁拙勿巧。
-
-
-
-
-
-
