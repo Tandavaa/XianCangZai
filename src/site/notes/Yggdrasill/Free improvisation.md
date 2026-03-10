@@ -11,3 +11,5 @@
 
 【[02:21](https://www.bilibili.com/video/BV1SUwAe9E1F/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82&t=141)】 人声马化。
 【[04:26](https://www.bilibili.com/video/BV1SUwAe9E1F/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82&t=266)】 烟花之始与鸟语。
+【[13:33]([https://www.bilibili.com/video/BV1SUwAe9E1F/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82&t=813](https://www.bilibili.com/video/BV1SUwAe9E1F/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82&t=813))】 轻机能间奏。
+【[19:48]([https://www.bilibili.com/video/BV1SUwAe9E1F/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82&t=1188](https://www.bilibili.com/video/BV1SUwAe9E1F/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82&t=1188))】 开始鬼哭。

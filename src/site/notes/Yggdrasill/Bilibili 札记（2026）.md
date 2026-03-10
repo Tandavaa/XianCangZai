@@ -3,7 +3,13 @@
 ---
 
 
-##### *
+### 演唱对比
+
+【[民美通 19 位男歌手 PK《草原之夜》【李双江/戴玉强/郁钧剑/腾格尔/李健/费玉清/刀郎/阎维文/蒋大为/王宏伟/吕继宏/吴雁泽/廖昌永/佟铁鑫】]([https://www.bilibili.com/video/BV1SwbHzaEmj/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82](https://www.bilibili.com/video/BV1SwbHzaEmj/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82))】
+
+蒋大为之平如赵孟𫖯。李双江极致。
+
+### JH 恋
 
 【[娱乐圈的BE天花板，爆肝万字全网最细 33分钟解析周杰伦与田馥甄横跨20年不能说的秘密！](https://www.bilibili.com/video/BV1A3BfBeEa7/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82)】
 
@@ -21,26 +27,24 @@
 
 某次田调巡演的一场，极亲切。
 
-##### *
+### *
 
 【[今年，我第一次很难选出“年度十佳电影”【2025 年度影视观察】](https://www.bilibili.com/video/BV1yrFszhEdB/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82&t=373)】 【精准空降到 06:13】
 
 动画中的「安全冒险」收割了电影市场。
 
-##### *
+### 新三国
 
 【[【盘盘新三国】关羽的六大替身 于老师您演了个啥](https://www.bilibili.com/video/BV1czB5BqENq/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82)】
 
 替身学。
 
-##### *
+【[老三国有东西之桃园三结义：乌龟拍法的胜利](https://www.bilibili.com/video/BV1jmqJBkE6r/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82)】
+
+好拉片，「乌龟拍法」：宁拙勿巧。
+
+### 海贼王
 
 【[路飞别装了，海贼王其实是你自导自演的一场游戏吧](https://www.bilibili.com/video/BV18q65BREhH/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82)】
 
 海贼王充满单机游戏的时停。
-
-##### *
-
-【[老三国有东西之桃园三结义：乌龟拍法的胜利](https://www.bilibili.com/video/BV1jmqJBkE6r/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82)】
-
-好拉片，「乌龟拍法」：宁拙勿巧。
