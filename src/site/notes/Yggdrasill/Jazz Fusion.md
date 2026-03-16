@@ -3,6 +3,14 @@
 ---
 
 
+### Manifeste (2026)
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=116101774055401&bvid=BV1rBfgBVE55&cid=36174432961&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+> Tigran Hamasyan
+
+太乱不足观。
+
 ### Ten One Two
 
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=116096858327121&bvid=BV1BvZeBzEub&cid=36158832827&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>

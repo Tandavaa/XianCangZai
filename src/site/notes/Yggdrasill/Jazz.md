@@ -3,7 +3,7 @@
 ---
 
 
-
+### 流派
 
 [[Yggdrasill/Model Jazz\|Model Jazz]]
 
@@ -13,8 +13,16 @@
 
 [[Yggdrasill/Avant-Garde Jazz\|Avant-Garde Jazz]]
 
+[[Yggdrasill/Acid Jazz\|Acid Jazz]]
+
 [[Yggdrasill/Jazz Fusion\|Jazz Fusion]]
 
 [[Yggdrasill/Japan Jazz\|Japan Jazz]]
 
+### 音樂家
+
 [[Yggdrasill/Dave Brubeck\|Dave Brubeck]]
+
+### 廠牌
+
+[[Yggdrasill/Tribe Records\|Tribe Records]]
