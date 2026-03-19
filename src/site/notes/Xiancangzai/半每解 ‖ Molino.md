@@ -5,7 +5,7 @@
 
 <div class="splitline"><a href="https://www.xiancangzai.com/">--- Xian Cang Zai ---</a></div>
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnhlGidWdf1zBwUW7VQlSyKCZwzxP6k3nBSXpc3diZHakh1_hoh_3LK4p4ScRVfXZ9LDS3xndlUGLrykb_Xv8LdcOeiU_Na4DV4qi40C45fi5uUGkHeQbkWr8CgJQQyBngC5fi/s1600/3654414518_eb16be3333_b.jpg)
+![Pasted image 20260316175241.png](/img/user/%E9%99%84%E4%BB%B6/attachment/Pasted%20image%2020260316175241.png)
 
 <p style="text-align:center;color:#999ea2;font-size:0.6em;">The Beast Comes Out of the Sea from Apocalypse: Descent of the Holy Ghost | Giusto De’ Menabuoi</p>
 
@@ -42,7 +42,7 @@
 
 <p style="text-align:center;color:#999ea2;font-size:0.6em;">《甲骨文合集》22246：「允受禾，弜受？」</p>
 
-<ins>[4] 狐狸 </ins><small>本雅明《論原初語言與人的語言》：為什麼要為事物命名？人要向誰傳達自身？且慢，將這一問題運用於人類，和將之運用于其他傳達（語言）有什麼不同嗎？燈向誰傳達自身呢？向山？向狐狸？——我們的答案是：向人。</small>
+<ins>[4] 狐狸 </ins>：<small>本雅明《論原初語言與人的語言》：為什麼要為事物命名？人要向誰傳達自身？且慢，將這一問題運用於人類，和將之運用于其他傳達（語言）有什麼不同嗎？燈向誰傳達自身呢？向山？向狐狸？——我們的答案是：向人。</small>
 
 <ins>[5] 杗廇</ins><small>：máng liù，房屋的大梁。王世貞《沈慅》：「厭杗廇而遄易兮，曾不念夫閲樀之焉托。」</small>
 

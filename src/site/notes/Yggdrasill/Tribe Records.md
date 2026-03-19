@@ -43,3 +43,22 @@
 > 开篇《Space Odyssey》应该是这张专辑中最值得关注的一首，当下提到太空相关类型作品，或许映入脑中的事开阔声场之下高混响的浮游律动，这或许主流乐手更加乐意去尝试的手法，使用宏大叙事将听众拉入一种不可明状的冥想空间。而这张作品一反常态，通过电贝斯与电气音色的混合搭配，极低的混响，以更加粗糙的低频使得Belgrave的小号肆意纵情，这不失为另一种Cosmic。（[link](https://mp.weixin.qq.com/s/wIwpfIxSO6swZf58LZa26w)）
 
 這首高開低走。
+
+### Voice & Rhythms Of  The Creative Profile（1974）
+
+<iframe style="border: 0; width: 400px; height: 373px;" src="https://bandcamp.com/EmbeddedPlayer/album=864447079/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://haroldmckinney.bandcamp.com/album/voices-and-rhythms-of-the-creative-profile">Voices And Rhythms Of The Creative Profile by Harold McKinney</a></iframe>
+
+> 专辑名中 “Creative Profiles”原本为Harold 创设的五重奏团队代号。本作器乐编排中加入了非洲打击乐音色，以及乐队人声参与，共同构成了这张专辑的灵魂核心。第一轨《Ode To Africa》在律动层面极具推动力和动态感，可谓是“Afro-Jazz Funk”，第四轨《In The Moog》中合成器音色的参与十分具有胆识，奔放之余令人惊颤。紧密的和声编排，以及丰富的律动使得这张作品堪称杰作。
+>
+> 此处所呈现的 Creative Profile 这一名称，在其后的年代被提升为厂牌名称，McKinney 也由此开始制作更多以爵士为基底、融合灵魂与放克的作品。值得一提的是，本作之后亦更换过夹套设计并再版发行。（[link](https://mp.weixin.qq.com/s/wIwpfIxSO6swZf58LZa26w)）
+
+[Ode To Africa](https://haroldmckinney.bandcamp.com/track/ode-to-africa) ：层次足。
+[In The Moog](https://haroldmckinney.bandcamp.com/track/in-the-moog) ：咕咕声。
+
+### The Time Is Now! (1974)
+
+<iframe style="border: 0; width: 400px; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=397926849/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://ranelin.bandcamp.com/album/the-time-is-now">The Time Is Now! by Phil Ranelin</a></iframe>
+
+> 作为Phil Ranelin首张个人领衔作品，这张专辑无疑是他与Wendall Harrison合作之后最具创造力的作品。这张专辑展现出Phil本人对于彼时社会议题与艺术家自由精神的真实反馈，整体风格介于自由爵士与Soul Jazz之间，是一张既具有理性思考又不失感性热力的作品。整体呈现出一种夯实的节奏与根源的非洲旋律交织的声音景观。整张作品编曲密度大，节奏鲜明，Soul Jazz的氛围十分浓郁，钢琴与贝斯部分尤其耐人寻味，展现出底特律地区独特且强烈的社会意识与艺术深度。（[link](https://mp.weixin.qq.com/s/wIwpfIxSO6swZf58LZa26w)）
+
+[The Time Is Now For Change](https://ranelin.bandcamp.com/track/the-time-is-now-for-change) ：语言性。
