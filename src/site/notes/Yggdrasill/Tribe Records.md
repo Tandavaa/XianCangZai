@@ -62,3 +62,47 @@
 > 作为Phil Ranelin首张个人领衔作品，这张专辑无疑是他与Wendall Harrison合作之后最具创造力的作品。这张专辑展现出Phil本人对于彼时社会议题与艺术家自由精神的真实反馈，整体风格介于自由爵士与Soul Jazz之间，是一张既具有理性思考又不失感性热力的作品。整体呈现出一种夯实的节奏与根源的非洲旋律交织的声音景观。整张作品编曲密度大，节奏鲜明，Soul Jazz的氛围十分浓郁，钢琴与贝斯部分尤其耐人寻味，展现出底特律地区独特且强烈的社会意识与艺术深度。（[link](https://mp.weixin.qq.com/s/wIwpfIxSO6swZf58LZa26w)）
 
 [The Time Is Now For Change](https://ranelin.bandcamp.com/track/the-time-is-now-for-change) ：语言性。
+
+### Farewell To The Welfare Part 1 / Part 2
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mUfx34I17c4?si=nx0Wb-Qq2SFwF42w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+> 这是Tribe Records发行过的四张7寸单曲之一。唱片标签上印有“From The LP _Farewell To The Welfare_”的字样，暗示原本计划收录于同名专辑，但最终仅以单曲形式问世。
+>
+> 如今看来，原因仍然不得而知，或许是录音母带的命运未卜。即便如此，这张作品在Phil与Wendall两人操刀下，仍旧呈现出一种强烈的底特律调性——Jazz，Funk，以及民权意识的完美结合。
+>
+> 厚重的贝斯线条，充满激情的管乐以及极具律动的节奏，这张专辑完美捕捉到了Tribe Records早期生动的政治与创作精神。作品虽然简短，却蕴含着深刻的社会批判与音乐探索的热情。
+
+### Vibes From The Tribe（1976）
+
+<iframe style="border: 0; width: 400px; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=589372869/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://ranelin.bandcamp.com/album/vibes-from-the-tribe">Vibes From The Tribe by Phil Ranelin</a></iframe>
+
+> 这张作品标志着Tribe Records的厂牌精神走向成熟阶段，以非洲中心主义为内核驱动来表现积极正面和富有灵魂深度的态度。Phil Ranelin的长号音色在此被赋予更深的广度与表现力。
+>
+> 第二轨《Sounds From The Village》体现出团队成员对于社群意识的呼应，第四轨《For The Children》则带有明显的教育与传承主题。专辑录音集合了底特律地区众多艺术家的合作完成，录音地点主要在Tribe自行营运的工作室中进行。同时，来自底特律的艺术家Kenny Cox，Ron English等人的参与使得专辑更具有多层次的结构。虽然这张专辑属于《The Time Is Now！》的延续，但实际上更加Funky与实验化。
+
+[He's The One We All Knew (Parts 1 & 2)](https://ranelin.bandcamp.com/track/hes-the-one-we-all-knew-parts-1-2) ：混乱中秩序井然。
+
+### Reflection In The Sea Of Nurnen（1975）
+
+<iframe style="border: 0; width: 400px; height: 439px;" src="https://bandcamp.com/EmbeddedPlayer/album=1211094021/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://doughammond.bandcamp.com/album/reflections-in-the-sea-of-nurnen">REFLECTIONS IN THE SEA OF NURNEN by Doug Hammond</a></iframe>
+
+> Doug Hammond与David Durrah当年在完成这张专辑的录音后移居纽约，原计划将这张作品的发行权交给StrataEast，随后由于Durrah本人与Wendall Harrison的友好关系随即决定交由Tribe发行。值得一提的是，David Durrah与Strata Records的创始人Kenny Cox的交情颇深，前者为Kenny在Blue Note发行的第一张专辑做出不可忽视的贡献。
+>
+> 开篇《Fidalgo Detour》以紧密多变的律动开场，第三轨《Wake Up Brothers》以鲜明的节奏和人声展现出深刻的社会意识，《Sea Of Nurnen》则将灵性与抽象的声音相结合形成一种冥想氛围。这是Hammond与Durrah共同完成的早期重要作品之一。
+
+[Fidalgo Detour](https://doughammond.bandcamp.com/track/fidalgo-detour) ：开篇灵。
+
+### Mixed Bag’s First Album（1976）
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sQYwyWwpQ1w?si=ASjqRp17cT1BYFmw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+> 在70年代的底特律独立爵士场景中，Tribe与Strata同为最具代表性的两个厂牌。这张专辑由键盘手Eddie Russ领衔，他同样在Strata发行过名作《Fresh Out》，这张作品更像是两个厂牌的融合之作。
+>
+> 贝斯手Ron Brooks与鼓手Dan Spencer构成坚实的节奏组，专辑以“录音室现场”方式呈现，充满即兴与开放氛围。其中收录了 John Coltrane 的《Up’Gainst the Wall》 与 Brian Auger 的《Freedom Jazz Dance》翻奏曲，第四至六轨为团队原创曲目，强势的Post Bop气势与Soul Jazz的开放融合音色尤为出色。虽然风格上较少政治色彩，但本作依然是 1970 年代底特律独立爵士体系中不可忽视的重要篇章。
+
+【[20:40]( https://youtu.be/sQYwyWwpQ1w?si=dwO2WbUPiLlQcpKi&t=1223 )】吉他美。
+
+### 资料
+
+[独立爵士厂牌 Tribe Records 发行汇总与评述｜译制组](https://mp.weixin.qq.com/s/wIwpfIxSO6swZf58LZa26w)

@@ -3,8 +3,6 @@
 ---
 
 
-
-
 ### 演唱对比
 
 【[民美通 19 位男歌手 PK《草原之夜》【李双江/戴玉强/郁钧剑/腾格尔/李健/费玉清/刀郎/阎维文/蒋大为/王宏伟/吕继宏/吴雁泽/廖昌永/佟铁鑫】]([https://www.bilibili.com/video/BV1SwbHzaEmj/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82](https://www.bilibili.com/video/BV1SwbHzaEmj/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82))】

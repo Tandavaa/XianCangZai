@@ -9,17 +9,13 @@
 
 ### 音乐人
 
-[[Yggdrasill/齐豫\|齐豫]]
+[[Yggdrasill/龚琳娜\|龚琳娜]]
 
 [[Yggdrasill/黄绮珊\|黄绮珊]]
 
 [[Yggdrasill/周深\|周深]]
 
 [[Yggdrasill/孙楠\|孙楠]]
-
-[[Yggdrasill/伍佰\|伍佰]]
-
-[[Yggdrasill/蔡倖娟\|蔡倖娟]]
 
 [[Yggdrasill/王菲\|王菲]]
 
@@ -30,3 +26,17 @@
 [[Yggdrasill/张喜秋\|张喜秋]]
 
 [[Yggdrasill/李娜\|李娜]]
+
+#### 台湾
+
+[[Yggdrasill/伍佰\|伍佰]]
+
+[[Yggdrasill/蔡倖娟\|蔡倖娟]]
+
+[[Yggdrasill/邓雨贤\|邓雨贤]]
+
+[[Yggdrasill/齐豫\|齐豫]]
+
+#### 日本
+
+[[Yggdrasill/中岛美雪\|中岛美雪]]
