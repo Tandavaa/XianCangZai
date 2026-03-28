@@ -11,6 +11,12 @@
 
 [[Yggdrasill/Post-Rock\|Post-Rock]]
 
+[[Yggdrasill/Blues Rock\|Blues Rock]]
+
 ### 音乐人
 
 [[Yggdrasill/万能青年旅店\|万能青年旅店]]
+
+[[Yggdrasill/木推瓜\|木推瓜]]
+
+[[Yggdrasill/苏紫旭\|苏紫旭]]

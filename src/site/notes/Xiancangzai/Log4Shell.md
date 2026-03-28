@@ -11,6 +11,8 @@
 
 <p style="text-align:center;color:#B54434;font-size:0.8em;">⫷ 𠈨𠯮󱠚󱉯 ⫸</p>
 
+[[Xiancangzai/怀人之歌\|怀人之歌]]
+
 <div class="header-media"
      style="background-image: url(' https://i.pinimg.com/736x/5c/eb/ed/5cebedb035edce56b9cafb54836034e8.jpg ');">
     <a href=" https://www.xiancangzai.com/Xiancangzai/%E8%AB%96%EF%BC%9A%E5%9E%83%E5%9C%BE%E4%BB%A3%E6%9B%BF%E7%95%B0%E6%95%99%E5%BE%92%C2%B7%E9%BF%AB%E7%9A%84%E5%85%BB%E5%AD%90/"
@@ -43,6 +45,42 @@
         <p><cite>2025-01-20</cite></p>
         <h1>
             <a href="https://www.xiancangzai.com/Xiancangzai/%E8%89%AF%E5%BC%BC%E2%88%96%E6%9B%B4%E8%89%AF%E5%BC%BC%EF%BC%8C%E6%88%96%202024%20%E5%B9%B4%E8%AF%97%E8%84%9E/">良弼∖更良弼，或 2024 年诗脞</a>
+        </h1>
+    </div>
+</div>
+
+<div class="header-media"
+     style="background-image: url(' https://upload.wikimedia.org/wikipedia/commons/8/89/Lion_and_bull%2C_Mohammed_Siyah_Qalem.jpg ');">
+    <a href=" https://www.xiancangzai.com/Xiancangzai/%E5%8F%8D%E5%8F%8D%EF%BC%8C%E4%B8%8E%E6%97%A0%E9%99%90%E7%BB%AD%E6%9D%AF%20%E2%80%96%20%E4%82%96%E4%B9%8B%E6%8A%98%E6%A4%85%C2%B7%E7%BA%A6%E4%B8%AD%E6%9C%89%E6%97%A8/"
+       class="card-link"></a>
+    <div class="text-content">
+        <p><cite>2024-12-31</cite></p>
+        <h1>
+            <a href="https://www.xiancangzai.com/Xiancangzai/%E5%8F%8D%E5%8F%8D%EF%BC%8C%E4%B8%8E%E6%97%A0%E9%99%90%E7%BB%AD%E6%9D%AF%20%E2%80%96%20%E4%82%96%E4%B9%8B%E6%8A%98%E6%A4%85%C2%B7%E7%BA%A6%E4%B8%AD%E6%9C%89%E6%97%A8/">䂖之折椅·约中有旨</a>
+        </h1>
+    </div>
+</div>
+
+<div class="header-media"
+     style="background-image: url(' https://www.xiancangzai.com/img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/%E5%8F%8D%E5%8F%8D%EF%BC%8C%E4%B8%8E%E6%97%A0%E9%99%90%E7%BB%AD%E6%9D%AF%20%E2%80%96%20%E4%BA%8C%E4%BD%BE%E7%9A%84%E6%80%A5%E5%81%9C.png ');">
+    <a href=" https://www.xiancangzai.com/Xiancangzai/%E5%8F%8D%E5%8F%8D%EF%BC%8C%E4%B8%8E%E6%97%A0%E9%99%90%E7%BB%AD%E6%9D%AF%20%E2%80%96%20%E6%97%A0%E6%95%B0%E6%98%AF%E5%8D%92%C2%B7%E5%A4%AA%E4%B9%85%E5%A4%AA%E7%BE%94/"
+       class="card-link"></a>
+    <div class="text-content">
+        <p><cite>2024-10-20</cite></p>
+        <h1>
+            <a href="https://www.xiancangzai.com/Xiancangzai/%E5%8F%8D%E5%8F%8D%EF%BC%8C%E4%B8%8E%E6%97%A0%E9%99%90%E7%BB%AD%E6%9D%AF%20%E2%80%96%20%E6%97%A0%E6%95%B0%E6%98%AF%E5%8D%92%C2%B7%E5%A4%AA%E4%B9%85%E5%A4%AA%E7%BE%94/">无数是卒·太久太羔</a>
+        </h1>
+    </div>
+</div>
+
+<div class="header-media"
+     style="background-image: url('https://www.xiancangzai.com/img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/%E7%BB%86%E9%9B%A8%E6%B3%BD%E9%A6%99.png');">
+    <a href=" https://www.xiancangzai.com/Xiancangzai/%E5%8F%8D%E5%8F%8D%EF%BC%8C%E4%B8%8E%E6%97%A0%E9%99%90%E7%BB%AD%E6%9D%AF%20%E2%80%96%20%E4%BA%8C%E4%BD%BE%E7%9A%84%E6%80%A5%E5%81%9C/"
+       class="card-link"></a>
+    <div class="text-content">
+        <p><cite>2024-10-14</cite></p>
+        <h1>
+            <a href="https://www.xiancangzai.com/Xiancangzai/%E5%8F%8D%E5%8F%8D%EF%BC%8C%E4%B8%8E%E6%97%A0%E9%99%90%E7%BB%AD%E6%9D%AF%20%E2%80%96%20%E4%BA%8C%E4%BD%BE%E7%9A%84%E6%80%A5%E5%81%9C/">二佾的急停</a>
         </h1>
     </div>
 </div>

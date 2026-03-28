@@ -3,6 +3,26 @@
 ---
 
 
+#### Quatre (2002)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t8vHBI7XbFI?si=avZfejUGlL2mGRus&amp;start=1426" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+> 片山広明带领的日本自由爵士四重奏乐队。
+> 专辑中包括2首原创和4首翻唱歌曲（板橋文夫、Leonard Cohen和Carlos Gardel）。
+> 其中片山広明萨克斯的音色和旋律感让人印象深刻。（[link](https://mp.weixin.qq.com/s/O2CQ1yWfvi4m9_Q7HHUXVg)）
+
+【[2:30](https://youtu.be/t8vHBI7XbFI?si=SqkR4G9PiU57cjSs&t=150)】萨克斯前景太美。
+
+### "FAR OUT" Hopper's Duck（1996）
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1506236129&bvid=BV1DS421R7mw&cid=1614514217&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+> 90年代林栄一带领的自由爵士三重奏乐队。
+> 同时也是一张日本自由爵士史上的经典唱片。
+> Alto Saxophone–林栄一Eiichi Hayashi
+> Bass–川端民生Tamio Kawabata（1947-2000）
+> Drums–古澤良治郎Ryojiro Furusawa（1945-2011）（[link](https://mp.weixin.qq.com/s/O2CQ1yWfvi4m9_Q7HHUXVg)）
+
 ### Africa Connection 2013
 
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113645673520146&bvid=BV1ExBTYXEaJ&cid=27324056010&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
