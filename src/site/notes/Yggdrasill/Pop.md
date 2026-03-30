@@ -9,6 +9,8 @@
 
 ### 音乐人
 
+[[Yggdrasill/王忆灵\|王忆灵]]
+
 [[Yggdrasill/龚琳娜\|龚琳娜]]
 
 [[Yggdrasill/黄绮珊\|黄绮珊]]

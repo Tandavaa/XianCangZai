@@ -11,7 +11,17 @@
 
 <p style="text-align:center;color:#B54434;font-size:0.8em;">⫷ 𠈨𠯮󱠚󱉯 ⫸</p>
 
-[[Xiancangzai/怀人之歌\|怀人之歌]]
+<div class="header-media"
+     style="background-image: url(' https://www.xiancangzai.com/img/user/%E9%99%84%E4%BB%B6/attachment/Pasted%20image%2020260327202455.png ');">
+    <a href=" https://www.xiancangzai.com/Xiancangzai/%E6%80%80%E4%BA%BA%E4%B9%8B%E6%AD%8C/"
+       class="card-link"></a>
+    <div class="text-content">
+        <p><cite>2025-03-27</cite></p>
+        <h1>
+            <a href="https://www.xiancangzai.com/Xiancangzai/%E6%80%80%E4%BA%BA%E4%B9%8B%E6%AD%8C/">怀人之歌</a>
+        </h1>
+    </div>
+</div>
 
 <div class="header-media"
      style="background-image: url(' https://i.pinimg.com/736x/5c/eb/ed/5cebedb035edce56b9cafb54836034e8.jpg ');">

@@ -3,23 +3,6 @@
 ---
 
 
-### 枯萎颂（2024）
-
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113059192376242&bvid=BV1YBHwe3EHa&cid=25682182404&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-
-> 王忆灵/携火者乐队
-
-> 今年国内独立音乐最好的新人，诗歌传统和乐器传统的双重呈现。没有电子音色的过度使用，也没有卖弄和炫技，作为一个新人的首张专辑实属不易，就像专辑的名字“枯萎颂”，作者在歌颂的是绽放华彩之后的枯萎，李增辉、本能实业的bokai助阵，乐手名单上一个个熟悉的名字，他们是新时代的翘楚。（[link](https://mp.weixin.qq.com/s/DXQLhNv9-Go7fzidrKdj3A)）
-
-极好的灵忆。
-
-【[44:06](https://www.bilibili.com/video/BV1YBHwe3EHa/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82&t=2646)】 成熟的吼声。
-【[51:48](https://www.bilibili.com/video/BV1YBHwe3EHa/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82&t=3108)】 昨夜的枪声。
-
-#### 昨夜的枪声
-
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115508498208669&bvid=BV1uk2gBtE55&cid=33790166923&p=10" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-
 ### Nova Naturo
 
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=116130580595017&bvid=BV17ifbBtEm4&cid=36276994378&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
