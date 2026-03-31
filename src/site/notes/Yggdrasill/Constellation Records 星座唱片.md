@@ -64,6 +64,12 @@
 
 ![Pasted image 20260330135519.png](/img/user/%E9%99%84%E4%BB%B6/attachment/Pasted%20image%2020260330135519.png)
 
+### Do Make Say Think - Winter Hymn Country Hymn Secret Hymn（2003）
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115858688972066&bvid=BV1rTiQBKEkU&cid=35260862236&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+![Pasted image 20260331193014.png](/img/user/%E9%99%84%E4%BB%B6/attachment/Pasted%20image%2020260331193014.png)
+
 ### 资料
 
 [黑帝背后的厂牌，实验音乐百花齐放的乌托邦](https://mp.weixin.qq.com/s/zPdgHQqw8lcp_2w7yBvMmQ)

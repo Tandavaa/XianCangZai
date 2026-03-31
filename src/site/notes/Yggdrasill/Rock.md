@@ -3,7 +3,11 @@
 ---
 
 
+### 类别
+
 [[Yggdrasill/Psychedelic Rock\|Psychedelic Rock]]
+
+[[Yggdrasill/New psychedelic\|New psychedelic]]
 
 [[Yggdrasill/Progressive Rock\|Progressive Rock]]
 
