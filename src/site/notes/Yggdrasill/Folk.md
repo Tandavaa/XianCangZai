@@ -3,6 +3,12 @@
 ---
 
 
+### 类别
+
 [[Yggdrasill/Avant-folk\|Avant-folk]]
+
+[[Yggdrasill/Indie Folk\|Indie Folk]]
+
+### 音乐人
 
 [[Yggdrasill/五条人\|五条人]]

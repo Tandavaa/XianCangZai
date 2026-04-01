@@ -21,7 +21,11 @@
 
 ### 音樂家
 
+[[Yggdrasill/John Coltrane\|John Coltrane]]
+
 [[Yggdrasill/Dave Brubeck\|Dave Brubeck]]
+
+[[Yggdrasill/Pharoah Sanders\|Pharoah Sanders]]
 
 ### 廠牌
 

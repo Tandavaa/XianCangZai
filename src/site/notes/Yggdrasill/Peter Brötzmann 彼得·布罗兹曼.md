@@ -26,3 +26,5 @@
 > Electric Bass–Marino Pliakas
 > Electric Guitar, Voice–Keiji Haino
 > Trumpet–Peter Evans
+
+[Elegance of Darkness](https://fullblastjazz.bandcamp.com/track/elegance-of-darkness) ：将死之兽。
