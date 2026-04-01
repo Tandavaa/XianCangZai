@@ -15,3 +15,14 @@
 【[50:45](https://www.bilibili.com/video/BV1F3pcz5Eta/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82&t=3045)】 交流极精彩。
 
 > 『Machine Gun』诞生于 1968 年，由彼得·布罗兹曼（Peter Brötzmann）领衔的八重奏团录制，是自由爵士（Free Jazz）乃至整个 20 世纪先锋音乐史上的珠穆朗玛峰。它被广泛视为欧洲即兴音乐彻底摆脱美国爵士乐范式、确立自身激进美学的「独立宣言」。
+
+### Full Blast+Friends - Crumbling Brain（2010）
+
+<iframe style="border: 0; width: 400px; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=2685210320/size=large/bgcol=ffffff/linkcol=63b2cc/artwork=small/transparent=true/" seamless><a href="https://fullblastjazz.bandcamp.com/album/crumbling-brain">Crumbling Brain by FULL BLAST &amp; FRIENDS</a></iframe>
+
+> Alto Saxophone, Tenor Saxophone–Mars Williams
+> Alto Saxophone, Tenor Saxophone, Clarinet–Peter Brötzmann
+> Drums–Michael Wertmüller
+> Electric Bass–Marino Pliakas
+> Electric Guitar, Voice–Keiji Haino
+> Trumpet–Peter Evans
