@@ -16,7 +16,7 @@
     <a href=" https://www.xiancangzai.com/Xiancangzai/%E6%80%80%E4%BA%BA%E4%B9%8B%E6%AD%8C/"
        class="card-link"></a>
     <div class="text-content">
-        <p><cite>2025-03-27</cite></p>
+        <p><cite>2026-03-27</cite></p>
         <h1>
             <a href="https://www.xiancangzai.com/Xiancangzai/%E6%80%80%E4%BA%BA%E4%B9%8B%E6%AD%8C/">怀人之歌</a>
         </h1>
@@ -79,6 +79,18 @@
         <p><cite>2024-10-20</cite></p>
         <h1>
             <a href="https://www.xiancangzai.com/Xiancangzai/%E5%8F%8D%E5%8F%8D%EF%BC%8C%E4%B8%8E%E6%97%A0%E9%99%90%E7%BB%AD%E6%9D%AF%20%E2%80%96%20%E6%97%A0%E6%95%B0%E6%98%AF%E5%8D%92%C2%B7%E5%A4%AA%E4%B9%85%E5%A4%AA%E7%BE%94/">无数是卒·太久太羔</a>
+        </h1>
+    </div>
+</div>
+
+<div class="header-media"
+     style="background-image: url(' https://www.anne-marie.eu/wp-content/uploads/2020/01/Al-Buraq-Hyderabad-1770-75-wikipedia-1200x859.jpg ');">
+    <a href=" https://www.xiancangzai.com/Xiancangzai/%E6%AF%A4%E9%BE%86%E5%9B%BE%20%E2%80%96%20%E4%96%99%E5%86%85%E9%9B%86%E5%8F%A5%E7%9A%84%E5%AE%81%E8%82%AF%E4%B9%8B%E5%B7%85/"
+       class="card-link"></a>
+    <div class="text-content">
+        <p><cite>2024-10-17</cite></p>
+        <h1>
+            <a href="https://www.xiancangzai.com/Xiancangzai/%E6%AF%A4%E9%BE%86%E5%9B%BE%20%E2%80%96%20%E4%96%99%E5%86%85%E9%9B%86%E5%8F%A5%E7%9A%84%E5%AE%81%E8%82%AF%E4%B9%8B%E5%B7%85/">䖙内集句的宁肯之巅</a>
         </h1>
     </div>
 </div>

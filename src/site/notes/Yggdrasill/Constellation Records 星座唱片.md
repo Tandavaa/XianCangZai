@@ -70,6 +70,70 @@
 
 ![Pasted image 20260331193014.png](/img/user/%E9%99%84%E4%BB%B6/attachment/Pasted%20image%2020260331193014.png)
 
+### Vic Chesnutt - North Star Deserter（2007）
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=674028739&bvid=BV1wU4y137Zs&cid=365331835&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+值得再聽。
+
+![Pasted image 20260409121840.png](/img/user/%E9%99%84%E4%BB%B6/attachment/Pasted%20image%2020260409121840.png)
+
+### A Silver Mt. Zion - 13 Blues for Thirteen Moons (2008)
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=116170694855549&bvid=BV1zsPvzoEVP&cid=36464624177&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+![Pasted image 20260409131907.png](/img/user/%E9%99%84%E4%BB%B6/attachment/Pasted%20image%2020260409131907.png)
+
+【[53:07](https://www.bilibili.com/video/BV1zsPvzoEVP/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82&t=3187)】 BlindBlindBlind 的嘶吼高贵。
+
+### Colin Stetson - New History Warfare Vol. 2: Judges（2011）
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bTLbGytEz0U?si=iOkY37tTlxxZ94qv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+【[4:52](https://youtu.be/bTLbGytEz0U?si=fA7Ho6_PC-1BSyft&t=288)】失心的人声。
+【[14:09](https://youtu.be/bTLbGytEz0U?si=nZM-51RV7O3PddLC&t=843)】宇宙数学图形。
+
+![Pasted image 20260409142722.png](/img/user/%E9%99%84%E4%BB%B6/attachment/Pasted%20image%2020260409142722.png)
+
+### Matana Roberts - Coin Coin Chapter One: Gens de Couleur Libres (2011)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FYD1PZJm5Ds?si=9ALXGRn92Pj_Nlwl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+【[6:10](https://youtu.be/FYD1PZJm5Ds?si=FfjU-wiuL1Y_UUqL&t=370)】 夜晚的山海经。
+【[19:33](https://youtu.be/FYD1PZJm5Ds?si=I3KaGGXBV72KtsQg&t=1171)】Song For Eulalie，华彩。
+【[50:21](https://youtu.be/FYD1PZJm5Ds?si=UZBmtlZVAsux3cCy&t=3018)】I Am，山间嘶吼。
+
+![Pasted image 20260409231720.png](/img/user/%E9%99%84%E4%BB%B6/attachment/Pasted%20image%2020260409231720.png)
+
+### Esmerine - La Lechuza（2011）
+
+<iframe style="border: 0; width: 400px; height: 439px;" src="https://bandcamp.com/EmbeddedPlayer/album=2532954026/size=large/bgcol=ffffff/linkcol=63b2cc/artwork=small/transparent=true/" seamless><a href="https://esmerine.bandcamp.com/album/la-lechuza">La Lechuza by Esmerine</a></iframe>
+
+[Last Waltz](https://esmerine.bandcamp.com/track/last-waltz) ：回憶至死。
+[Sprouts](https://esmerine.bandcamp.com/track/sprouts) ：bass 好。
+
+![Pasted image 20260410002405.png](/img/user/%E9%99%84%E4%BB%B6/attachment/Pasted%20image%2020260410002405.png)
+
+### Sandro Perri - Impossible Spaces（2011）
+
+<iframe style="border: 0; width: 400px; height: 373px;" src="https://bandcamp.com/EmbeddedPlayer/album=3823734225/size=large/bgcol=ffffff/linkcol=63b2cc/artwork=small/transparent=true/" seamless><a href="https://sandroperri.bandcamp.com/album/impossible-spaces">Impossible Spaces by Sandro Perri</a></iframe>
+
+![Pasted image 20260410011222.png](/img/user/%E9%99%84%E4%BB%B6/attachment/Pasted%20image%2020260410011222.png)
+
+### Jerusalem In My Heart -  If He Dies, If If If If If If（2015）
+
+<iframe style="border: 0; width: 400px; height: 406px;" src="https://bandcamp.com/EmbeddedPlayer/album=1486661806/size=large/bgcol=ffffff/linkcol=63b2cc/artwork=small/transparent=true/" seamless><a href="https://jerusaleminmyheart.bandcamp.com/album/if-he-dies-if-if-if-if-if-if">If He Dies, If If If If If If by Jerusalem In My Heart</a></iframe>
+
+![Pasted image 20260410015201.png](/img/user/%E9%99%84%E4%BB%B6/attachment/Pasted%20image%2020260410015201.png)
+
+### Ought - More Than Any Other Day（2014）
+
+<iframe style="border: 0; width: 400px; height: 406px;" src="https://bandcamp.com/EmbeddedPlayer/album=2857841476/size=large/bgcol=ffffff/linkcol=63b2cc/artwork=small/transparent=true/" seamless><a href="https://ought.bandcamp.com/album/more-than-any-other-day-2">More Than Any Other Day by Ought</a></iframe>
+
+![Pasted image 20260410020635.png](/img/user/%E9%99%84%E4%BB%B6/attachment/Pasted%20image%2020260410020635.png)
+
+[Pleasant Heart](https://ought.bandcamp.com/track/pleasant-heart-2)：后朋特有的低音冷静。
+
 ### 资料
 
 [黑帝背后的厂牌，实验音乐百花齐放的乌托邦](https://mp.weixin.qq.com/s/zPdgHQqw8lcp_2w7yBvMmQ)

@@ -3,6 +3,14 @@
 ---
 
 
+### 生理学
+
+【[一个大脑测试，测出爸妈藏在衰老里的脆弱…… 测完我破防了，大脑衰退让父母离我们越来越远](https://www.bilibili.com/video/BV1dyDpBEEJW/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82)】
+
+【[大脑前额叶皮质抑制力训练 34 秒基础版](https://www.bilibili.com/video/BV1T24nzdEsg/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82)】
+
+【[注意力缺陷及多动障碍的检测与注意力训练](https://www.bilibili.com/video/BV1c2421M75L/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82)】
+
 ### 性议题
 
 【[【Q&A EP1】关于三人恋爱的种种疑问](https://www.bilibili.com/video/BV1Nu4y1i7rV/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82)】
