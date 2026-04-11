@@ -7,6 +7,12 @@
 
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114112583500011&bvid=BV13cRcYeEop&cid=28708768255&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
-### A Love Supreme
+### My Favorite Things（1961）
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=659086255&bvid=BV12h4y1k7ow&cid=1216254824&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+柯川光明。
+
+### A Love Supreme（1965）
 
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=946705829&bvid=BV1gW4y1K7kG&cid=934248485&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>

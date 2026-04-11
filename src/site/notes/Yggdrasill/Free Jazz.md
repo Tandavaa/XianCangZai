@@ -7,6 +7,8 @@
 
 [[Yggdrasill/Peter Brötzmann 彼得·布罗兹曼\|Peter Brötzmann 彼得·布罗兹曼]]
 
+[[Yggdrasill/Matana Roberts\|Matana Roberts]]
+
 ### Quatre (2002)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t8vHBI7XbFI?si=avZfejUGlL2mGRus&amp;start=1426" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -26,24 +28,6 @@
 > Alto Saxophone–林栄一Eiichi Hayashi
 > Bass–川端民生Tamio Kawabata（1947-2000）
 > Drums–古澤良治郎Ryojiro Furusawa（1945-2011）（[link](https://mp.weixin.qq.com/s/O2CQ1yWfvi4m9_Q7HHUXVg)）
-
-### Africa Connection 2013
-
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113645673520146&bvid=BV1ExBTYXEaJ&cid=27324056010&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-
-> joachim kühn - p
-> majid bekkas - guembri, oud
-> ramón lópez - dr, perc
-> joseph bessan kouassi - conga, talking drum, voc
-> abdessadek bounhar - perc
-> fathallah chaouki - perc
-> moussa sissokho - perc
-> pharoah sanders - sax
-
-【[06:00](https://www.bilibili.com/video/BV1ExBTYXEaJ/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82&t=360)】 人籁出现；器乐为地籁。
-【[15:03](https://www.bilibili.com/video/BV1ExBTYXEaJ/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82&t=903)】 钢琴欢乐即兴，扑水。
-【[28:21](https://www.bilibili.com/video/BV1ExBTYXEaJ/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82&t=1701)】 必然爱听的强节奏。
-【[33:56](https://www.bilibili.com/video/BV1ExBTYXEaJ/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82&t=2036)】 悬疑感。
 
 ### Köln'69
 
