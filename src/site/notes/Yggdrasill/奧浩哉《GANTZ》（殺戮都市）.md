@@ -1,0 +1,36 @@
+---
+{"dg-publish":true,"permalink":"/Yggdrasill/奧浩哉《GANTZ》（殺戮都市）/","created":"2024-02-29T21:23:24.664+08:00"}
+---
+
+
+
+![image|380](https://cdn.kobo.com/book-images/d47377d8-657a-4c90-93e5-c620bd539e2e/1200/1200/False/gantz-01.jpg)
+
+### 第 30 卷
+
+#### 人类加工厂
+
+![GANTZ 殺戮都市（全37卷）.jpg](/img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/GANTZ%20%E6%AE%BA%E6%88%AE%E9%83%BD%E5%B8%82%EF%BC%88%E5%85%A837%E5%8D%B7%EF%BC%89.jpg)
+
+![多惠与陌生人跳下四眼星人母舰中人类加工厂的水流传送装置.jpg](/img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/%E5%A4%9A%E6%83%A0%E4%B8%8E%E9%99%8C%E7%94%9F%E4%BA%BA%E8%B7%B3%E4%B8%8B%E5%9B%9B%E7%9C%BC%E6%98%9F%E4%BA%BA%E6%AF%8D%E8%88%B0%E4%B8%AD%E4%BA%BA%E7%B1%BB%E5%8A%A0%E5%B7%A5%E5%8E%82%E7%9A%84%E6%B0%B4%E6%B5%81%E4%BC%A0%E9%80%81%E8%A3%85%E7%BD%AE.jpg)
+
+![等待被拯救的众人、罗汉.jpg](/img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/%E7%AD%89%E5%BE%85%E8%A2%AB%E6%8B%AF%E6%95%91%E7%9A%84%E4%BC%97%E4%BA%BA%E3%80%81%E7%BD%97%E6%B1%89.jpg)
+
+### 第 36 卷
+
+#### 丽佳的全日本广播
+
+![GANTZ 殺戮都市（全37卷）-3.jpg](/img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/GANTZ%20%E6%AE%BA%E6%88%AE%E9%83%BD%E5%B8%82%EF%BC%88%E5%85%A837%E5%8D%B7%EF%BC%89-3.jpg)
+
+
+![奧浩哉：GANTZ 殺戮都市（全37卷）.jpg](/img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/%E5%A5%A7%E6%B5%A9%E5%93%89%EF%BC%9AGANTZ%20%E6%AE%BA%E6%88%AE%E9%83%BD%E5%B8%82%EF%BC%88%E5%85%A837%E5%8D%B7%EF%BC%89.jpg)
+
+#### 真理的房间
+
+![奧浩哉：GANTZ 殺戮都市（全37卷）-1.jpg](/img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/%E5%A5%A7%E6%B5%A9%E5%93%89%EF%BC%9AGANTZ%20%E6%AE%BA%E6%88%AE%E9%83%BD%E5%B8%82%EF%BC%88%E5%85%A837%E5%8D%B7%EF%BC%89-1.jpg)
+
+
+![奧浩哉：GANTZ 殺戮都市（全37卷）-2.jpg](/img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/%E5%A5%A7%E6%B5%A9%E5%93%89%EF%BC%9AGANTZ%20%E6%AE%BA%E6%88%AE%E9%83%BD%E5%B8%82%EF%BC%88%E5%85%A837%E5%8D%B7%EF%BC%89-2.jpg)
+
+
+![奧浩哉：GANTZ 殺戮都市（全37卷）-3.jpg](/img/user/%E9%99%84%E4%BB%B6/%E9%99%84%E4%BB%B62024/%E5%A5%A7%E6%B5%A9%E5%93%89%EF%BC%9AGANTZ%20%E6%AE%BA%E6%88%AE%E9%83%BD%E5%B8%82%EF%BC%88%E5%85%A837%E5%8D%B7%EF%BC%89-3.jpg)
