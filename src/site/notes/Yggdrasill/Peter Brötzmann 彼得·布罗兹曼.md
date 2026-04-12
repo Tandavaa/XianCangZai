@@ -7,6 +7,10 @@
 
 > 彼得·布罗兹曼（Peter Brötzmann，1941—2023）是欧洲自由爵士（Free Jazz）与即兴音乐史上最具影响力的萨克斯演奏家之一。他以其雷霆万钧的演奏力量、极具冲击力的音色以及对音乐传统的激进反叛而闻名，被誉为「自由爵士的愤怒之声」。
 
+#### 文化资产阶级对布罗兹曼缺乏洞见
+
+> 布罗茨曼出生于德国北部的雷姆沙伊德，曾学习艺术并从事绘画，后来在单簧管和萨克斯风中找到了他的画笔、刮刀与调色盘。他身处一场自诩为"打开世界"的运动核心。尽管有人理解他的艺术追求，共鸣于他需要发声的渴望，但他也常遭遇质疑：**文化资产阶级似乎缺乏洞见，未能将他对于音乐材料的激进质询视为建设性力量或任何积极的艺术推动**。他的开放性首先体现在接纳陌生与未知，并崇尚一种深具浪漫精神的理念——尽可能让自我被当下的力量与灵感所指引。[^1]
+
 ### Machine Gun（1968）
 
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115202129397990&bvid=BV1F3pcz5Eta&cid=32378523103&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
@@ -28,3 +32,5 @@
 > Trumpet–Peter Evans
 
 [Elegance of Darkness](https://fullblastjazz.bandcamp.com/track/elegance-of-darkness) ：将死之兽。
+
+[^1]: [Peter Brötzmann](https://ukjazznews.com/peter-brotzmann-tribute-by-nachruf-von-ralf-dombrowski/)

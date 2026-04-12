@@ -23,6 +23,8 @@
 
 [[Yggdrasill/John Coltrane\|John Coltrane]]
 
+[[Yggdrasill/Charles Mingus\|Charles Mingus]]
+
 [[Yggdrasill/Dave Brubeck\|Dave Brubeck]]
 
 [[Yggdrasill/Pharoah Sanders\|Pharoah Sanders]]

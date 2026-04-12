@@ -29,6 +29,15 @@
 
 ### Carnival Folklore Resurrection 民俗音乐复兴计划
 
+#### Carnival Folklore Resurrection Vol 5: Severed Finger with a Wedding Ring 带婚戒的断指
+
+![](https://f4.bcbits.com/img/a366169546_1x1_700.avif)
+
+<iframe style="border: 0; width: 400px; height: 406px;" src="https://bandcamp.com/EmbeddedPlayer/album=2559895206/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://suncitygirls.bandcamp.com/album/carnival-folklore-resurrection-vol-5-severed-finger-with-a-wedding-ring">Carnival Folklore Resurrection Vol 5: Severed Finger with a Wedding Ring by Sun City Girls</a></iframe>
+
+[I Wanna Go to the Moon](https://suncitygirls.bandcamp.com/track/i-wanna-go-to-the-moon)：酒馆的酒鬼宇航员。
+[Chameleon 2000](https://suncitygirls.bandcamp.com/track/chameleon-2000)：变色龙是天然的迷幻宠物。
+
 #### Carnival Folklore Resurrection 6: Sumatran Electric Chair（2001）
 
 ![](https://f4.bcbits.com/img/a2447558695_1x1_700.avif)
