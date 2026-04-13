@@ -3,7 +3,11 @@
 ---
 
 
-## 厂牌
+### 音乐人
+
+[[Yggdrasill/caroline\|caroline]]
+
+### 厂牌
 
 [[Yggdrasill/Constellation Records 星座唱片\|Constellation Records 星座唱片]]
 

@@ -3,6 +3,10 @@
 ---
 
 
+### 音乐人
+
+[[Yggdrasill/Yes\|Yes]]
+
 ### ASTERISMS（2024）
 
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1851146151&bvid=BV1VW421P7Hd&cid=1450583640&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
