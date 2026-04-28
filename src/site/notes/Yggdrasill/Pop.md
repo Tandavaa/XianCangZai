@@ -9,7 +9,7 @@
 
 ### 音乐人
 
-[[Yggdrasill/王忆灵\|王忆灵]]
+[[Yggdrasill/王忆灵\|王忆灵]] [[Yggdrasill/祁紫檀\|祁紫檀]]
 
 [[Yggdrasill/李娜\|李娜]]  [[Yggdrasill/龚琳娜\|龚琳娜]]
 
@@ -28,6 +28,8 @@
 [[Yggdrasill/邓雨贤\|邓雨贤]]
 
 [[Yggdrasill/蔡倖娟\|蔡倖娟]]
+
+[[Yggdrasill/罗大佑\|罗大佑]]  [[Yggdrasill/张震岳\|张震岳]]
 
 [[Yggdrasill/齐豫\|齐豫]]
 

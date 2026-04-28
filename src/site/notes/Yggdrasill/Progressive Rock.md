@@ -5,6 +5,8 @@
 
 ### 音乐人
 
+[[Yggdrasill/King Crimson\|King Crimson]]
+
 [[Yggdrasill/Yes\|Yes]]
 
 ### ASTERISMS（2024）

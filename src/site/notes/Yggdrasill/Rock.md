@@ -17,6 +17,8 @@
 
 [[Yggdrasill/Blues Rock\|Blues Rock]]
 
+[[Yggdrasill/Folk Rock\|Folk Rock]]
+
 ### 音乐人
 
 [[Yggdrasill/万能青年旅店\|万能青年旅店]]

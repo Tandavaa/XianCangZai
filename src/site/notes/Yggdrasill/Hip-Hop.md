@@ -3,6 +3,10 @@
 ---
 
 
+### 音乐人
+
 [[Yggdrasill/Tyler, The Creator\|Tyler, The Creator]]
 
 [[Yggdrasill/Kanye West\|Kanye West]]
+
+[[Yggdrasill/陳嫺靜\|陳嫺靜]]
