@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Yggdrasill/Pop/","created":"2026-03-09T04:56:44.508+08:00"}
+{"dg-publish":true,"permalink":"/Yggdrasill/Pop/","created":"2026-03-09T04:56:44.508+08:00","dg-note-properties":{}}
 ---
 
 

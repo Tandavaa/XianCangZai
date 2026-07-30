@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Yggdrasill/Sun City Girls/","created":"2026-04-10T17:55:54.141+08:00"}
+{"dg-publish":true,"permalink":"/Yggdrasill/Sun City Girls/","created":"2026-04-10T17:55:54.141+08:00","dg-note-properties":{}}
 ---
 
 

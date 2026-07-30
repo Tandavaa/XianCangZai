@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Yggdrasill/Constellation Records 星座唱片/","created":"2026-03-24T23:43:05.870+08:00"}
+{"dg-publish":true,"permalink":"/Yggdrasill/Constellation Records 星座唱片/","created":"2026-03-24T23:43:05.870+08:00","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Yggdrasill/Tomoko Kashiki 樫木知子/","created":"2026-02-11T22:54:34.991+08:00"}
+{"dg-publish":true,"permalink":"/Yggdrasill/Tomoko Kashiki 樫木知子/","created":"2026-02-11T22:54:34.991+08:00","dg-note-properties":{}}
 ---
 
 

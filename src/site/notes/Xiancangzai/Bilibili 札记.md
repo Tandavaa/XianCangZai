@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Xiancangzai/Bilibili 札记/","created":"2026-02-14T01:26:58.421+08:00"}
+{"dg-publish":true,"permalink":"/Xiancangzai/Bilibili 札记/","created":"2026-02-14T01:26:58.421+08:00","dg-note-properties":{}}
 ---
 
 

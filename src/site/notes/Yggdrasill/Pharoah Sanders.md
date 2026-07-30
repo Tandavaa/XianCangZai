@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Yggdrasill/Pharoah Sanders/","created":"2026-04-01T21:11:44.639+08:00"}
+{"dg-publish":true,"permalink":"/Yggdrasill/Pharoah Sanders/","created":"2026-04-01T21:11:44.639+08:00","dg-note-properties":{}}
 ---
 
 

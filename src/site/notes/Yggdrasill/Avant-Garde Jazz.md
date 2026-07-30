@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Yggdrasill/Avant-Garde Jazz/","created":"2026-02-26T15:41:31.436+08:00"}
+{"dg-publish":true,"permalink":"/Yggdrasill/Avant-Garde Jazz/","created":"2026-02-26T15:41:31.436+08:00","dg-note-properties":{}}
 ---
 
 

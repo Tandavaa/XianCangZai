@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Yggdrasill/Progressive Rock/","created":"2026-03-16T04:56:47.377+08:00"}
+{"dg-publish":true,"permalink":"/Yggdrasill/Progressive Rock/","created":"2026-03-16T04:56:47.377+08:00","dg-note-properties":{}}
 ---
 
 
@@ -8,6 +8,8 @@
 [[Yggdrasill/King Crimson\|King Crimson]]
 
 [[Yggdrasill/Yes\|Yes]]
+
+[[Yggdrasill/J・A・シーザー (J・A・Caesar)\|J・A・シーザー (J・A・Caesar)]]
 
 ### ASTERISMS（2024）
 

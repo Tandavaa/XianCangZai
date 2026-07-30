@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Yggdrasill/John Coltrane/","created":"2026-04-01T17:16:33.383+08:00"}
+{"dg-publish":true,"permalink":"/Yggdrasill/John Coltrane/","created":"2026-04-01T17:16:33.383+08:00","dg-note-properties":{}}
 ---
 
 

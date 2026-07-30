@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Yggdrasill/Jazz Fusion/","created":"2026-02-23T02:36:29.247+08:00"}
+{"dg-publish":true,"permalink":"/Yggdrasill/Jazz Fusion/","created":"2026-02-23T02:36:29.247+08:00","dg-note-properties":{}}
 ---
 
 

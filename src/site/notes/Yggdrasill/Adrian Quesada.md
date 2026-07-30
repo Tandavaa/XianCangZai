@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Yggdrasill/Adrian Quesada/","created":"2026-04-11T03:24:45.462+08:00"}
+{"dg-publish":true,"permalink":"/Yggdrasill/Adrian Quesada/","created":"2026-04-11T03:24:45.462+08:00","dg-note-properties":{}}
 ---
 
 

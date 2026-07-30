@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Yggdrasill/Christian Boltanski 克里斯蒂安·博坦斯基/","created":"2026-03-28T18:11:05.927+08:00"}
+{"dg-publish":true,"permalink":"/Yggdrasill/Christian Boltanski 克里斯蒂安·博坦斯基/","created":"2026-03-28T18:11:05.927+08:00","dg-note-properties":{}}
 ---
 
 

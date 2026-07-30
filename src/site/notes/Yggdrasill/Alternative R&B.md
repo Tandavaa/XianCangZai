@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Yggdrasill/Alternative R&B/","created":"2026-03-28T13:35:18.663+08:00"}
+{"dg-publish":true,"permalink":"/Yggdrasill/Alternative R&B/","created":"2026-03-28T13:35:18.663+08:00","dg-note-properties":{}}
 ---
 
 

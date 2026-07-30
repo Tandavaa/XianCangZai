@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Yggdrasill/Blood Orange/","created":"2026-04-27T18:54:53.806+08:00"}
+{"dg-publish":true,"permalink":"/Yggdrasill/Blood Orange/","created":"2026-04-27T18:54:53.806+08:00","dg-note-properties":{}}
 ---
 
 

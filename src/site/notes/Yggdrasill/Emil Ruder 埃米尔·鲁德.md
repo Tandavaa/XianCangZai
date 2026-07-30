@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Yggdrasill/Emil Ruder 埃米尔·鲁德/","created":"2026-04-26T12:45:37.833+08:00"}
+{"dg-publish":true,"permalink":"/Yggdrasill/Emil Ruder 埃米尔·鲁德/","created":"2026-04-26T12:45:37.833+08:00","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Xiancangzai/圣人之帹 feat.开国大典/","tags":["李去兹","血肉苦弱Ω","影像诗"],"created":"2024-05-09T21:19:58.545+08:00"}
+{"dg-publish":true,"permalink":"/Xiancangzai/圣人之帹 feat.开国大典/","tags":["李去兹","血肉苦弱Ω","影像诗"],"created":"2024-05-09T21:19:58.545+08:00","dg-note-properties":{"tags":["李去兹","血肉苦弱Ω","影像诗"]}}
 ---
 
 

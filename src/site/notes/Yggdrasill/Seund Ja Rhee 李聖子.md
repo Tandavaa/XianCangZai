@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Yggdrasill/Seund Ja Rhee 李聖子/","created":"2026-03-28T17:03:47.540+08:00"}
+{"dg-publish":true,"permalink":"/Yggdrasill/Seund Ja Rhee 李聖子/","created":"2026-03-28T17:03:47.540+08:00","dg-note-properties":{}}
 ---
 
 

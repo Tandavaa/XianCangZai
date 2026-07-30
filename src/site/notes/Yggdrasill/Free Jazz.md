@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Yggdrasill/Free Jazz/","created":"2026-02-15T03:50:18.777+08:00"}
+{"dg-publish":true,"permalink":"/Yggdrasill/Free Jazz/","created":"2026-02-15T03:50:18.777+08:00","dg-note-properties":{}}
 ---
 
 

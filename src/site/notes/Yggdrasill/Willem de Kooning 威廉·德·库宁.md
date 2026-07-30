@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Yggdrasill/Willem de Kooning 威廉·德·库宁/","created":"2024-01-30T16:04:42.999+08:00"}
+{"dg-publish":true,"permalink":"/Yggdrasill/Willem de Kooning 威廉·德·库宁/","created":"2024-01-30T16:04:42.999+08:00","dg-note-properties":{}}
 ---
 
 

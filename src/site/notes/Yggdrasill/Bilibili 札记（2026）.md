@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Yggdrasill/Bilibili 札记（2026）/","created":"2026-02-13T23:31:26.578+08:00"}
+{"dg-publish":true,"permalink":"/Yggdrasill/Bilibili 札记（2026）/","created":"2026-02-13T23:31:26.578+08:00","dg-note-properties":{}}
 ---
 
 

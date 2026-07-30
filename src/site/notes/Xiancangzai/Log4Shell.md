@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Xiancangzai/Log4Shell/","created":"2025-01-20T16:50:34.697+08:00"}
+{"dg-publish":true,"permalink":"/Xiancangzai/Log4Shell/","created":"2025-01-20T16:50:34.697+08:00","dg-note-properties":{}}
 ---
 
 

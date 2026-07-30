@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Yggdrasill/Jazz/","created":"2026-02-26T19:22:51.458+08:00"}
+{"dg-publish":true,"permalink":"/Yggdrasill/Jazz/","created":"2026-02-26T19:22:51.458+08:00","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Yggdrasill/奧浩哉《GANTZ》（殺戮都市）/","created":"2024-02-29T21:23:24.664+08:00"}
+{"dg-publish":true,"permalink":"/Yggdrasill/奧浩哉《GANTZ》（殺戮都市）/","created":"2024-02-29T21:23:24.664+08:00","dg-note-properties":{}}
 ---
 
 

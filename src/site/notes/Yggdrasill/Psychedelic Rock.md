@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Yggdrasill/Psychedelic Rock/","created":"2026-03-16T04:20:03.376+08:00"}
+{"dg-publish":true,"permalink":"/Yggdrasill/Psychedelic Rock/","created":"2026-03-16T04:20:03.376+08:00","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Yggdrasill/Kanye West/","created":"2026-02-14T00:12:15.342+08:00"}
+{"dg-publish":true,"permalink":"/Yggdrasill/Kanye West/","created":"2026-02-14T00:12:15.342+08:00","dg-note-properties":{}}
 ---
 
 

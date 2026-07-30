@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Yggdrasill/Giuseppe Penone 朱塞佩·佩诺内/","created":"2026-04-01T22:41:28.562+08:00"}
+{"dg-publish":true,"permalink":"/Yggdrasill/Giuseppe Penone 朱塞佩·佩诺内/","created":"2026-04-01T22:41:28.562+08:00","dg-note-properties":{}}
 ---
 
 

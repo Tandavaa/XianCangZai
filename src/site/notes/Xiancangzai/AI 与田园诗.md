@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Xiancangzai/AI 与田园诗/","tags":["李去兹"],"created":"2026-02-11T03:42:50.441+08:00"}
+{"dg-publish":true,"permalink":"/Xiancangzai/AI 与田园诗/","tags":["李去兹"],"created":"2026-02-11T03:42:50.441+08:00","dg-note-properties":{"tags":["李去兹"]}}
 ---
 
 

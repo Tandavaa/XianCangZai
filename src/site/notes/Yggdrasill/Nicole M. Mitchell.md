@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Yggdrasill/Nicole M. Mitchell/","created":"2026-04-28T11:05:52.191+08:00"}
+{"dg-publish":true,"permalink":"/Yggdrasill/Nicole M. Mitchell/","created":"2026-04-28T11:05:52.191+08:00","dg-note-properties":{}}
 ---
 
 

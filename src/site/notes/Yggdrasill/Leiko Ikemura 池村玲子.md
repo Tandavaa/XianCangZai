@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Yggdrasill/Leiko Ikemura 池村玲子/","created":"2026-03-28T17:51:13.421+08:00"}
+{"dg-publish":true,"permalink":"/Yggdrasill/Leiko Ikemura 池村玲子/","created":"2026-03-28T17:51:13.421+08:00","dg-note-properties":{}}
 ---
 
 

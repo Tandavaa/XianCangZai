@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Yggdrasill/Yes/","created":"2026-04-14T01:57:46.247+08:00"}
+{"dg-publish":true,"permalink":"/Yggdrasill/Yes/","created":"2026-04-14T01:57:46.247+08:00","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Yggdrasill/Charles Mingus/","created":"2026-04-12T23:25:54.020+08:00"}
+{"dg-publish":true,"permalink":"/Yggdrasill/Charles Mingus/","created":"2026-04-12T23:25:54.020+08:00","dg-note-properties":{}}
 ---
 
 

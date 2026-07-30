@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Yggdrasill/caroline/","created":"2026-04-13T23:58:01.276+08:00"}
+{"dg-publish":true,"permalink":"/Yggdrasill/caroline/","created":"2026-04-13T23:58:01.276+08:00","dg-note-properties":{}}
 ---
 
 

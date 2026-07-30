@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Yggdrasill/Daniel Caesar/","created":"2026-04-01T15:11:48.548+08:00"}
+{"dg-publish":true,"permalink":"/Yggdrasill/Daniel Caesar/","created":"2026-04-01T15:11:48.548+08:00","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Xiancangzai/PhotoBed/","created":"2024-12-06T13:15:36.791+08:00"}
+{"dg-publish":true,"permalink":"/Xiancangzai/PhotoBed/","created":"2024-12-06T13:15:36.791+08:00","dg-note-properties":{}}
 ---
 
 

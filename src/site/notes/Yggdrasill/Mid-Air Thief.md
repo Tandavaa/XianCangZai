@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Yggdrasill/Mid-Air Thief/","created":"2026-04-11T13:32:52.865+08:00"}
+{"dg-publish":true,"permalink":"/Yggdrasill/Mid-Air Thief/","created":"2026-04-11T13:32:52.865+08:00","dg-note-properties":{}}
 ---
 
 

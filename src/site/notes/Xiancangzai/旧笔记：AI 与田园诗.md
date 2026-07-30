@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Xiancangzai/旧笔记：AI 与田园诗/","tags":["李去兹","反拓扑"],"created":"2026-02-11T20:04:34.019+08:00"}
+{"dg-publish":true,"permalink":"/Xiancangzai/旧笔记：AI 与田园诗/","tags":["李去兹","反拓扑"],"created":"2026-02-11T20:04:34.019+08:00","dg-note-properties":{"tags":["李去兹","反拓扑"]}}
 ---
 
 

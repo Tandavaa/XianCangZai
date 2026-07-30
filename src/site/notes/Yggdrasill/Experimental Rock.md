@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/Yggdrasill/Experimental Rock/","created":"2026-02-26T14:42:22.993+08:00"}
+{"dg-publish":true,"permalink":"/Yggdrasill/Experimental Rock/","created":"2026-02-26T14:42:22.993+08:00","dg-note-properties":{}}
 ---
 
 
 ### 音乐人
 
 [[Yggdrasill/Sun City Girls\|Sun City Girls]]
+
+[[Yggdrasill/Glenn Branca\|Glenn Branca]]
 
 ### 流不尽许多愁（2024）
 

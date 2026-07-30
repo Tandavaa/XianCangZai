@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Yggdrasill/RAYE/","created":"2026-04-01T22:00:20.539+08:00"}
+{"dg-publish":true,"permalink":"/Yggdrasill/RAYE/","created":"2026-04-01T22:00:20.539+08:00","dg-note-properties":{}}
 ---
 
 

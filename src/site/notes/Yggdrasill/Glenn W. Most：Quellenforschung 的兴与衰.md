@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Yggdrasill/Glenn W. Most：Quellenforschung 的兴与衰/","created":"2026-04-13T00:01:04.445+08:00"}
+{"dg-publish":true,"permalink":"/Yggdrasill/Glenn W. Most：Quellenforschung 的兴与衰/","created":"2026-04-13T00:01:04.445+08:00","dg-note-properties":{}}
 ---
 
 

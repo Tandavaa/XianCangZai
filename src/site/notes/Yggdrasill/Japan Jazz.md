@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Yggdrasill/Japan Jazz/","created":"2026-02-26T17:17:20.752+08:00"}
+{"dg-publish":true,"permalink":"/Yggdrasill/Japan Jazz/","created":"2026-02-26T17:17:20.752+08:00","dg-note-properties":{}}
 ---
 
 

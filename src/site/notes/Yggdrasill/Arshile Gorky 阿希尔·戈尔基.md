@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Yggdrasill/Arshile Gorky 阿希尔·戈尔基/","created":"2024-01-30T18:23:06.189+08:00"}
+{"dg-publish":true,"permalink":"/Yggdrasill/Arshile Gorky 阿希尔·戈尔基/","created":"2024-01-30T18:23:06.189+08:00","dg-note-properties":{}}
 ---
 
 

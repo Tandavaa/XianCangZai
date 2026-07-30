@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Xiancangzai/Vingtième：献给良弼的一本画册/","tags":["李去兹","良弼","反反与无限续杯"],"created":"2026-02-28T10:44:21.366+08:00"}
+{"dg-publish":true,"permalink":"/Xiancangzai/Vingtième：献给良弼的一本画册/","tags":["李去兹","良弼","反反与无限续杯"],"created":"2026-02-28T10:44:21.366+08:00","dg-note-properties":{"tags":["李去兹","良弼","反反与无限续杯"]}}
 ---
 
 

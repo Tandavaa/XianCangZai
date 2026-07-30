@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Yggdrasill/Širom/","created":"2026-02-20T23:56:10.999+08:00"}
+{"dg-publish":true,"permalink":"/Yggdrasill/Širom/","created":"2026-02-20T23:56:10.999+08:00","dg-note-properties":{}}
 ---
 
 

@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/Yggdrasill/Art Pop/","created":"2026-02-26T17:56:47.787+08:00"}
+{"dg-publish":true,"permalink":"/Yggdrasill/Art Pop/","created":"2026-02-26T17:56:47.787+08:00","dg-note-properties":{}}
 ---
 
+
+[[Yggdrasill/Julia Holter\|Julia Holter]]
+
+[[Yggdrasill/Nirosta Steel\|Nirosta Steel]]
+
+[[Yggdrasill/裘德\|裘德]]
 
 ### Nova Naturo
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Yggdrasill/Nuwaubian Nation 努沃比安民族/","created":"2026-03-27T20:21:12.232+08:00"}
+{"dg-publish":true,"permalink":"/Yggdrasill/Nuwaubian Nation 努沃比安民族/","created":"2026-03-27T20:21:12.232+08:00","dg-note-properties":{}}
 ---
 
 

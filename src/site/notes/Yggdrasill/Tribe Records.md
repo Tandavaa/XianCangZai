@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Yggdrasill/Tribe Records/","created":"2026-03-16T06:24:57.839+08:00"}
+{"dg-publish":true,"permalink":"/Yggdrasill/Tribe Records/","created":"2026-03-16T06:24:57.839+08:00","dg-note-properties":{}}
 ---
 
 

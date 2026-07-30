@@ -1,7 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/Yggdrasill/Free improvisation/","created":"2026-02-26T22:54:27.819+08:00"}
+{"dg-publish":true,"permalink":"/Yggdrasill/Free improvisation/","created":"2026-02-26T22:54:27.819+08:00","dg-note-properties":{}}
 ---
 
+
+### 音乐人
+
+#### Guitar
+
+[[Yggdrasill/Derek Bailey\|Derek Bailey]]
+
+#### Bass
+
+[[Yggdrasill/John Edwards\|John Edwards]]
+
+#### Vocal
+
+[[ Inés Terra\| Inés Terra]]
 
 ### CommunicationWillisau
 

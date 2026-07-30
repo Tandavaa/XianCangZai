@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Yggdrasill/Thaddeus Mosley 塞代乌斯·莫斯利/","created":"2026-04-01T22:38:26.795+08:00"}
+{"dg-publish":true,"permalink":"/Yggdrasill/Thaddeus Mosley 塞代乌斯·莫斯利/","created":"2026-04-01T22:38:26.795+08:00","dg-note-properties":{}}
 ---
 
 

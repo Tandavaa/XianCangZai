@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Yggdrasill/Peter Brötzmann 彼得·布罗兹曼/","created":"2026-03-31T20:03:07.190+08:00"}
+{"dg-publish":true,"permalink":"/Yggdrasill/Peter Brötzmann 彼得·布罗兹曼/","created":"2026-03-31T20:03:07.190+08:00","dg-note-properties":{}}
 ---
 
 

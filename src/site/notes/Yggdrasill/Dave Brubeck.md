@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Yggdrasill/Dave Brubeck/","created":"2026-02-26T19:20:57.048+08:00"}
+{"dg-publish":true,"permalink":"/Yggdrasill/Dave Brubeck/","created":"2026-02-26T19:20:57.048+08:00","dg-note-properties":{}}
 ---
 
 

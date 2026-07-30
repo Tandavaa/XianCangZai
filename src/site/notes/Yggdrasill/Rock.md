@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Yggdrasill/Rock/","created":"2026-03-15T07:08:09.259+08:00"}
+{"dg-publish":true,"permalink":"/Yggdrasill/Rock/","created":"2026-03-15T07:08:09.259+08:00","dg-note-properties":{}}
 ---
 
 
@@ -19,7 +19,11 @@
 
 [[Yggdrasill/Folk Rock\|Folk Rock]]
 
+[[Yggdrasill/Indie Rock\|Indie Rock]]
+
 ### 音乐人
+
+[[Yggdrasill/腰\|腰]]
 
 [[Yggdrasill/万能青年旅店\|万能青年旅店]]
 

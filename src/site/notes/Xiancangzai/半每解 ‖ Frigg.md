@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Xiancangzai/半每解 ‖ Frigg/","tags":["李去兹","半每解"],"created":"2024-12-16T16:36:50.027+08:00"}
+{"dg-publish":true,"permalink":"/Xiancangzai/半每解 ‖ Frigg/","tags":["李去兹","半每解"],"created":"2024-12-16T16:36:50.027+08:00","dg-note-properties":{"tags":["李去兹","半每解"]}}
 ---
 
 
