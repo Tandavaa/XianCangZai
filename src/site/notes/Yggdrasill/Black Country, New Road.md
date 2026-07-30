@@ -3,6 +3,7 @@
 ---
 
 
+
 ```base
 views:
   - type: cards
