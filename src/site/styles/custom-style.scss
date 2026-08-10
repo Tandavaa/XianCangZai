@@ -14,6 +14,30 @@ nav.navbar {background-color: #fff;}/*网站页眉背景*/
 
 :root {--default-font: "Times New Roman","PMingLiU-TW","PMingLiU","FSung-2","FSung-3","FSung-F","FSung-X","FSung-P";}/*全站字体*/
 
+/* 正文及标题 */
+.markdown-rendered,
+.markdown-rendered h1,
+.markdown-rendered h2,
+.markdown-rendered h3,
+.markdown-rendered h4,
+.markdown-rendered h5,
+.markdown-rendered h6,
+.markdown-rendered p,
+.markdown-rendered li,
+.markdown-rendered blockquote,
+.markdown-rendered table {
+  font-family:
+    "Times New Roman",
+    "PMingLiU-TW",
+    "PMingLiU",
+    "FSung-2",
+    "FSung-3",
+    "FSung-F",
+    "FSung-X",
+    "FSung-P",
+    serif !important;
+}
+
 body {
 
 a.internal-link.is-unresolved {padding: 0px 0px;}/*无笔记双链边距*/
