@@ -3,19 +3,6 @@
 ---
 
 
-
-```base
-views:
-  - type: cards
-    name: 视图
-    filters:
-      and:
-        - file.inFolder("Music")
-    image: note.cover
-
-```
-
-
 ### [For the first time](https://www.bilibili.com/video/BV1MzfYYaEpR/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82 )（2021）
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-rEpbR_iR2RGyTGDZdiqJMWIe-nqq6TbFhUtHF_-Ms3TUV7P4DB0Cev5f&s=10)
