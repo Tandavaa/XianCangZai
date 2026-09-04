@@ -5,6 +5,10 @@
 
 ### 音乐人
 
+[[Yggdrasill/Ornette Coleman\|Ornette Coleman]]
+
+[[Yggdrasill/Eric Dolphy\|Eric Dolphy]]
+
 [[Yggdrasill/Peter Brötzmann 彼得·布罗兹曼\|Peter Brötzmann 彼得·布罗兹曼]]
 
 ### Quatre (2002)

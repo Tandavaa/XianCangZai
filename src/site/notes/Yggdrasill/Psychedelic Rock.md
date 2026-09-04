@@ -3,16 +3,16 @@
 ---
 
 
-### 日本迷幻
+## 类别
 
-- [[Yggdrasill/Mainliner\|Mainliner]]
+[[Yggdrasill/Raga Rock\|Raga Rock]]
 
-### A Second Invitation To An Uninterrupted Katabatic Lens 一个不间断的下降风透镜的第二份邀请（2023）
+## 音乐人
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113199332459354&bvid=BV1BFxGeQENt&cid=26005737015&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+### 日本
 
-> Decolonize Your Mind Society
+[[Yggdrasill/Mainliner\|Mainliner]]
 
-油滑。
+### 匈牙利
 
-【[23:56](https://www.bilibili.com/video/BV1BFxGeQENt/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82&t=1436)】 挑逗性。
+[[Yggdrasill/Decolonize Your Mind Society\|Decolonize Your Mind Society]]

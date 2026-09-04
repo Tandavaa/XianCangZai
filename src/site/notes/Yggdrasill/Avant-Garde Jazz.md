@@ -3,23 +3,24 @@
 ---
 
 
+## 音乐家
+
+[[Yggdrasill/Vladimir Miller\|Vladimir Miller]]
+
 [[Yggdrasill/Nicole M. Mitchell\|Nicole M. Mitchell]]
 
 [[Yggdrasill/Matana Roberts\|Matana Roberts]]
 
-### Mixtus Orbi
+[[Yggdrasill/Sera Kalo\|Sera Kalo]]
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=116129724893399&bvid=BV1kAftBcEW4&cid=36273064797&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+## 其他专辑
 
-> The Philharmonic Orchestra "Pro UNESCO"
+### Various–[Boycott Rhythm Machine](https://www.bilibili.com/video/BV1L3hg6eEvU/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82 )（2004）
 
-有些无聊。
+![](https://i.discogs.com/yeD_Ti5fvc6zyaXK3cRTUeLMjqzGyona_FePRMJXV1Y/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Mzg5/NTg1LTE2MjE5MzQ1/NDgtMTA2NS5qcGVn.jpeg)
 
-### Ex.II - Jazz Is Punk
+- 25:28 Song For Che ~ Reducing Agent：大友良英美而燥。
+- Bouns CD 由渋さ知らズ（不知通俗）制作
+	- Theme Of Inuhime：亦精彩。
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=116063085920394&bvid=BV1wTcJz5Ety&cid=36037328914&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
-【[02:04](https://www.bilibili.com/video/BV1wTcJz5Ety/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82&t=124)】 在喜剧中人声难得不喜剧。
-【[11:25](https://www.bilibili.com/video/BV1wTcJz5Ety/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82&t=685)】 念诗无聊，念诗之后才精彩。
-【[22:02](https://www.bilibili.com/video/BV1wTcJz5Ety/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82&t=1322)】 偏爱精神性。
-【[27:59](https://www.bilibili.com/video/BV1wTcJz5Ety/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82&t=1679)】 略略略的声音，开始绽放。

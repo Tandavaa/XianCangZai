@@ -3,12 +3,16 @@
 ---
 
 
-### CHROMAKOPIA（2024）
+### [CHROMAKOPIA](https://www.bilibili.com/video/BV16kSdYxEUd/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82 )（2024）
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113408426967627&bvid=BV16kSdYxEUd&cid=26569146560&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbRwXrjIpaFOSzdshT_MmuJHaw8hrQtmpAX0jA1mnMg2wZK0PBujhPlZiO&s=10)
 
-#### like him
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dgUHE8wWhiE?si=ze7vQ0hG_EQkfX8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### [like him](https://www.youtube.com/embed/dgUHE8wWhiE?si=ze7vQ0hG_EQkfX8F)
 
 3:00 后，如曼德博集。
+
+### [IGOR](https://www.bilibili.com/video/BV1CNRvBME3N/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82 )（2019）
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmWoEC3BsVXXnOXeSZ2dN6X4AXkfIwwqNOvnXA7cB_oQ&s=10)
+
+34:40 - GONE, GONE / THANK YOU (THANK YOU)

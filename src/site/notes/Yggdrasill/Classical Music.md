@@ -5,4 +5,8 @@
 
 ### 音乐家
 
-[[Yggdrasill/马勒\|马勒]]
+[[Yggdrasill/Ludwig van Beethoven\|Ludwig van Beethoven]]
+
+[[Yggdrasill/Franz Schubert\|Franz Schubert]]
+
+[[Yggdrasill/Felix Mendelssohn\|Felix Mendelssohn]]

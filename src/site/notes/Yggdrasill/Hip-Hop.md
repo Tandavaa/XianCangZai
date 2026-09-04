@@ -3,9 +3,17 @@
 ---
 
 
-### 音乐人
+### 类别
 
-[[Yggdrasill/Tyler, The Creator\|Tyler, The Creator]]
+[[Yggdrasill/Alternative Hip-Hop\|Alternative Hip-Hop]]
+
+[[Yggdrasill/Underground Hip-Hop\|Underground Hip-Hop]]
+
+[[Yggdrasill/Industrial Hip-Hop\|Industrial Hip-Hop]]
+
+[[Yggdrasill/Experimental Hip-Hop\|Experimental Hip-Hop]]
+
+### 音乐人
 
 [[Yggdrasill/Kanye West\|Kanye West]]
 
