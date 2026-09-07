@@ -11,6 +11,14 @@
 
 ![](https://i.kfs.io/album/global/6858591,0v1/fit/500x500.jpg)
 
+#### [Janine Jansen - International Chamber Music Festival](https://youtu.be/Vw1kcQ-QbZw?si=5fP7O0R5F1Xzdgpf)（2019）
+
+> Janine Jansen, Ludvig Gudim, Johan Dalene, Sonoko Miriam Welde [violin]
+> Amihai Grosz, Eivind Holtsmark Ringstad [viola]
+> Jens Peter Maintz, Alexander Warenberg [cello]
+> 
+> Recording: Friday the 27th of December 2019, live in Tivolivredenburg in Utrecht, The Netherlands.
+
 ### Piano Trio No. 1 in D minor, Op. 49（1839）
 
 #### [Casals, Thibaud, Cortot](https://youtu.be/pcJG55o70No?si=t4O6Ldj90HWFj2Zf) （1927）
