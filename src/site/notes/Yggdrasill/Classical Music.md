@@ -10,3 +10,7 @@
 [[Yggdrasill/Franz Schubert\|Franz Schubert]]
 
 [[Yggdrasill/Felix Mendelssohn\|Felix Mendelssohn]]
+
+### 演奏家
+
+[[Yggdrasill/Glenn Gould\|Glenn Gould]]

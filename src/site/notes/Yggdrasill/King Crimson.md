@@ -63,4 +63,6 @@ demo 式的前卫金属。KC 最冗长的专辑，人声、吉他尤其鼓的冗
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1uc5rumIqgtQYPXH1X7hEio_PBqyaUHR3_TKVmTSjBPvLQKDQ-WBcB_8J&s=10)
 
+KC《稀缺的神迹》；2011 年发行；与 1969 年的首专在直觉上相差无几：二者都不知有多超前。前摇只是作为流派式微的，它对人心中的统治力，是基于对领土的不断放弃，但若没有绝对的领悟，这样的放弃不过是太平天国式的农民起义罢了，当谨慎也。（2019）
+
 Mel Collins 的管乐是最有新鲜感的部分。

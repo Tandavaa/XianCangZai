@@ -9,6 +9,8 @@
 
 ### 音乐人
 
+[[Yggdrasill/Sainkho Namtchylak\|Sainkho Namtchylak]]
+
 [[Yggdrasill/丰江舟\|丰江舟]]
 
 #### 日本音响派
