@@ -13,19 +13,15 @@
 
 ### Coin Coin Chapter One: Gens de Couleur Libres (2011)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FYD1PZJm5Ds?si=9ALXGRn92Pj_Nlwl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![](https://f4.bcbits.com/img/a1404457399_16.jpg)
 
 【[6:10](https://youtu.be/FYD1PZJm5Ds?si=FfjU-wiuL1Y_UUqL&t=370)】 夜晚的山海经。
 【[19:33](https://youtu.be/FYD1PZJm5Ds?si=I3KaGGXBV72KtsQg&t=1171)】Song For Eulalie，华彩。
 【[50:21](https://youtu.be/FYD1PZJm5Ds?si=UZBmtlZVAsux3cCy&t=3018)】I Am，山间嘶吼。
 
-![Pasted image 20260409231720.png](/img/user/%E9%99%84%E4%BB%B6/attachment/Pasted%20image%2020260409231720.png)
-
-### Coin Coin Chapter Four: Memphis（2019）
+### [Coin Coin Chapter Four: Memphis](https://matana-roberts.bandcamp.com/album/coin-coin-chapter-four-memphis)（2019）
 
 ![](https://f4.bcbits.com/img/a1718811731_1x1_700.avif)
-
-<iframe style="border: 0; width: 400px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=3882932945/size=large/bgcol=ffffff/linkcol=63b2cc/artwork=small/transparent=true/" seamless><a href="https://matana-roberts.bandcamp.com/album/coin-coin-chapter-four-memphis">Coin Coin Chapter Four: Memphis by Matana Roberts</a></iframe>
 
 > Matana Roberts 带着她非凡的 Coin Coin 系列的第四章回归——这个项目因其激烈的美学原创性和不屈不挠的叙事力量而公正地赢得了最高的赞誉和广泛的评论界赞誉。2011 年至 2015 年发行的前三张 Coin Coin 专辑，绘制了现代/前卫作曲的多样化路径——Roberts 称之为“全景声音毯”——并按顺序从大型乐队到六重奏再到独奏，由 Roberts 对美国奴隶贸易遗产和美国身份/经验的档案研究以及个人深入的研究所统一。Roberts 还强调非男性主题，并使用一系列声乐和语言技巧来主题化这些其他性别的故事：唱说、沉浸式呓语吟诵、粗犷的宣泄嚎叫、歌剧式嗓音、温柔的摇篮曲、集体吟唱，以及各种美国民间传统和灵歌的恢复，无论是以片段形式出现还是作为未删减的套件。这种嗓音的根源来自她对主要选择乐器——**次中音萨克斯风**——的遗产的奉献。
 >

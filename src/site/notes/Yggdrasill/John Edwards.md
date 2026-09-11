@@ -11,6 +11,6 @@
 
 ![](https://f4.bcbits.com/img/a3576036918_1x1_700.avif)
 
-> John Edwards - double bass  
-> Luis Vicen - tetrumpet  
+> John Edwards - double bass
+> Luis Vicen - tetrumpet
 > Vasco Trilla - percussion

@@ -17,8 +17,6 @@
 
 ![](https://f4.bcbits.com/img/a2312347118_1x1_700.avif)
 
-<iframe style="border: 0; width: 400px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=3431189562/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://suncitygirls.bandcamp.com/album/dulce-original-soundtrack-recording">Dulce (Original Soundtrack Recording) by Sun City Girls</a></iframe>
-
 [Deception Reception](https://suncitygirls.bandcamp.com/track/deception-reception)：㖄㖄声，如笛的人声。
 [Sweet, Fatal Reflections](https://suncitygirls.bandcamp.com/track/sweet-fatal-reflections)：民谣的宽广性。
 [Unwind Your DNA](https://suncitygirls.bandcamp.com/track/unwind-your-dna)：膠布聲與 DNA 的放鬆之聲。
@@ -33,16 +31,12 @@
 
 ![](https://f4.bcbits.com/img/a366169546_1x1_700.avif)
 
-<iframe style="border: 0; width: 400px; height: 406px;" src="https://bandcamp.com/EmbeddedPlayer/album=2559895206/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://suncitygirls.bandcamp.com/album/carnival-folklore-resurrection-vol-5-severed-finger-with-a-wedding-ring">Carnival Folklore Resurrection Vol 5: Severed Finger with a Wedding Ring by Sun City Girls</a></iframe>
-
 [I Wanna Go to the Moon](https://suncitygirls.bandcamp.com/track/i-wanna-go-to-the-moon)：酒馆的酒鬼宇航员。
 [Chameleon 2000](https://suncitygirls.bandcamp.com/track/chameleon-2000)：变色龙是天然的迷幻宠物。
 
 #### Carnival Folklore Resurrection 6: Sumatran Electric Chair（2001）
 
 ![](https://f4.bcbits.com/img/a2447558695_1x1_700.avif)
-
-<iframe style="border: 0; width: 400px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=2500330827/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://suncitygirls.bandcamp.com/album/carnival-folklore-resurrection-vol-6-sumatran-electric-chair">Carnival Folklore Resurrection Vol 6: Sumatran Electric Chair by Sun City Girls</a></iframe>
 
 [My Friend Rain](https://suncitygirls.bandcamp.com/track/my-friend-rain)：苏门答腊流行采样？
 [Gardens Green With Broken Chests](https://suncitygirls.bandcamp.com/track/gardens-green-with-broken-chests)：不知名的虫叫。

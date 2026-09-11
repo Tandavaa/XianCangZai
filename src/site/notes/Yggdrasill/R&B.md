@@ -7,10 +7,5 @@
 
 [[Yggdrasill/Alternative R&B\|Alternative R&B]]
 
-### 音乐人
+[[Yggdrasill/Contemporary R&B\|Contemporary R&B]]
 
-
-
-[[Yggdrasill/Daniel Caesar\|Daniel Caesar]]
-
-[[Yggdrasill/RAYE\|RAYE]]

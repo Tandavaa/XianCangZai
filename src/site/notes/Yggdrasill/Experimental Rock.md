@@ -5,19 +5,18 @@
 
 ### 音乐人
 
+#### 美国
+
 [[Yggdrasill/Sun City Girls\|Sun City Girls]]
 
 [[Yggdrasill/Glenn Branca\|Glenn Branca]]
 
-### 流不尽许多愁（2024）
+#### 日本
 
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/54QN001CTUWuzZPYdCcp3Y?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+[[Yggdrasill/goat\|goat]]
 
-> 《流不尽许多愁》延续了之前《谁之歌》专辑，制作更精良，很多歌曲有大量留白，真正的“国风”，同时也很适合给孩子听。“点点杨花落砚池，提笔难续断肠诗。良药难解相思苦，黄金难买少年时。”（[link](https://mp.weixin.qq.com/s/DXQLhNv9-Go7fzidrKdj3A)）
+#### 中国
 
-### Joy in Fear
+[[Yggdrasill/欢庆\|欢庆]]
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=116106538848077&bvid=BV1gtfjBLEgv&cid=36189110700&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-
-Cold Heat：各种锣。
-Warped：中华鼓韵。
+[[Yggdrasill/木推瓜\|木推瓜]]

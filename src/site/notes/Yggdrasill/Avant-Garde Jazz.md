@@ -5,11 +5,15 @@
 
 ## 音乐家
 
-[[Yggdrasill/Vladimir Miller\|Vladimir Miller]]
+#### 美国
 
 [[Yggdrasill/Nicole M. Mitchell\|Nicole M. Mitchell]]
 
 [[Yggdrasill/Matana Roberts\|Matana Roberts]]
+
+[[Yggdrasill/Steve Lehman\|Steve Lehman]]
+
+#### 德国
 
 [[Yggdrasill/Sera Kalo\|Sera Kalo]]
 
@@ -22,5 +26,3 @@
 - 25:28 Song For Che ~ Reducing Agent：大友良英美而燥。
 - Bouns CD 由渋さ知らズ（不知通俗）制作
 	- Theme Of Inuhime：亦精彩。
-
-

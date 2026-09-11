@@ -5,11 +5,9 @@
 
 ![](https://f4.bcbits.com/img/0039039671_10.jpg)
 
-### caroline 2（2025）
+### [caroline 2](https://www.bilibili.com/video/BV1yD7Pz1Eqz/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82 )（2025）
 
 ![](https://f4.bcbits.com/img/a1516157957_1x1_700.avif)
-
-<iframe style="border: 0; width: 400px; height: 406px;" src="https://bandcamp.com/EmbeddedPlayer/album=4239600946/size=large/bgcol=ffffff/linkcol=0687f5/license_id=4712/artwork=small/transparent=true/" seamless><a href="https://caroline.bandcamp.com/album/caroline-2">caroline 2 by caroline</a></iframe>
 
 [Two riders down](https://caroline.bandcamp.com/track/two-riders-down)：两人坠马。
 

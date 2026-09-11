@@ -28,6 +28,12 @@
 
 <cite>2025.6.26<br>2025.7.1<br>2025.10.9、16、31<br>2026.3.1、20<br>2026.9.7</cite>
 
+#### 非後記——送良弼
+
+<small>你在經歷 X 國，我也經歷 X 國。修復一切的未來指着今日：X 國一，X 國二。</small>
+
+<cite>2026.9.11</cite>
+
 <div class="spacer"></div>
 
 <p style="text-align:center;color:#B54434;font-size:0.8em;">▮ 相𨳹󾗖􁴆 ▮</p>

@@ -14,3 +14,5 @@
 ![](https://f4.bcbits.com/img/a1535970238_1x1_700.avif)
 
 - [To the Workers of the Rock River Valley Region, I Have an Idea Concerning Your Predicament](https://sufjanstevens.bandcamp.com/track/to-the-workers-of-the-rock-river-valley-region-i-have-an-idea-concerning-your-predicament)
+
+专辑翻译：[【【全专翻译+万字解析】城市颂歌！一张专辑讲完伊利诺伊自然人文历史，Sufjan 对热土上人物群像的赞颂与思索【Illinois-Sufjan Stevens】】](https://www.bilibili.com/video/BV1Fd4qzREux/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82)

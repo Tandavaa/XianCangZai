@@ -15,18 +15,14 @@
 
 [[Yggdrasill/Post-Rock\|Post-Rock]]
 
+[[Yggdrasill/Post-Punk\|Post-Punk]]
+
+[[Yggdrasill/Art Rock\|Art Rock]]
+
 [[Yggdrasill/Blues Rock\|Blues Rock]]
 
 [[Yggdrasill/Folk Rock\|Folk Rock]]
 
 [[Yggdrasill/Indie Rock\|Indie Rock]]
 
-### 音乐人
-
-[[Yggdrasill/腰\|腰]]
-
-[[Yggdrasill/万能青年旅店\|万能青年旅店]]
-
-[[Yggdrasill/木推瓜\|木推瓜]]
-
-[[Yggdrasill/苏紫旭\|苏紫旭]]
+[[Yggdrasill/Emo\|Emo]]

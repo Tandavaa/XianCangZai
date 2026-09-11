@@ -9,20 +9,20 @@
 
 #### 文化资产阶级对布罗兹曼缺乏洞见
 
-> 布罗茨曼出生于德国北部的雷姆沙伊德，曾学习艺术并从事绘画，后来在单簧管和萨克斯风中找到了他的画笔、刮刀与调色盘。他身处一场自诩为"打开世界"的运动核心。尽管有人理解他的艺术追求，共鸣于他需要发声的渴望，但他也常遭遇质疑：**文化资产阶级似乎缺乏洞见，未能将他对于音乐材料的激进质询视为建设性力量或任何积极的艺术推动**。他的开放性首先体现在接纳陌生与未知，并崇尚一种深具浪漫精神的理念——尽可能让自我被当下的力量与灵感所指引。[^1]
+> 布罗茨曼出生于德国北部的雷姆沙伊德，曾学习艺术并从事绘画，后来在单簧管和萨克斯风中找到了他的画笔、刮刀与调色盘。他身处一场自诩为「打开世界」的运动核心。尽管有人理解他的艺术追求，共鸣于他需要发声的渴望，但他也常遭遇质疑：**文化资产阶级似乎缺乏洞见，未能将他对于音乐材料的激进质询视为建设性力量或任何积极的艺术推动**。他的开放性首先体现在接纳陌生与未知，并崇尚一种深具浪漫精神的理念——尽可能让自我被当下的力量与灵感所指引。[^1]
 
 ### Machine Gun（1968）
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115202129397990&bvid=BV1F3pcz5Eta&cid=32378523103&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8ogPkquS6M4dvA7L3ZNYWsutR90fFw-G4zWOZx1dQtY-7oUA5ePQUnLEp&s=10)
 
 【[29:21](https://www.bilibili.com/video/BV1F3pcz5Eta/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82&t=1761)】 出现旋律性。
 【[50:45](https://www.bilibili.com/video/BV1F3pcz5Eta/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82&t=3045)】 交流极精彩。
 
 > 『Machine Gun』诞生于 1968 年，由彼得·布罗兹曼（Peter Brötzmann）领衔的八重奏团录制，是自由爵士（Free Jazz）乃至整个 20 世纪先锋音乐史上的珠穆朗玛峰。它被广泛视为欧洲即兴音乐彻底摆脱美国爵士乐范式、确立自身激进美学的「独立宣言」。
 
-### Full Blast+Friends - Crumbling Brain（2010）
+### Full Blast+Friends - [Crumbling Brain](https://fullblastjazz.bandcamp.com/album/crumbling-brain)（2010）
 
-<iframe style="border: 0; width: 400px; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=2685210320/size=large/bgcol=ffffff/linkcol=63b2cc/artwork=small/transparent=true/" seamless><a href="https://fullblastjazz.bandcamp.com/album/crumbling-brain">Crumbling Brain by FULL BLAST &amp; FRIENDS</a></iframe>
+![](https://f4.bcbits.com/img/a3990321253_1x1_700.avif)
 
 > Alto Saxophone, Tenor Saxophone–Mars Williams
 > Alto Saxophone, Tenor Saxophone, Clarinet–Peter Brötzmann

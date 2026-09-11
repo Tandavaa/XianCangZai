@@ -3,10 +3,15 @@
 ---
 
 
+#### 加拿大
+
+[[Yggdrasill/Daniel Caesar\|Daniel Caesar]]
+
+#### 英国
+
 [[Yggdrasill/Blood Orange\|Blood Orange]]
 
-### Piss in the Wind（2026）
+#### 日本
 
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7MLyEn1CPizpS8bjZ7zzrT?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+[[Yggdrasill/Joji\|Joji]]
 
-> 无论多么努力，总感觉有些不对劲。那些不可避免地糟糕的品质，只能被描述为“油管音乐。”（[link](https://pitchfork.com/reviews/albums/joji-piss-in-the-wind/)）

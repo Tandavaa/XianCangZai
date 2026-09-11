@@ -5,7 +5,7 @@
 
 ### A Message From The Tribe  来自部落的讯息（1974）
 
-<iframe style="border: 0; width: 400px; height: 439px;" src="https://bandcamp.com/EmbeddedPlayer/album=634595610/size=large/bgcol=ffffff/linkcol=63b2cc/artwork=small/transparent=true/" seamless><a href="https://amessagefromthetribe.bandcamp.com/album/a-message-from-the-tribe">A Message From The Tribe by Wendell Harrison &amp; Phil Ranelin</a></iframe>
+![](https://f4.bcbits.com/img/a1105491663_1x1_700.avif)
 
 > A面收录了由Wendall Harrison所作的《**Evening With The Devil**》组曲，B面则是Phil Ranelin 所作的组曲《What Now？》。这些作品充满了与社会以及政治话题的紧密连接，带有十分显著的时代气息。就音乐方面而言，这张作品呈现出深沉且灵性的调性，融入了浓厚的Soul Jazz气息以及Bebop的锐利。这是一张兼具黑人群体解放诉求与艺术表达的“黑色爵士”作品。纵使这两位艺术家作曲风格并不一致，却在一致的政治与精神诉求上达成统一，互为呼应。本张专辑的结构性以及文学性使之成为Tribe厂牌历史上最具吸引力的一张作品。
 >
@@ -21,18 +21,18 @@
 
 ### An Evening with The Devil（1972）
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sTEVljdZnHY?si=UXjPyrh8U9K2QZiE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![](https://i.discogs.com/ZWyOMN0qYtxKOgXcJ2PxA6rXogNEQ8a7MUCSewErGqk/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzIy/NzEtMTU0NjgxMjc2/NS00MTY1LmpwZWc.jpeg)
 
-> 这张充满攻击力且十分先锋的专辑是Wendall Harrison的首张个人专辑。作品以诗歌口述开场贯穿前后，构成一种口语剧场式的叙事结构，既是集体意识的统一，也是理念宣言。受到黑豹党以及反体制运动的一系列影响，Harrison通过器乐重新刻画了底特律地区的左翼抵抗以及黑人种族内部的觉醒图景。尽管作品不乏鲜明的政治元素，但同时展现出Harrison本人精湛且深厚的音乐修养与灵性探索的独特气质。正因如此，尽管专辑形式上十分实验，但仍旧反映出Harrison对于音乐的原始追求——通过自由爵士语系来传播精神的解放与思想的觉醒。（[link](https://mp.weixin.qq.com/s/wIwpfIxSO6swZf58LZa26w)）
+> 这张充满攻击力且十分先锋的专辑是 Wendall Harrison 的首张个人专辑。作品以诗歌口述开场贯穿前后，构成一种口语剧场式的叙事结构，既是集体意识的统一，也是理念宣言。受到黑豹党以及反体制运动的一系列影响，Harrison 通过器乐重新刻画了底特律地区的左翼抵抗以及黑人种族内部的觉醒图景。尽管作品不乏鲜明的政治元素，但同时展现出 Harrison 本人精湛且深厚的音乐修养与灵性探索的独特气质。正因如此，尽管专辑形式上十分实验，但仍旧反映出 Harrison 对于音乐的原始追求——通过自由爵士语系来传播精神的解放与思想的觉醒。（[link](https://mp.weixin.qq.com/s/wIwpfIxSO6swZf58LZa26w)）
 
 [4:44](https://youtu.be/sTEVljdZnHY?si=IAdEMt9VZlxhzLV3&t=284)：哨聲。
 [6:00](https://youtu.be/sTEVljdZnHY?si=31Eig2QNjxwKaKXf&t=361)：Charles Eubanks 的電鋼琴豁然。有些小號的橋接句子不好。
 
 ### Gemini II (1974)
 
-#### Space Odyssey
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxHdvfw5Sd7ciSJqZEFJmfKzig8XQUbDNbBUL4e0nkmgAZOXE0db7lUqc&s=10)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S1o4HPZDnoA?si=fymf4GquO1yyxAKx&amp;start=361" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### [Space Odyssey](https://youtu.be/S1o4HPZDnoA?si=WCllKFXgzCevqcia)
 
 > 尾川评：
 >
@@ -40,13 +40,13 @@
 >
 > 译者评：
 >
-> 开篇《Space Odyssey》应该是这张专辑中最值得关注的一首，当下提到太空相关类型作品，或许映入脑中的事开阔声场之下高混响的浮游律动，这或许主流乐手更加乐意去尝试的手法，使用宏大叙事将听众拉入一种不可明状的冥想空间。而这张作品一反常态，通过电贝斯与电气音色的混合搭配，极低的混响，以更加粗糙的低频使得Belgrave的小号肆意纵情，这不失为另一种Cosmic。（[link](https://mp.weixin.qq.com/s/wIwpfIxSO6swZf58LZa26w)）
+> 开篇《Space Odyssey》应该是这张专辑中最值得关注的一首，当下提到太空相关类型作品，或许映入脑中的事开阔声场之下高混响的浮游律动，这或许主流乐手更加乐意去尝试的手法，使用宏大叙事将听众拉入一种不可明状的冥想空间。而这张作品一反常态，通过电贝斯与电气音色的混合搭配，极低的混响，以更加粗糙的低频使得 Belgrave 的小号肆意纵情，这不失为另一种 Cosmic。（[link](https://mp.weixin.qq.com/s/wIwpfIxSO6swZf58LZa26w)）
 
 這首高開低走。
 
 ### Voice & Rhythms Of  The Creative Profile（1974）
 
-<iframe style="border: 0; width: 400px; height: 373px;" src="https://bandcamp.com/EmbeddedPlayer/album=864447079/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://haroldmckinney.bandcamp.com/album/voices-and-rhythms-of-the-creative-profile">Voices And Rhythms Of The Creative Profile by Harold McKinney</a></iframe>
+![](https://f4.bcbits.com/img/a2074958823_1x1_700.avif)
 
 > 专辑名中 “Creative Profiles”原本为Harold 创设的五重奏团队代号。本作器乐编排中加入了非洲打击乐音色，以及乐队人声参与，共同构成了这张专辑的灵魂核心。第一轨《Ode To Africa》在律动层面极具推动力和动态感，可谓是“Afro-Jazz Funk”，第四轨《In The Moog》中合成器音色的参与十分具有胆识，奔放之余令人惊颤。紧密的和声编排，以及丰富的律动使得这张作品堪称杰作。
 >
@@ -57,7 +57,7 @@
 
 ### The Time Is Now! (1974)
 
-<iframe style="border: 0; width: 400px; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=397926849/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://ranelin.bandcamp.com/album/the-time-is-now">The Time Is Now! by Phil Ranelin</a></iframe>
+![](https://f4.bcbits.com/img/a315457941_1x1_700.avif)
 
 > 作为Phil Ranelin首张个人领衔作品，这张专辑无疑是他与Wendall Harrison合作之后最具创造力的作品。这张专辑展现出Phil本人对于彼时社会议题与艺术家自由精神的真实反馈，整体风格介于自由爵士与Soul Jazz之间，是一张既具有理性思考又不失感性热力的作品。整体呈现出一种夯实的节奏与根源的非洲旋律交织的声音景观。整张作品编曲密度大，节奏鲜明，Soul Jazz的氛围十分浓郁，钢琴与贝斯部分尤其耐人寻味，展现出底特律地区独特且强烈的社会意识与艺术深度。（[link](https://mp.weixin.qq.com/s/wIwpfIxSO6swZf58LZa26w)）
 
@@ -75,7 +75,7 @@
 
 ### Vibes From The Tribe（1976）
 
-<iframe style="border: 0; width: 400px; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=589372869/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://ranelin.bandcamp.com/album/vibes-from-the-tribe">Vibes From The Tribe by Phil Ranelin</a></iframe>
+![](https://f4.bcbits.com/img/a485988387_1x1_700.avif)
 
 > 这张作品标志着Tribe Records的厂牌精神走向成熟阶段，以非洲中心主义为内核驱动来表现积极正面和富有灵魂深度的态度。Phil Ranelin的长号音色在此被赋予更深的广度与表现力。
 >
@@ -85,7 +85,7 @@
 
 ### Reflection In The Sea Of Nurnen（1975）
 
-<iframe style="border: 0; width: 400px; height: 439px;" src="https://bandcamp.com/EmbeddedPlayer/album=1211094021/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://doughammond.bandcamp.com/album/reflections-in-the-sea-of-nurnen">REFLECTIONS IN THE SEA OF NURNEN by Doug Hammond</a></iframe>
+![](https://f4.bcbits.com/img/a1790776396_1x1_700.avif)
 
 > Doug Hammond与David Durrah当年在完成这张专辑的录音后移居纽约，原计划将这张作品的发行权交给StrataEast，随后由于Durrah本人与Wendall Harrison的友好关系随即决定交由Tribe发行。值得一提的是，David Durrah与Strata Records的创始人Kenny Cox的交情颇深，前者为Kenny在Blue Note发行的第一张专辑做出不可忽视的贡献。
 >

@@ -3,36 +3,34 @@
 ---
 
 
-### Blue Train（1958）
+### [Blue Train](https://www.bilibili.com/video/BV13cRcYeEop/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82 )（1958）
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114112583500011&bvid=BV13cRcYeEop&cid=28708768255&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/John_Coltrane_-_Blue_Train.jpg/1280px-John_Coltrane_-_Blue_Train.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail)
 
-### Giant Steps（1960）
+### [Giant Steps](https://www.bilibili.com/video/BV1LwrCYdE8p/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82 )（1960）
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xy_fxxj1mMY?si=j_iMEnM6CJbnVOyH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk5PBM-RWRmQ5eWsRd5vPAfYRNS3ubRX0VEF8TnYa_FA&s=10)
 
-### My Favorite Things（1961）
+### [My Favorite Things](https://www.bilibili.com/video/BV12h4y1k7ow/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82 )（1961）
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=659086255&bvid=BV12h4y1k7ow&cid=1216254824&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpgeO6dPrY5dZ73FJnXqTXhGyv3ZYfJxQj0EPM4r4FFT0GYuLD8m3WfvbI&s=10)
 
 柯川光明。
 
-### A Love Supreme（1965）
+### [A Love Supreme](https://www.bilibili.com/video/BV1gW4y1K7kG/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82 )（1965）
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=946705829&bvid=BV1gW4y1K7kG&cid=934248485&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+![](https://i.scdn.co/image/ab67616d0000b273ea42191f549dce4d9c8ecd1a)
 
-### Ascension（1966）
+### [Ascension](https://www.bilibili.com/video/BV1qu411Q7eN/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82 )（1966）
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=509584948&bvid=BV1qu411Q7eN&cid=544712516&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+![](https://i.scdn.co/image/ab67616d0000b273870242be73ff3269f9b86689)
 
-### Meditations (1966)
+### [Meditations](https://www.bilibili.com/video/BV1WB4y167dJ/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82 ) (1966)
 
 ![](https://m.media-amazon.com/images/I/41V2819P8DL._SX300_SY300_QL70_FMwebp_.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TuzfMR-7v1I?si=5RqYshChJCD8B4wF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+### [Sun Ship](https://www.bilibili.com/video/BV1SWvhenEXq/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82 )（1971）
 
-### Sun Ship（1971）
-
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=112885648854809&bvid=BV1SWvhenEXq&cid=500001634612271&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Cxxfo372uVPpj3dvHBkvkchvO9BPD7QU89l2iFFBy8dwB59eHbgCa_zT&s=10)
 
 生物狂乱日之舟

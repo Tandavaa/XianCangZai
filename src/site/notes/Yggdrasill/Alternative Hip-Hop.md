@@ -5,4 +5,8 @@
 
 ### 音乐人
 
+#### 美国
+
+[[Yggdrasill/Kanye West\|Kanye West]]
+
 [[Yggdrasill/Tyler, The Creator\|Tyler, The Creator]]

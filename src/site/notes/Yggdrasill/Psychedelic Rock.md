@@ -3,16 +3,16 @@
 ---
 
 
-## 类别
+### 类别
 
 [[Yggdrasill/Raga Rock\|Raga Rock]]
 
-## 音乐人
+### 音乐人
 
-### 日本
+#### 日本
 
 [[Yggdrasill/Mainliner\|Mainliner]]
 
-### 匈牙利
+#### 匈牙利
 
 [[Yggdrasill/Decolonize Your Mind Society\|Decolonize Your Mind Society]]

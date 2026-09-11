@@ -3,6 +3,10 @@
 ---
 
 
+### 类型
+
+[[Yggdrasill/Contemporary Classical\|Contemporary Classical]]
+
 ### 音乐家
 
 [[Yggdrasill/Ludwig van Beethoven\|Ludwig van Beethoven]]

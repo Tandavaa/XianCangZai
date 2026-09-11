@@ -5,7 +5,7 @@
 
 ### Liege & Lief（1969）
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lg2-o9vrF_k?si=pf6xgJ0R96fnxino" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqTSvjGvFXGWkVwveZcxF2SnhjLeSazYmce2po6b439wvLDuhxvSdpuxA&s=10)
 
 > 1969年5月，费尔波特公约乐团在高速公路发生严重车祸，导致鼓手马丁·兰布尔（Martin Lamble）遇难。这一悲剧促使幸存成员——包括核心人物理查德·汤普森（Richard Thompson）、阿什利·哈钦斯（Ashley Hutchings）以及主唱桑迪·丹尼（Sandy Denny）——重新审视其创作方向。在此之前，乐团主要模仿美国西海岸的民谣摇滚风格。在《列日与利夫》中，他们转向了对不列颠群岛本土遗产的深度挖掘，试图通过电声乐器重新诠释古老的口头叙事传统。
 >

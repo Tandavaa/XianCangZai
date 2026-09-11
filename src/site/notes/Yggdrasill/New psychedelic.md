@@ -5,7 +5,14 @@
 
 ### 音乐人
 
-- [[Yggdrasill/Fishmans\|Fishmans]]
-- [[Yggdrasill/Adrian Quesada\|Adrian Quesada]]
-- [[Yggdrasill/Mid-Air Thief\|Mid-Air Thief]]
+#### 日本
 
+[[Yggdrasill/Fishmans\|Fishmans]]
+
+#### 美国
+
+[[Yggdrasill/Adrian Quesada\|Adrian Quesada]]
+
+#### 韩国
+
+[[Yggdrasill/Mid-Air Thief\|Mid-Air Thief]]

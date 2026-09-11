@@ -5,6 +5,10 @@
 
 ### 类型
 
+[[Yggdrasill/Traditional African Music\|Traditional African Music]]
+
+[[Yggdrasill/Andean Folk\|Andean Folk]]
+
 [[Yggdrasill/蒙古音乐\|蒙古音乐]]
 
 [[Yggdrasill/彝族民歌\|彝族民歌]]

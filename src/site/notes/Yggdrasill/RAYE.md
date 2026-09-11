@@ -3,6 +3,6 @@
 ---
 
 
-### THIS MUSIC MAY CONTAIN HOPE.（2026）
+### [THIS MUSIC MAY CONTAIN HOPE.](https://www.bilibili.com/video/BV1EfXsBeE2q/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82 )（2026）
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=116295064360461&bvid=BV1EfXsBeE2q&cid=36997169355&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+![](https://i.scdn.co/image/ab67616d0000b27397c0928704e5a2bd8d4c5b90)

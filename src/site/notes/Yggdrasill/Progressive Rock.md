@@ -11,9 +11,11 @@
 
 [[Yggdrasill/Yes\|Yes]]
 
+[[Yggdrasill/Van der Graaf Generator\|Van der Graaf Generator]]
+
 #### 日本
 
-[[Yggdrasill/J・A・シーザー (J・A・Caesar)\|J・A・シーザー (J・A・Caesar)]]
+[[Yggdrasill/J・A・シーザー （寺原孝明）\|J・A・シーザー （寺原孝明）]]
 
 #### 美国
 

@@ -13,10 +13,8 @@
 
 [[Yggdrasill/Experimental Hip-Hop\|Experimental Hip-Hop]]
 
-### 音乐人
+[[Yggdrasill/Jazz Hip-Hop\|Jazz Hip-Hop]]
 
-[[Yggdrasill/Kanye West\|Kanye West]]
+[[Yggdrasill/Boom Bap\|Boom Bap]]
 
-[[Yggdrasill/陳嫺靜\|陳嫺靜]]
-
-[[Yggdrasill/蛋堡\|蛋堡]]
+[[Yggdrasill/Memphis Rap\|Memphis Rap]]

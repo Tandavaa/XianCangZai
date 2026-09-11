@@ -3,10 +3,8 @@
 ---
 
 
-### Nothing Much Better To Do（1994）
+### 音乐人
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=116103753764763&bvid=BV1NQfVBwEdF&cid=36182884955&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+#### 日本
 
-> Hiroshi Fujiwara
-
-不如流行。
+[[Yggdrasill/藤原浩\|藤原浩]]

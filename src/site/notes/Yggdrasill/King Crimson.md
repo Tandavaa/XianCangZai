@@ -33,6 +33,10 @@
 
 ![](https://m.media-amazon.com/images/I/71rbcAku7xL._UF1000,1000_QL80_.jpg)
 
+#### Thela Hun Ginjeet
+
+[【【歌词翻译】King Crimson - Thela Hun Ginjeet（昃柆俒劤岌）】](https://www.bilibili.com/video/BV1V84TzcESG/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82)
+
 ### [Beat](https://www.bilibili.com/video/BV1SXXVYbEPr/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82 )（1982）
 
 ![](https://upload.wikimedia.org/wikipedia/commons/1/12/King_Crimson_-_Beat_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original)

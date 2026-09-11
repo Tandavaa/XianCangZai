@@ -5,7 +5,17 @@
 
 ## 类型
 
+[[Improvised Music\|Improvised Music]]
+
 [[Yggdrasill/Free improvisation\|Free Improvisation]]
+
+[[Yggdrasill/Drone\|Drone]]
+
+[[Yggdrasill/Sound Collage\|Sound Collage]]
+
+[[Yggdrasill/Sound Art\|Sound Art]]
+
+[[Yggdrasill/Minimalism\|Minimalism]]
 
 ## 音乐人
 
@@ -32,3 +42,11 @@
 [[Yggdrasill/松原幸子\|松原幸子]]
 
 [[Yggdrasill/秋山徹次\|秋山徹次]]
+
+### 印尼
+
+[[Yggdrasill/KUNTARI\|KUNTARI]]
+
+### 以色列
+
+[[Yggdrasill/Tom Soloveitzik\|Tom Soloveitzik]]

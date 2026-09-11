@@ -13,7 +13,7 @@
 
 ### the Christ Tree (1975)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mSlLsvgSTWE?si=G2upWniOm04ahoo6&amp;start=617" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![](https://i.discogs.com/nkajRVwl2AYkzUqBvZJwuFxBm1TmqqLW3edyTt3egXM/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDY3/MTMtMTI3ODU0MTc3/Ny5qcGVn.jpeg)
 
 > 关于《基督之树》（The Christ Tree）这一录音文献，其在音乐史中的意义不仅在于其作为“树群社区”（The Trees Community）唯一的正式出版物，更在于它在20世纪70年代后期的民谣实验中，提供了一种极为罕见的、融合了苦修精神与多元文化色彩的音响范本。该专辑于1975年录制，并以私人出版（Private Press）的形式发行，其制作过程本身即是一场集体性的宗教实践。
 >
