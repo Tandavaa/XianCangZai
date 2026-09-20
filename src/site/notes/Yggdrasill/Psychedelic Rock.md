@@ -5,6 +5,8 @@
 
 ### 类别
 
+[[Yggdrasill/Canterbury Scene\|Canterbury Scene]]
+
 [[Yggdrasill/Raga Rock\|Raga Rock]]
 
 ### 音乐人

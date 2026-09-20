@@ -3,4 +3,14 @@
 ---
 
 
+### 音乐人
+
+#### 美国
+
 [[Yggdrasill/Charles Mingus\|Charles Mingus]]
+
+[[Yggdrasill/Kenny Dorham\|Kenny Dorham]]
+
+[[Yggdrasill/Johnny Griffin\|Johnny Griffin]]
+
+[[Yggdrasill/Sonny Rollins\|Sonny Rollins]]

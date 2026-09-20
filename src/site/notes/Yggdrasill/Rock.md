@@ -7,6 +7,8 @@
 
 [[Yggdrasill/Psychedelic Rock\|Psychedelic Rock]]
 
+[[Yggdrasill/Garage Rock\|Garage Rock]]
+
 [[Yggdrasill/New psychedelic\|New psychedelic]]
 
 [[Yggdrasill/Progressive Rock\|Progressive Rock]]
@@ -24,5 +26,7 @@
 [[Yggdrasill/Folk Rock\|Folk Rock]]
 
 [[Yggdrasill/Indie Rock\|Indie Rock]]
+
+[[Yggdrasill/Shoegazing\|Shoegazing]]
 
 [[Yggdrasill/Emo\|Emo]]

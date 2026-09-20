@@ -5,7 +5,7 @@
 
 ### 类别
 
-[[Wandelweiser\|Wandelweiser]]
+[[Yggdrasill/Wandelweiser\|Wandelweiser]]
 
 ### 音乐人
 

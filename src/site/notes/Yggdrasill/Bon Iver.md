@@ -15,9 +15,15 @@
 
 ![](https://ts4.tc.mm.bing.net/th/id/OIP-C.z4dSqnwpDmhCEAHfZCATOQHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3)
 
+### [i,i](https://www.bilibili.com/video/BV1Ye4y137iu/?p=2&share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82 )（2019）
+
+![](https://upload.wikimedia.org/wikipedia/en/0/04/Bon_Iver_-_I%2C_I.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original)
+
 ### [Bon Iver]( https://www.bilibili.com/video/BV1vfXpBdEdc/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82 )（2011）
 
 ![](https://i.etsystatic.com/5503952/r/il/3c9cb0/688467810/il_1588xN.688467810_9fj0.jpg)
+
+幻絕的電子田園
 
 ### [For Emma, Forever Ago](https://www.bilibili.com/video/BV1oss7zxEv9/?spm_id_from=333.337.search-card.all.click&vd_source=320867b9d01b1c4e15d8a541d4be3a44)（2008）
 

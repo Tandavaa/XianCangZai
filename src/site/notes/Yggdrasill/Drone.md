@@ -5,6 +5,6 @@
 
 #### 英国
 
-[[Sholto Dobie\|Sholto Dobie]]
+[[Yggdrasill/Sholto Dobie\|Sholto Dobie]]
 
 [[Yggdrasill/Ash Fure\|Ash Fure]]

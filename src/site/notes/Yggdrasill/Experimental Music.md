@@ -5,7 +5,7 @@
 
 ## 类型
 
-[[Improvised Music\|Improvised Music]]
+[[Yggdrasill/Improvised Music\|Improvised Music]]
 
 [[Yggdrasill/Free improvisation\|Free Improvisation]]
 
@@ -16,6 +16,8 @@
 [[Yggdrasill/Sound Art\|Sound Art]]
 
 [[Yggdrasill/Minimalism\|Minimalism]]
+
+[[Yggdrasill/Underground Music\|Underground Music]]
 
 ## 音乐人
 

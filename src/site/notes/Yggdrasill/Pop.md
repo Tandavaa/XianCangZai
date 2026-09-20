@@ -3,11 +3,19 @@
 ---
 
 
-### 风格
+### 类型
 
 [[Yggdrasill/Art Pop\|Art Pop]]
 
 [[Yggdrasill/J-Pop\|J-Pop]]
+
+[[Yggdrasill/synth-pop\|synth-pop]]
+
+[[Yggdrasill/Chamber Pop\|Chamber Pop]]
+
+[[Yggdrasill/City Pop\|City Pop]]
+
+[[Yggdrasill/Singer-Songwriter\|Singer-Songwriter]]
 
 [[Yggdrasill/华语流行\|华语流行]]
 

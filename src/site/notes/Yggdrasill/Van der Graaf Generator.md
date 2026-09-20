@@ -9,6 +9,10 @@
 >
 > 乐队最具代表性的时期集中在 1970 年至 1971 年间的 _The Least We Can Do Is Wave to Each Other_、_H to He, Who Am the Only One_ 和 _Pawn Hearts_，其中阴郁、实验性的声音和复杂但并不炫技的结构使他们成为英国前卫摇滚中最具独特性的乐队之一。1972 年首次解散后，乐队于 1975 年重组，并以 _Godbluff_、_Still Life_ 和 _World Record_ 展开一个更加紧凑直接的阶段；1978 年再次解散。2005 年，Hammill、Banton 与 Evans 重新组成三人阵容，此后继续创作和演出。
 
+### [The Aerosol Grey Machine](https://music.163.com/album?id=445616&uct2=U2FsdGVkX19asmZjQVep7dQnwYOaG72TSFlk1PeSUbc=)（1969）
+
+![](https://m.media-amazon.com/images/I/51ldE+riolL._UF1000,1000_QL80_.jpg)
+
 ### [Godbluff](https://www.bilibili.com/video/BV1av3b6wEx3/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82 )（1975）
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3iG987ILaOP9iPbGe7y03I673TOOZZtadTYvNebqXNM1j3B93iaLqqtbzQWjy_M85c5weStjUDn5_IRpeqZYpxkboXDSVl92ORcSGBPbg7-TOhLAQijMhOS-zhRRDLv7mvBt61INzbHM/s320/front.jpg)

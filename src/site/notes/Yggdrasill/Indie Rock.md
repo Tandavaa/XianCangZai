@@ -11,6 +11,14 @@
 
 [[Yggdrasill/Car Seat Headrest\|Car Seat Headrest]]
 
+[[Yggdrasill/Phoebe Bridgers\|Phoebe Bridgers]]
+
 #### 加拿大
 
-[[Chad VanGaalen\|Chad VanGaalen]]
+[[Yggdrasill/Arcade Fire\|Arcade Fire]]
+
+[[Yggdrasill/Chad VanGaalen\|Chad VanGaalen]]
+
+#### 日本
+
+[[Yggdrasill/never young beach\|never young beach]]

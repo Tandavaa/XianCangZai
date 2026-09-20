@@ -3,6 +3,18 @@
 ---
 
 
+### [At Wilshire-Ebell](https://www.bilibili.com/video/BV1pN1cYbEFA/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82 ) (1953)
+
+![](https://m.media-amazon.com/images/I/61q2zyOJK3L._UF894,1000_QL80_.jpg)
+
+### [Newport 1958](https://www.bilibili.com/video/BV1UZyrYnEiR/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82 )
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfF-7OGDSjZfWu3RIduIDK1UDRe9lyv7NI9_Krd0T8gADRKyLBPFLjbMU&s=10)
+
+### [Time Further Out](https://www.bilibili.com/video/BV1DchizjEN2/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82 )（1961）
+
+![](https://upload.wikimedia.org/wikipedia/en/a/a7/Dave_Brubeck_-_Time_Further_Out.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original)
+
 ### Jazz Impressions Of Japan（1964）
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrG2GlwdULkKKgxxx9T2mauL4fiupJel5nOPAjRvwrvpn01A7UxM7C8CU&s=10)
@@ -15,3 +27,7 @@
 
 【[15:44](https://www.bilibili.com/video/BV15F6WYYExN/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82&t=944)】快速中的极沉静。
 【[21:09](https://www.bilibili.com/video/BV15F6WYYExN/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82&t=1269)】今日听许多先锋，在这里听到最扎实的鼓，雷声。可解痞闷。
+
+### [Take The A Train](https://www.bilibili.com/video/BV1Xj411n7MZ/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82 ) (1965)
+
+![](https://i.discogs.com/TzlUU2Pt7d9GivYufLyNOmNO7XSKMqKlD8Zyd-mTQ0c/rs:fit/g:sm/q:90/h:547/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzQ4/Mzk5LTE1NTI1MzAx/NTQtODI0My5qcGVn.jpeg)

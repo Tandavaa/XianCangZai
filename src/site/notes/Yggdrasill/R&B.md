@@ -9,3 +9,4 @@
 
 [[Yggdrasill/Contemporary R&B\|Contemporary R&B]]
 
+[[Yggdrasill/华语 R&B\|华语 R&B]]

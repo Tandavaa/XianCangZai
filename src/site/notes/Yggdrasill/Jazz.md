@@ -7,6 +7,10 @@
 
 [[Yggdrasill/Hard Bop\|Hard Bop]]
 
+[[Yggdrasill/Post-Bop\|Post-Bop]]
+
+[[Yggdrasill/Big Band\|Big Band]]
+
 [[Yggdrasill/Cool Jazz\|Cool Jazz]]
 
 [[Yggdrasill/Model Jazz\|Model Jazz]]
@@ -30,6 +34,8 @@
 [[Yggdrasill/African Jazz\|African Jazz]]
 
 ### 音樂家
+
+[[Yggdrasill/Miles Davis\|Miles Davis]]
 
 [[Yggdrasill/John Coltrane\|John Coltrane]]
 

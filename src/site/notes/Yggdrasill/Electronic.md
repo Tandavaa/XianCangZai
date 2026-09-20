@@ -14,3 +14,7 @@
 [[Yggdrasill/Synthwave\|Synthwave]]
 
 [[Yggdrasill/Dungeon Synth\|Dungeon Synth]]
+
+[[Yggdrasill/House\|House]]
+
+[[Yggdrasill/Experimental Electronic\|Experimental Electronic]]

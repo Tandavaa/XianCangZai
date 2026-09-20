@@ -4,3 +4,7 @@
 
 
 [[Yggdrasill/中岛美雪\|中岛美雪]]
+
+[[Yggdrasill/高桥幸宏\|高桥幸宏]]
+
+[[Yggdrasill/キリンジ（KIRINJI）\|キリンジ（KIRINJI）]]
