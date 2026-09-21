@@ -7,6 +7,8 @@
 
 [[Yggdrasill/Cat Stevens\|Cat Stevens]]
 
+[[Yggdrasill/Carole King\|Carole King]]
+
 #### 瑞典
 
 [[Yggdrasill/Sophie Zelmani\|Sophie Zelmani]]

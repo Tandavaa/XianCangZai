@@ -10,3 +10,7 @@
 ### [Precious Burden](https://music.163.com/album?id=1997185&uct2=U2FsdGVkX1+iMQSoh4vck3NjHw4DQ3WVUivLF7YI1X8=)（1998）
 
 ![](https://i.scdn.co/image/ab67616d0000b2735f1661a229cc359b2b3bd08a)
+
+### [Sing and Dance](https://music.163.com/album?id=1997183&uct2=U2FsdGVkX1/karUETt4r2ZKKv9nrEiZ/wC4dYnXGrYs=)（2002）
+
+![](https://i.scdn.co/image/ab67616d0000b2736eabf932c470c8aaed6c571c)
