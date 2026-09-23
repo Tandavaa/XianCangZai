@@ -33,6 +33,8 @@
 
 [[Yggdrasill/African Jazz\|African Jazz]]
 
+[[Yggdrasill/Dark Jazz\|Dark Jazz]]
+
 ### 音樂家
 
 [[Yggdrasill/Miles Davis\|Miles Davis]]
