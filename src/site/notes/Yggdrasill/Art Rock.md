@@ -3,6 +3,12 @@
 ---
 
 
+#### 英国
+
+[[Yggdrasill/Radiohead\|Radiohead]]
+
+[[Yggdrasill/Thom Yorke\|Thom Yorke]]
+
 #### 中国
 
 [[Yggdrasill/万能青年旅店\|万能青年旅店]]

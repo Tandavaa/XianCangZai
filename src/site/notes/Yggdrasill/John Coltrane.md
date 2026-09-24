@@ -3,6 +3,8 @@
 ---
 
 
+## 录音室专辑
+
 ### [Blue Train](https://www.bilibili.com/video/BV13cRcYeEop/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82 )（1958）
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/John_Coltrane_-_Blue_Train.jpg/1280px-John_Coltrane_-_Blue_Train.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail)
@@ -46,6 +48,18 @@
 > “Blues to Bechet”尤其值得注意：Coltrane 使用 soprano saxophone 向早期爵士大师 Sidney Bechet 致意，却没有回到传统风格，而是将 soprano 的历史音色带入自己正在形成的现代语言。“Mr. Knight”则透露出他对非洲音乐与调式素材日益增长的兴趣。三重奏编制的曲目进一步减少了钢琴提供的和声限制，使 Coltrane 的萨克斯、Steve Davis 的低音和 Elvin Jones 的鼓之间形成更加直接的互动。
 >
 > 因此，《Coltrane Plays the Blues》的意义不在于它是一张单纯的“蓝调专辑”，而在于它展示了 Coltrane 如何从最简单的爵士传统中寻找新的即兴可能。它位于《Giant Steps》的复杂和声探索与《My Favorite Things》之后更加开放的调式音乐之间，也预示了他在 1960 年代逐渐把传统曲式转化为即兴出发点的方向。
+
+### Duke Ellington & John Coltrane（1963）
+
+![](https://m.media-amazon.com/images/I/61yh+TiMiFL._UF1000,1000_QL80_.jpg)
+
+> 《Duke Ellington & John Coltrane》录制于 1962 年 9 月 26 日，由 Impulse! 于 1963 年发行，是两位来自不同爵士传统、却都处于高度成熟阶段的音乐家之间的一次合作。Duke Ellington 负责钢琴，John Coltrane 演奏 tenor 与 soprano saxophone，伴奏阵容则根据曲目在 Jimmy Garrison、Aaron Bell、Elvin Jones 和 Sam Woodyard 之间变化。专辑收录七首作品，其中包括 Ellington 的“In a Sentimental Mood”“Take the Coltrane”和“Angelica”、Billy Strayhorn 的“My Little Brown Book”，以及 Coltrane 的“Big Nick”。
+>
+> 这张唱片并不像“传统爵士”和“先锋爵士”的碰撞。1962 年的 Coltrane 虽然已经进入 modal jazz 和 post-bop 的高度开放阶段，却深受 Coleman Hawkins、Ben Webster 等早期 tenor saxophone 传统影响；Ellington 同样不是一个停留在过去的大乐队作曲家，而是一位持续重新组织爵士和声、旋律与编曲语言的音乐家。两人的合作因此更像是两个传统之间的相互理解，而不是代际冲突。
+>
+> “In a Sentimental Mood”尤其体现了这种关系。Coltrane 没有使用高速、密集的即兴，而是以极为宽阔、克制的旋律线演奏 Ellington 的经典抒情曲；Ellington 则用简洁而精确的钢琴和声为萨克斯留下大量空间。“Take the Coltrane”则呈现另一面：Ellington 专门为这次合作创作的快速作品为 Coltrane 提供了充分发挥其复杂旋律语言的空间。两首作品放在一起，可以看见 Coltrane 并不需要依靠激烈的即兴来证明自己的现代性。
+>
+> 这张唱片还留下了一个重要的录音史细节：“In a Sentimental Mood”基本以一次演奏完成。Ellington 认为重复录制会损失刚刚形成的感觉，Coltrane 最终接受了这种强调即时性的工作方式。此后他的录音越来越倾向于减少反复录制。《Duke Ellington & John Coltrane》因此不仅记录了两位音乐家的相遇，也记录了 Coltrane 在 1960 年代初逐渐形成的成熟录音观：现代的即兴语言与爵士传统并不互相排斥，真正重要的是音乐家能否在具体作品中找到恰当的尺度。
 
 ### [A Love Supreme](https://www.bilibili.com/video/BV1gW4y1K7kG/?share_source=copy_web&vd_source=cd3a0d27177f22153c7cb236e6a60c82 )（1965）
 
@@ -92,3 +106,17 @@
 > “Afro Blue”则显示了 Coltrane 如何重新处理来自 Afro-Cuban jazz 的素材。Mongo Santamaría 原作的循环结构在这里成为即兴发展的基础，Coltrane 的 soprano saxophone 将原本清晰的旋律逐渐转化为密集、棱角化的声音线条。《My Favorite Things》同样如此：一首已经被他反复演奏的流行歌曲，在现场逐渐成为进入长篇即兴的入口。
 >
 > 《Afro Blue Impressions》的意义因此不只在于记录几场精彩的演出，更在于它捕捉到 Coltrane 经典四重奏从 modal jazz 出发、逐渐削弱传统和声与曲式限制的过程。它仍然保留明确的主题和结构，却已经把真正的音乐发展转移到调式、节奏、音色以及四位乐手之间持续变化的互动之中，是理解 Coltrane 1963 年现场音乐和随后《A Love Supreme》时期的重要录音。
+
+## 合辑
+
+### The Major Works of John Coltrane（1992）
+
+![](https://upload.wikimedia.org/wikipedia/en/d/d0/The_Major_Works_of_John_Coltrane.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original)
+
+> 《The Major Works of John Coltrane》是 GRP/Impulse! 于 1992 年发行的双 CD 合辑。它集中收录 John Coltrane 在 1965 年最具扩张性的五部大型作品：《Ascension》的两个版本、《Om》、《Kulu Sé Mama》和《Selflessness》。这些录音分布于 1965 年 5 月至 10 月的不同 session，参与者包括 Pharoah Sanders、Archie Shepp、Freddie Hubbard、McCoy Tyner、Jimmy Garrison、Elvin Jones、Juno Lewis 等。
+>
+> 其中《Ascension》最能体现 Coltrane 音乐结构的变化。经典四重奏原本依靠 Coltrane、McCoy Tyner、Jimmy Garrison 和 Elvin Jones 之间高度紧密的互动来组织音乐，而《Ascension》将这种关系扩大成大型乐队的集体即兴。多个铜管和木管乐器依次进入即兴，钢琴、贝斯与鼓持续改变音乐密度，作品因此不再主要依靠传统的主奏—伴奏关系推进，而是让集体声音本身成为结构。两个正式版本来自同一场录音中的不同演奏，也说明《Ascension》的“作品”并不是一套固定的即兴结果。
+>
+> 《Om》和《Kulu Sé Mama》则进一步把 Coltrane 的探索从爵士内部推向仪式性音乐。前者使用诵唱、重复与打击乐，将精神性经验转化为声音结构；后者通过 Juno Lewis 的歌唱与打击乐、非洲音乐元素和爵士即兴形成另一种集体音乐语言。《Selflessness》相对接近传统四重奏，却在演奏过程中逐渐扩大为更开放的即兴，因此成为连接经典 Coltrane Quartet 与大型自由即兴的重要作品。
+>
+> 这套合辑最值得注意的并不是“作品规模越来越大”，而是 Coltrane 正在改变音乐组织本身：和声进行不再是唯一的结构基础，调式、节奏、音色、重复、集体即兴以及精神性和仪式性声音都开始承担结构作用。《The Major Works of John Coltrane》因此可以看作 1965 年 Coltrane 音乐转向的集中记录——从《A Love Supreme》的四重奏精神性，走向《Ascension》式的集体自由即兴，并最终打开通往他晚期音乐的道路。
