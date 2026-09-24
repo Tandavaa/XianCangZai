@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Thom Yorke/","created":"2026-09-24T17:05:30.964+08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Yggdrasill/Thom Yorke/","created":"2026-09-24T17:05:30.964+08:00","dg-note-properties":{}}
 ---
 
 
