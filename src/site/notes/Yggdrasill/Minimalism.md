@@ -9,6 +9,14 @@
 
 ### 音乐人
 
+#### 英国
+
+[[Yggdrasill/GoGo Penguin\|GoGo Penguin]]
+
 #### 法国
 
 [[Yggdrasill/Kali Malone\|Kali Malone]]
+
+#### 意大利
+
+[[Yggdrasill/Caterina Barbieri\|Caterina Barbieri]]
