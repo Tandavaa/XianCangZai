@@ -17,13 +17,11 @@
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8ogPkquS6M4dvA7L3ZNYWsutR90fFw-G4zWOZx1dQtY-7oUA5ePQUnLEp&s=10)
 
-
-
 > Peter Brötzmann Octet 的《Machine Gun》（《机枪》，1968）是欧洲 Free Jazz 发展史上的代表性专辑，也是德国自由即兴音乐的重要里程碑。作品于 1968 年 5 月在不来梅的 Lila Eule 录制，由 Brötzmann 自行制作，并最初通过其独立厂牌 BRÖ 发行。八重奏由 Brötzmann、Willem Breuker 与 Evan Parker 三位萨克斯演奏家领衔，另有钢琴家 Fred Van Hove、低音提琴手 Peter Kowald 与 Buschi Niebergall，以及鼓手 Han Bennink 和 Sven-Åke Johansson。
 >
 > 专辑仅有三首曲目，却通过多支管乐的密集交叠、双贝斯的低频支撑、双鼓的节奏冲击与钢琴的强力介入，构成持续变化的集体声响。“Machine Gun”是全作核心，密集的音群、尖锐的高音和不断累积的演奏能量，使独奏与合奏的界线逐渐模糊；“Responsible / For Jan Van De Ven”和“Music for Han Bennink”则展示了钢琴、打击乐与管乐之间更具变化的互动。专辑标题源于 Don Cherry 对 Brötzmann 演奏风格的绰号，也不可避免地与 1968 年的战争及社会政治背景产生联想。《Machine Gun》的历史意义不仅在于其强烈的声音冲击，还在于它将自由即兴发展为一种依靠集体密度、音色冲突与实时互动组织音乐的方式，并通过独立发行进入欧洲实验音乐网络，成为后来高强度即兴与噪音化爵士的重要参照。
 
-
+[[Albums/Machine Gun\|Machine Gun]]
 
 <div class="album-gallery"><div class="album-card"><a class="album-cover-link" href="#" aria-label="打开专辑：Machine Gun" title="Machine Gun"><img class="album-cover" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8ogPkquS6M4dvA7L3ZNYWsutR90fFw-G4zWOZx1dQtY-7oUA5ePQUnLEp&amp;s=10" alt="Machine Gun" loading="lazy"></a><a class="album-title" href="#" title="Machine Gun">Machine Gun</a><div class="album-year">1968</div></div><div class="album-card"><a class="album-cover-link" href="#" aria-label="打开专辑：Crumbling Brain" title="Crumbling Brain"><img class="album-cover" src="https://f4.bcbits.com/img/a3990321253_1x1_700.avif" alt="Crumbling Brain" loading="lazy"></a><a class="album-title" href="#" title="Crumbling Brain">Crumbling Brain</a><div class="album-year">2010</div></div></div>
 
