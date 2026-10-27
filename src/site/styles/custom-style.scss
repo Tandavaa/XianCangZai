@@ -216,3 +216,235 @@ iframe {max-width: 100%;}
   transform: translateX(-50%);
   top: 80%;
 }
+
+/* ==========================================================
+   Obsidian Digital Garden - Swiss Style Album Card
+   ========================================================== */
+
+/* Piet Zwart 风格字体与重点文字配色配置 */
+:root {
+    --zwart-blue: #0022d2;       /* 标志性高饱和电光蓝/克莱因蓝（支持动态覆盖） */
+    --zwart-font: "Helvetica Neue", Helvetica, Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+    --serif-font: "思源宋体 CN Light", "Noto Serif SC", "SimSun", "宋体", serif;
+}
+
+/* 外围容器：取消外侧边框线，保留阴影与纯直角 */
+.swiss-poster-container {
+    background: var(--background-secondary);
+    border: none !important;
+    border-radius: 0;
+    overflow: hidden;
+    margin: 20px 0;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.06);
+    font-family: var(--zwart-font);
+    color: var(--text-normal);
+}
+
+/* 主区域背景 */
+.swiss-main-screen {
+    background-color: var(--background-primary);
+    padding: 24px;
+}
+
+/* 顶部网格：无分割横线 */
+.swiss-header-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px;
+    align-items: flex-start;
+    border-bottom: none;
+    padding-bottom: 12px;
+    margin-bottom: 16px;
+}
+
+/* 专辑大标题：电光蓝高亮，字重加粗 (900) */
+.swiss-main-title {
+    font-family: var(--zwart-font);
+    font-size: 2.8rem;
+    font-weight: 900;
+    line-height: 1.05;
+    margin: 0 0 10px 0;
+    letter-spacing: -0.03em;
+    color: var(--zwart-blue);
+}
+
+/* 左侧副信息与多行艺人区 */
+.swiss-sub-info {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    font-size: 0.85rem;
+    line-height: 1.5;
+}
+
+.swiss-artist-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+/* 艺术家人名：电光蓝高亮，字重变轻 (500) */
+.swiss-artist-left {
+    font-size: 1.15rem;
+    font-weight: 500;
+    color: var(--zwart-blue);
+    letter-spacing: -0.01em;
+    line-height: 1.2;
+}
+
+/* 次要元数据 */
+.swiss-meta-inline {
+    color: var(--text-muted);
+    font-weight: 500;
+    margin-top: 4px;
+    display: flex;
+    align-items: center;
+    gap: 8px; 
+}
+
+/* Source 播放/跳转图标样式 */
+.swiss-source-container {
+    display: inline-flex;
+    align-items: center;
+}
+
+.swiss-source-icon {
+    font-size: 0.75rem;
+    text-decoration: none;
+    transition: opacity 0.2s ease;
+}
+
+.swiss-source-icon.active {
+    color: var(--zwart-blue);
+    font-weight: bold;
+}
+
+.swiss-source-icon.active:hover {
+    opacity: 0.7;
+}
+
+.swiss-source-icon.disabled {
+    color: var(--text-muted);
+    opacity: 0.4;
+    cursor: default;
+}
+
+/* 右侧演职员信息布局（上下垂直堆叠，内容左对齐） */
+.swiss-credits-group {
+    font-size: 0.85rem;
+    font-weight: 500;
+    line-height: 1.6;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    text-align: left;
+}
+
+/* 每行职员信息 */
+.swiss-credit-line {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 2px;
+}
+
+/* 右侧具体内容靠左对齐，撑满整行宽度 */
+.swiss-credit-val {
+    text-align: left;
+    width: 100%;
+}
+
+/* 重点文字高亮（如厂牌） */
+.swiss-highlight-text {
+    color: var(--zwart-blue);
+    font-weight: 700;
+}
+
+/* 下方图文网格 */
+.swiss-content-grid {
+    display: grid;
+    grid-template-columns: 220px 1fr;
+    gap: 24px;
+    align-items: flex-start;
+}
+
+@media (max-width: 768px) {
+    .swiss-header-row, .swiss-content-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* 封面图片：无框线，纯直角 */
+.swiss-image-box {
+    width: 220px;
+    height: 220px;
+    flex-shrink: 0;
+    border-radius: 0;
+    overflow: hidden;
+    border: none !important;
+}
+
+.swiss-cover {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* 摘要文字排版区：首行与封面顶部对齐 */
+.swiss-text-box {
+    display: flex;
+    flex-direction: column;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.swiss-poster-container .swiss-summary-scroll {
+    max-height: 220px;
+    overflow-y: scroll !important; 
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+    padding-right: 8px;
+}
+
+/* 克莱因蓝的极细线条滚动条 */
+.swiss-poster-container .swiss-summary-scroll::-webkit-scrollbar {
+    width: 3px !important;
+    display: block !important;
+}
+
+.swiss-poster-container .swiss-summary-scroll::-webkit-scrollbar-track {
+    background: transparent !important;
+}
+
+.swiss-poster-container .swiss-summary-scroll::-webkit-scrollbar-thumb {
+    background: var(--zwart-blue) !important;
+    border-radius: 0 !important;
+}
+
+/* 简介文字：针对思源宋体细体做双重兼容及抗锯齿优化 */
+.swiss-summary-text {
+    font-family: var(--serif-font);
+    font-size: 0.8rem;
+    line-height: 1.65;
+    color: var(--text-muted);
+    text-align: justify;
+    margin: 0 !important;
+    padding-top: 0 !important;
+    font-weight: 300;
+    -webkit-font-smoothing: antialiased; /* 开启字体抗锯齿，使细线条更显精致锐利 */
+    -moz-osx-font-smoothing: grayscale;
+}
+
+/* 流派标签：直角 */
+.swiss-tag {
+    display: inline-block;
+    background: transparent;
+    border: 1px solid var(--zwart-blue);
+    color: var(--zwart-blue);
+    padding: 0px 6px;
+    border-radius: 0;
+    font-size: 0.75rem;
+    font-weight: 600;
+    margin-right: 4px;
+    margin-bottom: 4px;
+}
