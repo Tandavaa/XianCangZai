@@ -1,0 +1,96 @@
+
+/* 专辑网格 */
+.album-gallery {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 22px 16px;
+    width: 100%;
+    margin: 24px 0;
+}
+
+/* 单张专辑卡片 */
+.album-card {
+    display: block;
+    min-width: 0;
+    overflow: hidden;
+}
+
+/* 封面链接 */
+.album-cover-link {
+    display: block;
+    width: 100%;
+    overflow: hidden;
+    border: none !important;
+    text-decoration: none !important;
+}
+
+/* 方形封面 */
+.album-cover {
+    display: block;
+    width: 100% !important;
+    max-width: none !important;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    margin: 0 !important;
+    border-radius: 0 !important;
+    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.10);
+    transition: transform 0.2s ease;
+}
+
+.album-cover-link:hover .album-cover {
+    transform: scale(1.025);
+}
+
+/* 无封面占位 */
+.album-no-cover {
+    display: flex;
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    align-items: center;
+    justify-content: center;
+    background: var(--background-secondary);
+    color: var(--text-muted);
+    font-size: 0.8rem;
+}
+
+/* 专辑标题 */
+.album-title {
+    display: block !important;
+    width: 100% !important;
+    min-width: 0 !important;
+    margin-top: 8px;
+    font-family: "BasicCommercial LT Roman", "Source Han Sans CN", sans-serif;
+    color: #a61b29 !important;
+    font-size: 0.88rem;
+    line-height: 1.45;
+    font-weight: bold;
+    text-decoration: none !important;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.album-title:hover {
+    color: #a61b29 !important;
+    opacity: 0.75;
+}
+
+/* 发行年份 */
+.album-year {
+    display: block;
+    margin-top: 2px;
+    font-family: "BasicCommercial LT", "Source Han Sans CN", sans-serif;
+    color: var(--text-muted);
+    font-size: 0.78rem;
+    line-height: 1.4;
+    font-weight: 400;
+    font-variant-numeric: tabular-nums;
+}
+
+/* 手机端两列 */
+@media (max-width: 600px) {
+    .album-gallery {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 18px 12px;
+    }
+}

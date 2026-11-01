@@ -1,0 +1,470 @@
+
+/* Artist Card — Obsidian / Digital Garden */
+
+.artist-card {
+  --artist-card-text: #171717;
+  --artist-card-muted: #666666;
+  --artist-card-rule: #777777;
+  --artist-card-font: Arial, Helvetica, "Source Han Sans SC", "思源黑体", sans-serif;
+
+  display: grid !important;
+  grid-template-columns: minmax(0, 0.85fr) minmax(0, 1.15fr);
+  gap: 28px;
+  width: 100% !important;
+  max-width: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+
+  color: var(--artist-card-text) !important;
+  background: #ffffff !important;
+  font-family: var(--artist-card-font);
+  box-sizing: border-box;
+  align-items: stretch;
+}
+
+.artist-card *,
+.artist-card *::before,
+.artist-card *::after {
+  box-sizing: border-box;
+  font-family: var(--artist-card-font);
+}
+
+/* 左侧：照片及基本信息 */
+
+.artist-card__left {
+  min-width: 0;
+  width: 100%;
+}
+
+.artist-card__image-wrap {
+  width: 100%;
+  aspect-ratio: 4 / 5;
+  overflow: hidden;
+  background: #eeeeee;
+  border-radius: 0 !important;
+}
+
+.artist-card .artist-card__image {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center center;
+  margin: 0;
+  border-radius: 0 !important;
+}
+
+/* 艺术家姓名 */
+
+.artist-card h2.artist-card__name {
+  display: block !important;
+  margin: 12px 0 5px !important;
+  padding: 0 !important;
+  border: 0 !important;
+
+  color: var(--artist-card-text) !important;
+  background: transparent !important;
+
+  font-family: var(--artist-card-font) !important;
+  font-size: clamp(19px, 2vw, 25px) !important;
+  line-height: 1.15 !important;
+  font-weight: 750 !important;
+  letter-spacing: -0.025em !important;
+  text-transform: none !important;
+
+  text-decoration: none !important;
+  box-shadow: none !important;
+}
+
+/* 生卒年份 */
+
+.artist-card__lifespan {
+  margin: 0 0 12px;
+  color: var(--artist-card-muted);
+  font-size: 13px;
+  line-height: 1.3;
+  font-weight: 400;
+}
+
+/* 基本信息 */
+
+.artist-card__facts {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  gap: 0;
+  padding: 0;
+}
+
+/* 国籍 + 乐器：并排布局 */
+
+.artist-card__facts-top {
+  display: grid;
+  grid-template-columns: minmax(0, 0.4fr) minmax(0, 1.6fr);
+  width: 100%;
+}
+
+/* 单项资料 */
+
+.artist-card__fact {
+  width: 100%;
+  min-width: 0;
+  padding: 9px 0;
+  border-top: 1px solid var(--artist-card-rule);
+}
+
+/* 国籍 */
+
+.artist-card__fact--nationality {
+  padding-right: 12px;
+}
+
+.artist-card__fact--nationality .artist-card__value {
+  white-space: pre-line;
+  text-align: left;
+}
+
+/* 乐器 */
+
+.artist-card__fact--instrument {
+  padding-left: 12px;
+  text-align: right;
+}
+
+.artist-card__fact--instrument .artist-card__value {
+  text-align: right;
+}
+
+/* 基本信息文字 */
+
+.artist-card__value {
+  margin: 0;
+  color: var(--artist-card-text);
+  font-size: 13px;
+  line-height: 1.45;
+  font-weight: 600;
+  overflow-wrap: anywhere;
+}
+
+/* Genre：流派标签 */
+
+.artist-card__fact--genre {
+  border-bottom: 0;
+}
+
+.artist-card__fact--genre .artist-card__value {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+
+/* 单个流派标签 */
+
+.artist-card__genre-tag {
+  display: inline-block;
+  background: transparent;
+  border: 1px solid #a61b29;
+  color: #a61b29;
+  padding: 0 6px;
+  border-radius: 0;
+  font-size: 0.75rem;
+  font-weight: 300;
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* 右侧：人物简介 */
+
+.artist-card__right {
+  min-width: 0;
+  width: 100%;
+  min-height: 0;
+  height: 100%;
+  align-self: stretch;
+
+  border-top: 1px solid var(--artist-card-rule);
+  border-bottom: 1px solid var(--artist-card-rule);
+  padding: 12px 0;
+
+  display: flex;
+  flex-direction: column;
+}
+
+/* 简介滚动区域 */
+
+.artist-card__description-scroll {
+  flex: 1 1 0;
+  min-height: 0;
+  height: 100%;
+  max-height: 100%;
+
+  overflow-y: scroll !important;
+  overflow-x: hidden !important;
+
+  padding: 0 8px 0 0;
+}
+
+/* 滚动条 */
+
+.artist-card .artist-card__description-scroll::-webkit-scrollbar {
+  width: 3px !important;
+  display: block !important;
+}
+
+.artist-card .artist-card__description-scroll::-webkit-scrollbar-track {
+  background: transparent !important;
+}
+
+.artist-card .artist-card__description-scroll::-webkit-scrollbar-thumb {
+  background: #a61b29 !important;
+  border-radius: 0 !important;
+}
+
+/* 简介正文：统一字体，使用细体 */
+
+.artist-card p.artist-card__section-text {
+  margin: 0 !important;
+  padding: 0 !important;
+
+  color: var(--artist-card-text) !important;
+  font-family: var(--artist-card-font) !important;
+  font-size: 13px !important;
+  line-height: 1.65 !important;
+  font-weight: 300 !important;
+
+  overflow-wrap: anywhere;
+}
+
+/* 移动端 */
+
+@media (max-width: 700px) {
+
+  .artist-card {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 18px;
+  }
+
+  .artist-card__image-wrap {
+    aspect-ratio: 4 / 5;
+    max-height: 620px;
+  }
+
+  .artist-card h2.artist-card__name {
+    font-size: 21px !important;
+  }
+
+  .artist-card__lifespan,
+  .artist-card__value {
+    font-size: 13px;
+  }
+
+  .artist-card__right {
+    height: auto;
+    min-height: 180px;
+  }
+
+  .artist-card__description-scroll {
+    height: auto;
+    max-height: 55vh;
+    min-height: 180px;
+  }
+
+  .artist-card p.artist-card__section-text {
+    font-size: 13px !important;
+  }
+}
+
+
+
+/* ==========================================
+   Genre Card — Obsidian / Digital Garden
+   ========================================== */
+
+/* 整体：单列布局 */
+.artist-card.genre-card {
+  grid-template-columns: minmax(0, 1fr);
+  gap: 0;
+}
+
+/* ==========================================
+   第一、二行：名称、时期、地点
+   ========================================== */
+
+.artist-card.genre-card .artist-card__left {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  grid-template-rows: auto auto;
+  align-items: center;
+  column-gap: 18px;
+  row-gap: 8px;
+  width: 100%;
+  min-width: 0;
+}
+
+/* 风格名称：独占第一行 */
+.artist-card.genre-card h2.artist-card__name {
+  grid-column: 1 / -1;
+  grid-row: 1;
+  min-width: 0;
+  margin: 0 !important;
+}
+
+/* 起源时期：第二行左对齐 */
+.artist-card.genre-card .artist-card__lifespan {
+  grid-column: 1;
+  grid-row: 2;
+  min-width: 0;
+  margin: 0;
+  text-align: left;
+}
+
+/* 起源地点：第二行右对齐 */
+.artist-card.genre-card .artist-card__facts {
+  grid-column: 2;
+  grid-row: 2;
+  display: block;
+  min-width: 0;
+  width: 100%;
+  text-align: right;
+}
+
+.artist-card.genre-card .artist-card__fact--nationality {
+  padding: 0;
+  border: 0;
+  text-align: right;
+}
+
+.artist-card.genre-card .artist-card__fact--nationality .artist-card__value {
+  white-space: normal;
+  text-align: right;
+}
+
+/* ==========================================
+   第三行：全宽简介
+   ========================================== */
+
+.artist-card.genre-card .artist-card__right {
+  grid-column: 1 / -1;
+  width: 100%;
+  min-height: 180px;
+  height: 260px;
+  margin-top: 12px;
+}
+
+/* ==========================================
+   第四行：子级风格
+   ========================================== */
+
+.artist-card.genre-card > .artist-card__fact--genre {
+  grid-column: 1 / -1;
+  width: 100%;
+  margin-top: 12px;
+  border-top: none !important;
+}
+
+/* 子级风格排列 */
+.artist-card.genre-card .artist-card__fact--genre .artist-card__value {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+
+/* 子级风格标签：统一红色边框 */
+.artist-card.genre-card .artist-card__genre-tag {
+  display: inline-block;
+  background: transparent !important;
+  border: 1px solid #a61b29 !important;
+  color: #a61b29 !important;
+  padding: 0 6px;
+  border-radius: 0 !important;
+  font-size: 0.75rem;
+  font-weight: 300;
+  line-height: 1.6;
+  margin: 0;
+  text-decoration: none !important;
+  cursor: pointer;
+  transition: opacity 0.2s ease;
+}
+
+/* 鼠标悬浮：降低透明度 */
+.artist-card.genre-card .artist-card__genre-tag:hover {
+  color: #a61b29 !important;
+  text-decoration: none !important;
+  opacity: 0.55;
+}
+
+/* 唯一匹配：可点击的风格页面 */
+.artist-card__genre-tag--linked {
+    cursor: pointer;
+    text-decoration: none;
+}
+
+/* 鼠标悬浮：提示可以打开风格页面 */
+.artist-card__genre-tag--linked {
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.artist-card__genre-tag--linked:hover {
+  color: #a61b29 !important;
+  text-decoration: none !important;
+  opacity: 0.55;
+}
+
+/* 多重匹配：删除线，不可点击 */
+.artist-card__genre-tag--ambiguous {
+    text-decoration: line-through;
+    cursor: default;
+}
+
+/* 无对应风格页面：半透明 */
+.artist-card__genre-tag--missing {
+    opacity: 0.4;
+    cursor: default;
+}
+
+/* ==========================================
+   移动端
+   ========================================== */
+
+@media (max-width: 700px) {
+
+  .artist-card.genre-card {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  /* 名称、年代、地域依次排列 */
+  .artist-card.genre-card .artist-card__left {
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-rows: auto auto auto;
+    row-gap: 8px;
+  }
+
+  .artist-card.genre-card h2.artist-card__name {
+    grid-column: 1;
+    grid-row: 1;
+  }
+
+  .artist-card.genre-card .artist-card__lifespan {
+    grid-column: 1;
+    grid-row: 2;
+    text-align: left;
+  }
+
+  .artist-card.genre-card .artist-card__facts {
+    grid-column: 1;
+    grid-row: 3;
+    text-align: left;
+  }
+
+  .artist-card.genre-card .artist-card__fact--nationality,
+  .artist-card.genre-card .artist-card__fact--nationality .artist-card__value {
+    text-align: left;
+  }
+
+  /* 简介 */
+  .artist-card.genre-card .artist-card__right {
+    height: 260px;
+    min-height: 180px;
+  }
+}

@@ -1,0 +1,139 @@
+
+/* ========================================
+   Musician Gallery — 音乐家画廊
+   独立命名，避免与 Artist Card 冲突
+   ======================================== */
+
+/* 画廊网格 */
+.musician-gallery {
+    display: grid !important;
+    grid-template-columns: repeat(4, minmax(0, 1fr)) !important;
+    gap: 22px 16px;
+    width: 100%;
+    margin: 24px 0;
+    align-items: start;
+}
+
+/* 单张音乐家卡片 */
+.musician-gallery__card {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: stretch !important;
+    justify-content: flex-start !important;
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+    grid-column: span 1 !important;
+    overflow: hidden;
+    gap: 0 !important;
+}
+
+/* 图片链接 */
+.musician-gallery__cover-link {
+    display: block !important;
+    flex: none !important;
+    width: 100% !important;
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+    border: none !important;
+    border-radius: 0 !important;
+    text-decoration: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+/* 音乐家照片 */
+.musician-gallery__cover {
+    display: block !important;
+    width: 100% !important;
+    height: 100% !important;
+    max-width: none !important;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    margin: 0 !important;
+    padding: 0 !important;
+    border-radius: 0 !important;
+    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.10);
+    transition: transform 0.2s ease;
+}
+
+/* 图片悬浮效果 */
+.musician-gallery__cover-link:hover .musician-gallery__cover {
+    transform: scale(1.025);
+}
+
+/* 无照片占位 */
+.musician-gallery__no-cover {
+    display: flex !important;
+    width: 100%;
+    height: 100%;
+    aspect-ratio: 1 / 1;
+    align-items: center;
+    justify-content: center;
+    background: var(--background-secondary);
+    color: var(--text-muted);
+    font-size: 0.8rem;
+    border-radius: 0 !important;
+}
+
+/* 音乐家姓名 */
+.musician-gallery__name {
+    display: block !important;
+    flex: none !important;
+    width: 100% !important;
+    min-width: 0 !important;
+    margin: 8px 0 0 !important;
+    padding: 0 !important;
+    font-family: "BasicCommercial LT Roman", "Source Han Sans CN", sans-serif;
+    color: #a61b29 !important;
+    font-size: 0.88rem;
+    line-height: 1.45;
+    font-weight: bold;
+    text-decoration: none !important;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/* 姓名悬浮效果 */
+.musician-gallery__name:hover {
+    color: #a61b29 !important;
+    opacity: 0.75;
+}
+
+/* 国籍 */
+.musician-gallery__nationality {
+    display: block !important;
+    flex: none !important;
+    width: 100%;
+    margin: 3px 0 0 !important;
+    padding: 0 !important;
+    font-family: "SimSun", "Songti SC", serif;
+    color: var(--text-muted);
+    font-size: 0.78rem;
+    line-height: 1.5;
+    font-weight: 400;
+}
+
+/* 生卒年份 */
+.musician-gallery__years {
+    display: block !important;
+    flex: none !important;
+    width: 100%;
+    margin: 2px 0 0 !important;
+    padding: 0 !important;
+    font-family: "BasicCommercial LT", "Source Han Sans CN", sans-serif;
+    color: var(--text-muted);
+    font-size: 0.78rem;
+    line-height: 1.4;
+    font-weight: 400;
+    font-variant-numeric: tabular-nums;
+}
+
+/* 手机端两列 */
+@media (max-width: 600px) {
+    .musician-gallery {
+        grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+        gap: 18px 12px;
+    }
+}

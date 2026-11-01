@@ -1,0 +1,350 @@
+/* Piet Zwart 风格字体与重点文字配色配置 */
+:root {
+    --zwart-blue: #0022d2;        /* 标志性高饱和电光蓝/克莱因蓝（支持动态覆盖） */
+    --zwart-font-light: "BasicCommercial LT", "Source Han Sans CN",  sans-serif;
+    --zwart-font-roman: "BasicCommercial LT Roman", "Source Han Sans CN", sans-serif;
+}
+
+/* 外围容器：取消外侧边框线，保留阴影与纯直角 */
+.swiss-poster-container {
+    background: var(--background-secondary);
+    border: none !important;
+    border-radius: 0;
+    overflow: hidden;
+    margin: 20px 0;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.06);
+    font-family: var(--zwart-font-light);
+    color: var(--text-normal);
+}
+
+/* 主区域背景 */
+.swiss-main-screen {
+    background-color: var(--background-primary);
+    padding: 24px 2px;
+}
+
+/* 顶部网格：无分割横线 */
+.swiss-header-row {
+    display: grid;
+    grid-template-columns: 1fr 1.5fr;
+    gap: 24px;
+    align-items: flex-start;
+    border-bottom: none;
+    padding-bottom: 12px;
+    margin-bottom: 16px;
+}
+
+
+/* 专辑大标题：使用 BasicCommercial LT Roman，字重 Bold */
+.swiss-main-title {
+    font-family: var(--zwart-font-roman);
+    font-size: 1.8rem;
+    font-weight: bold;
+    line-height: 1.05;
+    margin: 0 0 10px 0;
+    letter-spacing: -0.03em;
+    color: #a61b29;
+    margin-left: -0.05em; 
+}
+
+/* 左侧副信息与多行艺人区 */
+.swiss-sub-info {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    font-size: 0.85rem;
+    line-height: 1.5;
+    font-weight: 300;
+    font-family: var(--zwart-font-light);
+}
+
+.swiss-artist-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+/* 艺术家人名（主要作者）：单独向左微调负外边距，精准对齐上方的标题边缘 */
+.swiss-artist-left {
+    font-family: var(--zwart-font-roman);
+    font-size: 1.15rem;
+    font-weight: bold;
+    color: var(--zwart-blue);
+    letter-spacing: -0.01em;
+    line-height: 1.2;
+    margin-left: -0.01em; /* 你可以根据实际显示效果微调这个数值，比如改成 -0.05em 或 -0.08em */
+}
+
+/* 次要元数据：Light */
+.swiss-meta-inline {
+    font-family: var(--zwart-font-light);
+    color: var(--text-muted);
+    font-weight: 300;
+    margin-top: 4px;
+    display: flex;
+    align-items: center;
+    gap: 8px; 
+    margin-left: -0.03em; 
+}
+
+/* Source 播放/跳转图标样式 */
+.swiss-source-container {
+    display: inline-flex;
+    align-items: center;
+}
+
+.swiss-source-icon {
+    font-size: 0.75rem;
+    text-decoration: none;
+    transition: opacity 0.2s ease;
+}
+
+.swiss-source-icon.active {
+    color: var(--zwart-blue);
+    font-weight: bold;
+}
+
+.swiss-source-icon.active:hover {
+    opacity: 0.7;
+}
+
+.swiss-source-icon.disabled {
+    color: var(--text-muted);
+    opacity: 0.4;
+    cursor: default;
+}
+
+/* 厂牌样式：Light */
+.swiss-label-text {
+    font-family: var(--zwart-font-light);
+    color: var(--zwart-blue);
+    font-weight: 300;
+}
+
+/* 右侧演职员信息布局：Light */
+.swiss-credits-group {
+    font-family: var(--zwart-font-light);
+    font-size: 0.75rem;
+    font-weight: 300;
+    line-height: 1.6;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    text-align: left;
+}
+
+/* 每行职员信息 */
+.swiss-credit-line {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 2px;
+}
+
+/* 右侧具体内容靠左对齐，撑满整行宽度 */
+.swiss-credit-val {
+    text-align: left;
+    width: 100%;
+}
+
+/* 合作音乐家文字：Light，灰色 */
+.swiss-collaborators-text {
+    font-family: var(--zwart-font-light);
+    color: var(--text-muted);
+    font-weight: 300;
+    letter-spacing: -0.01em;
+}
+
+/* 重点文字高亮 */
+.swiss-highlight-text {
+    color: var(--zwart-blue);
+    font-weight: bold;
+}
+
+/* 下方图文网格 */
+.swiss-content-grid {
+    display: grid;
+    grid-template-columns: 220px 1fr;
+    gap: 24px;
+    align-items: flex-start;
+}
+
+@media (max-width: 768px) {
+    .swiss-header-row, .swiss-content-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* 封面图片：无框线，纯直角 */
+.swiss-image-box {
+    width: 220px;
+    height: 220px;
+    flex-shrink: 0;
+    border-radius: 0;
+    overflow: hidden;
+    border: none !important;
+}
+
+.swiss-cover {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* 摘要文字排版区 */
+.swiss-text-box {
+    display: flex;
+    flex-direction: column;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.swiss-poster-container .swiss-summary-scroll {
+    max-height: 220px;
+    overflow-y: scroll !important; 
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+    padding-right: 8px;
+}
+
+/* 克莱因蓝的极细线条滚动条 */
+.swiss-poster-container .swiss-summary-scroll::-webkit-scrollbar {
+    width: 3px !important;
+    display: block !important;
+}
+
+.swiss-poster-container .swiss-summary-scroll::-webkit-scrollbar-track {
+    background: transparent !important;
+}
+
+.swiss-poster-container .swiss-summary-scroll::-webkit-scrollbar-thumb {
+    background: var(--zwart-blue) !important;
+    border-radius: 0 !important;
+}
+
+/* 简介文字：使用 BasicCommercial LT，字重 300 (Light) */
+.swiss-summary-text {
+    font-family: var(--zwart-font-light);
+    font-size: 0.75rem;
+    line-height: 1.65;
+    color: var(--text-muted);
+    text-align: justify;
+    margin: 0 !important;
+    padding-top: 0 !important;
+    font-weight: 300;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+/* 流派标签：Light */
+.swiss-tag {
+    font-family: var(--zwart-font-light);
+    display: inline-block;
+    background: transparent;
+    border: 1px solid var(--zwart-blue);
+    color: var(--zwart-blue);
+    padding: 0px 6px;
+    border-radius: 0;
+    font-size: 0.75rem;
+    font-weight: 300;
+    margin-right: 4px;
+    margin-bottom: 4px;
+}
+
+
+/* 封面：鼠标悬浮时轻微放大 */
+.swiss-cover {
+    transition: transform 0.2s ease;
+}
+
+.swiss-cover-link {
+    display: block;
+    overflow: hidden;
+}
+
+.swiss-cover-link:hover .swiss-cover {
+    transform: scale(1.025);
+}
+
+/* 标题：鼠标悬浮时降低透明度 */
+.swiss-album-title-link {
+    display: block;
+    text-decoration: none !important;
+}
+
+.swiss-album-title-link .swiss-main-title {
+    transition: opacity 0.2s ease;
+}
+
+.swiss-album-title-link:hover .swiss-main-title {
+    opacity: 0.75;
+}
+
+/* 专辑封面：强制直角 */
+.swiss-image-box,
+.swiss-cover-link,
+.swiss-cover {
+    border-radius: 0 !important;
+}
+
+
+/* ==========================
+   艺术家链接
+   ========================== */
+
+.swiss-artist-link {
+    color: inherit;
+    text-decoration: none;
+   font-family: var(--zwart-font-roman);
+       font-size: 1.15rem;
+       font-weight: bold;
+}
+
+.swiss-artist-link:hover {
+    color: inherit;
+    text-decoration: none;
+    opacity: 0.6;
+}
+
+/* ==========================
+   协作者链接
+   ========================== */
+
+.swiss-collaborator-link {
+    color: #a61b29;
+    text-decoration: none;
+}
+
+.swiss-collaborator-link:hover {
+    color: #a61b29;
+    text-decoration: none;
+    opacity: 0.6;
+}
+
+/* ==========================
+   音乐风格链接
+   ========================== */
+
+   /* 唯一匹配：可点击的风格页面 */
+   .swiss-tag--linked {
+       cursor: pointer;
+       text-decoration: none;
+   }
+
+   .swiss-tag--linked:hover {
+       color: #0022d2 !important;  
+       text-decoration: none;
+       opacity: 0.6;
+   }
+
+   /* 多重匹配：删除线，不可点击 */
+   .swiss-tag--ambiguous {
+       text-decoration: line-through;
+       cursor: default;
+   }
+
+   /* 无对应风格页面：半透明 */
+   .swiss-tag--missing {
+       opacity: 0.4;
+       cursor: default;
+   }
