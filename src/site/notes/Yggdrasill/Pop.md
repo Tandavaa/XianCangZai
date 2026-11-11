@@ -7,15 +7,16 @@
 
 [[Yggdrasill/Art Pop\|Art Pop]]
 
+[[Yggdrasill/Avant-Garde Pop\|Avant-Garde Pop]]
+
 [[Yggdrasill/J-Pop\|J-Pop]]
 
-[[Yggdrasill/synth-pop\|synth-pop]]
+[[Yggdrasill/Synth-pop\|Synth-pop]]
 
-[[Yggdrasill/Chamber Pop\|Chamber Pop]]
+[[Yggdrasill/Chamber Pop\|Yggdrasill/Chamber Pop]]
 
 [[Yggdrasill/City Pop\|City Pop]]
 
 [[Yggdrasill/Singer-Songwriter\|Singer-Songwriter]]
 
 [[Yggdrasill/华语流行\|华语流行]]
-

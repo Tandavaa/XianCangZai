@@ -5,7 +5,7 @@
 
 > Art Farmer 最具革命性的贡献之一，是将 Flugelhorn（长号/柔音号）确立为爵士乐中重要的独奏乐器。
 
-### To Duke With Love（1976）
+### [To Duke With Love](https://music.163.com/album?id=385869842&uct2=U2FsdGVkX1+MxH5hJJqFo3U/OiChtLC3uUQMpNLyTo8=)（1976）
 
 ![](https://m.media-amazon.com/images/I/61CFLQQIvHL.jpg)
 

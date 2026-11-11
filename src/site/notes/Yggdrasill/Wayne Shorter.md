@@ -15,7 +15,7 @@
 >
 > 不同于传统硬波普的常规套路，Shorter 以薄雾缭绕的民俗传说、巫术与民间神话为创作灵感，将悬浮的模态和声（Modal Jazz）、非对称句法与微暗的小调色彩揉入其中。从充满高强度对冲的开篇名篇《Witch Hunt》与同名曲《Speak No Evil》，到多声部交织的《Dance Cadaverous》《Fee-Fi-Fo-Fum》，再到为其女儿写下的不规则长句抒情慢板《Infant Eyes》，全辑 6 首 Shorter 原创曲目兼具激进的解构力与优雅的旋律线条。封面由 Francis Wolff 拍摄 Shorter 的第一任妻子 Teruko Nakagami，堪称 Blue Note 视觉美学的典范。作为后波普（Post-Bop）时代不可逾越的奠基之作，《Speak No Evil》被《企鹅爵士指南》选入“核心收藏”，公认为 Shorter 领班生涯的皇冠之作与现代爵士作曲史上的里程碑。
 
-### [Footprints Live!](https://music.163.com/album?id=1923462&uct2=U2FsdGVkX19fTD2ocylJxl8Hs3lrSBZZDezMFqh23us=)（2002）
+### [Footprints Live!](https://music.163.com/album?id=1923462&uct2=U2FsdGVkX19UhySOj8/f3yWwUFUhrZ0+5kKAMz4ihA0=)（2002）
 
 ![](https://i.scdn.co/image/ab67616d0000b2735bd1019eb876a61ff3ad3f19)
 

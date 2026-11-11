@@ -5,28 +5,36 @@
 
 ### 类别
 
-[[Yggdrasill/Psychedelic Rock\|Psychedelic Rock]]
+[[Yggdrasill/Blues Rock\|Blues Rock]]
+
+[[Yggdrasill/Folk Rock\|Yggdrasill/Folk Rock]]
 
 [[Yggdrasill/Garage Rock\|Garage Rock]]
 
-[[Yggdrasill/New psychedelic\|New psychedelic]]
+[[Yggdrasill/Psychedelic Rock\|Psychedelic Rock]]
 
-[[Yggdrasill/Progressive Rock\|Progressive Rock]]
+[[Yggdrasill/Hard Rock\|Hard Rock]]
 
-[[Yggdrasill/Experimental Rock\|Experimental Rock]]
-
-[[Yggdrasill/Post-Rock\|Post-Rock]]
-
-[[Yggdrasill/Post-Punk\|Post-Punk]]
+[[Genres/Progressive Rock\|Progressive Rock]]
 
 [[Yggdrasill/Art Rock\|Art Rock]]
 
-[[Yggdrasill/Blues Rock\|Blues Rock]]
+[[Yggdrasill/Experimental Rock\|Experimental Rock]]
 
-[[Yggdrasill/Folk Rock\|Folk Rock]]
+[[Yggdrasill/Jazz-Rock\|Jazz-Rock]]
 
-[[Yggdrasill/Indie Rock\|Indie Rock]]
+[[Yggdrasill/Proto-Metal\|Proto-Metal]]
 
-[[Yggdrasill/Shoegazing\|Shoegazing]]
+[[Yggdrasill/Heavy Metal\|Heavy Metal]]
 
-[[Yggdrasill/Emo\|Emo]]
+[[Yggdrasill/Punk Rock\|Punk Rock]]
+
+[[Yggdrasill/New psychedelic\|New psychedelic]]
+
+[[Yggdrasill/Post-Punk\|Post-Punk]]
+
+[[Yggdrasill/Alternative Rock\|Alternative Rock]]
+
+[[Yggdrasill/Post-Rock\|Post-Rock]]
+
+[[Yggdrasill/Indie Rock\|Yggdrasill/Indie Rock]]

@@ -5,16 +5,14 @@
 
 ### 类别
 
+[[Yggdrasill/Experimental Electronic\|Experimental Electronic]]
+
 [[Yggdrasill/Ambient\|Ambient]]
-
-[[Yggdrasill/Amapiano\|Amapiano]]
-
-[[Yggdrasill/Minimalism\|Minimalism]]
-
-[[Yggdrasill/Synthwave\|Synthwave]]
-
-[[Yggdrasill/Dungeon Synth\|Dungeon Synth]]
 
 [[Yggdrasill/House\|House]]
 
-[[Yggdrasill/Experimental Electronic\|Experimental Electronic]]
+[[Yggdrasill/Synthwave\|Synthwave]]
+
+[[Yggdrasill/Amapiano\|Amapiano]]
+
+[[Yggdrasill/Vibey Beats\|Vibey Beats]]

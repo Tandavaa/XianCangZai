@@ -3,4 +3,14 @@
 ---
 
 
+#### 日本
+
 [[Yggdrasill/武满彻\|武满彻]]
+
+#### 奥地利
+
+[[Yggdrasill/Georg Friedrich Haas\|Georg Friedrich Haas]]
+
+#### 丹麦
+
+[[Yggdrasill/Poul Ruders\|Poul Ruders]]
